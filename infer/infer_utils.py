@@ -219,6 +219,7 @@ def run_model(samples, model, save_path):
                     raise ValueError(f"unsupported combination: {infer_strategy} + {rollout}")
 
             except Exception as e:
+                print("ОШИБКА")
                 print(e)
                 response = "response error"
                 success = False

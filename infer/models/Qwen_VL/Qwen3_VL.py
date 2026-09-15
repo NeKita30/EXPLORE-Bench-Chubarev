@@ -45,13 +45,13 @@ class Qwen3_VL:
             padding=True,
             return_tensors="pt",
         )
-        inputs = inputs.to("cuda")
+        inputs = inputs.to("mps")
 
         return inputs
 
     def generate_output(self, messages):
         inputs = self.process_messages(messages)
-        generated_ids = self.llm.generate(**inputs, do_sample=False, repetition_penalty=1, max_new_tokens=8192)
+        generated_ids = self.llm.generate(**inputs, do_sample=False, repetition_penalty=1, max_new_tokens=500)
         generated_ids_trimmed = [
             out_ids[len(in_ids) :] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
         ]
