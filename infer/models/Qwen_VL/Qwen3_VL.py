@@ -10,7 +10,7 @@ class Qwen3_VL:
             model_path,
             torch_dtype=torch.bfloat16,
             device_map={"": 0},                 
-            attn_implementation="flash_attention_2",
+            attn_implementation="sdpa",
             tp_plan=None,                      
         )
         self.processor = AutoProcessor.from_pretrained(model_path)
