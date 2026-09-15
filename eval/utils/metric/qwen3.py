@@ -4,7 +4,7 @@ from transformers import AutoTokenizer
 from utils.metric.utils import *
 
 class Qwen:
-    def __init__(self, model, device="cuda"):
+    def __init__(self, model, device="mps"):
 
         self.tokenizer = AutoTokenizer.from_pretrained(
             model,

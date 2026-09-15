@@ -1,11 +1,11 @@
 #!/bin/bash
 
 DATA_ROOT="../../EXPLORE-Dataset"
-LLM="Qwen/Qwen3-8B"          # path to llm scorer
-BERT="sentence-transformers/all-MiniLM-L6-v2"  # path to sbert
+LLM="../infer/Qwen/Qwen3-VL-2B-Instruct"          # path to llm scorer
+BERT="./all-MiniLM-L6-v2"  # path to sbert
 
-DESCRIPTION_FILE="../infer/infer_results/Qwen3-VL-8B-Instruct/single-step/Qwen3-VL-8B-Instruct.json"
-OUTPUT_DIR="./scene_eval_res/Qwen3-VL-8B-Instruct"
+DESCRIPTION_FILE="../infer/infer_results/Qwen3-VL-2B-Instruct/single-step/Qwen3-VL-2B-Instruct.json"
+OUTPUT_DIR="./scene_eval_res/Qwen3-VL-2B-Instruct"
 
 INFER_STRATEGY="single-step" # keep it consistent with inference
 ROLLOUT="single-rollout"     # keep it consistent with inference
@@ -14,28 +14,11 @@ SEGMENT_NUM=1                # keep it consistent with inference
 EVAL_MODE="single-scene"
 WHICH_SCENE="final"
 
-NUM_PROCESSES=8
-GPU_IDs="0,1,2,3,4,5,6,7"
+NUM_PROCESSES=1
 
-declare -a ANNOS=(
-  "../../EXPLORE-Dataset/anno_long_seq.json"
-  "../../EXPLORE-Dataset/anno_medium_seq.json"
-  "../../EXPLORE-Dataset/anno_short_seq.json"
-  "../../EXPLORE-Dataset/anno.json"
-)
+ANNO="../../EXPLORE-Dataset/test_anno.json"
 
-declare -a DATASET_TYPES=(
-  "long_seq"
-  "medium_seq"
-  "short_seq"
-  "full"
-)
-
-for i in "${!ANNOS[@]}"; do
-  ANNO="${ANNOS[$i]}"
-  DATASET_TYPE="${DATASET_TYPES[$i]}"
-
-  python eval.py \
+python eval.py \
     --data_root "$DATA_ROOT" \
     --anno "$ANNO" \
     --llm "$LLM" \
@@ -49,7 +32,4 @@ for i in "${!ANNOS[@]}"; do
     --segment_num $SEGMENT_NUM \
     --rollout "$ROLLOUT" \
     --which_scene "$WHICH_SCENE" \
-    --dataset_type "$DATASET_TYPE" \
     --num_processes $NUM_PROCESSES \
-    --gpu_ids "$GPU_IDs"
-done

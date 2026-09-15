@@ -224,8 +224,7 @@ def worker_process(rank, gpu_id, indices, args_dict):
     # 子进程内重建 args
     args = argparse.Namespace(**args_dict)
 
-    args.device = f"cuda:{gpu_id}"
-    torch.cuda.set_device(gpu_id)
+    args.device = f"mps"
 
     args.output_dir = os.path.join(args.output_dir, f"worker_{rank}")
     os.makedirs(args.output_dir, exist_ok=True)
