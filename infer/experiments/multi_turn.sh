@@ -1,10 +1,6 @@
 #!/bin/bash
 
-gpu_list="0,1,2,3,4,5,6,7"
-IFS=',' read -ra GPULIST <<< "$gpu_list"
-CHUNKS=${#GPULIST[@]}
-
-DATASET_PATH="../../../EXPLORE-Dataset"
+DATASET_PATH="../../EXPLORE-Dataset"
 ANNO_FILE="exp_anno.json"
 
 MODEL_NAME="qwen3-vl"
@@ -17,13 +13,14 @@ SEED=42
 
 SEG_START=11
 SEG_END=11
+IDX=0
+CHUNKS=1
 
 run_one_setting () {
   local SEGMENT_NUM=$1
-  echo "Running: infer_strategy=${INFER_STRATEGY}, segment_num=${SEGMENT_NUM}, rollout=${ROLLOUT}, chunks=${CHUNKS}"
+  echo "Running: infer_strategy=${INFER_STRATEGY}, segment_num=${SEGMENT_NUM}, rollout=${ROLLOUT}"
 
-  for IDX in $(seq 0 $((CHUNKS-1))); do
-    CUDA_VISIBLE_DEVICES=${GPULIST[$IDX]} python infer.py \
+    python infer.py \
       --dataset_path "$DATASET_PATH" \
       --anno_file "$ANNO_FILE" \
       --output_path "$OUTPUT_PATH" \
@@ -35,7 +32,6 @@ run_one_setting () {
       --num_chunks $CHUNKS \
       --chunk_idx $IDX \
       --seed $SEED &
-  done
   wait
 }
 

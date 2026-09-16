@@ -9,10 +9,9 @@ ENABLE_THINKING=0 # 1 or 0, only available if supported by the model
 MODEL_PATH="./Qwen/Qwen3-VL-2B-Instruct/"
 OUTPUT_PATH="./infer_results/Qwen3-VL-2B-Instruct"
 
-INFER_STRATEGY="single-step"
-WINDOW_SIZE=0
-SEGMENT_NUM=1
-ROLLOUT="single-rollout"
+INFER_STRATEGY="multi-step"
+ROLLOUT="multi-rollout"
+SEGMENT_NUM=11
 
 SEED=42
 CHUNKS=1
@@ -26,7 +25,6 @@ python infer.py \
     --enable_thinking $ENABLE_THINKING \
     --model_path "$MODEL_PATH" \
     --infer_strategy "$INFER_STRATEGY" \
-    --window_size $WINDOW_SIZE \
     --segment_num $SEGMENT_NUM \
     --rollout "$ROLLOUT" \
     --num_chunks $CHUNKS \
