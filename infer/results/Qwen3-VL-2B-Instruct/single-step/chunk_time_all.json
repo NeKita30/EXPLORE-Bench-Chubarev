@@ -1,0 +1,20 @@
+{
+  "num_chunks": 1,
+  "per_chunk_elapsed_seconds": {
+    "0": 778.1796381473541
+  },
+  "min_elapsed_seconds": 778.1796381473541,
+  "max_elapsed_seconds": 778.1796381473541,
+  "avg_elapsed_seconds": 778.1796381473541,
+  "sum_elapsed_seconds": 778.1796381473541,
+  "chunks": [
+    {
+      "chunk_idx": 0,
+      "num_chunks": 1,
+      "elapsed_seconds": 778.1796381473541,
+      "num_samples_in_chunk": 45,
+      "infer_strategy": "single-step",
+      "rollout": "single-rollout"
+    }
+  ]
+}
