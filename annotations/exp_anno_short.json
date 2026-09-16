@@ -1,0 +1,2441 @@
+[
+    {
+        "start_frame": "e8e49b5c-0176-47d4-8a3f-7d76cb44a0a0-start.jpg",
+        "atomic_actions": " C drops the tableware in a plate rack| C washes a tableware| C drops the tableware in the plate rack| C rinses a plate| C drops the plate in the plate rack| C takes a chop board from the sink| C rinses the chop board| C drops the chop board in the plate rack| C rinses the bowl| C drops the bowl in the plate rack| C rinses the bowl| C drops the bowl in the plate rack| C rinses the bowl| C drops the bowl in the plate rack| C rinses the sieve| C drops the sieve in the plate rack| C takes a bowl from the sink| C rinses the bowl| C drops the bowl on the plate rack| C rinses a tray| C closes the tap| C moves a can on the counter| C moves a bowl on the counter| C moves a wrap on the counter| C picks a towel from the counter| C wipes the tray with the towel| C drops the tray on the counter| C picks a rack from the sink| C opens the tap| C rinses the rack| C closes the tap| C puts the rack in the plate rack| C takes a chop board with a knife from the counter| C drops the chop board with knife in the sink| C takes a plate from the counter| C drops the plate in the sink| C opens the tap| C takes a bottle from the sink| C pours soap on a sponge| C drops the bottle on the sink| C washes the plate with the sponge| C opens the tap| C rinses the plate| C drops the plate in the sink| C takes the sponge from the sink| C rinses the sponge| C closes the tap| C takes the bottle from the sink| C pours soap on a sponge| C drops the bottle on the sink| C washes the plate with the sponge| C drops the plate in the sink| C washes the knife with the sponge| C drops the knife in the sink| C washes the chop hoard with the sponge| C opens the tap| C washes her hands| C rinses the chop board| C drops the chop board in the plate rack| C rinses the knife| C puts the knife in the plate rack| C rinses the plate| C closes the tap| C takes a dish towel by the sink| C wipes the plate with the dish towel",
+        "end_frame_info": [
+            {
+                "category": "bottle",
+                "description": "green glass bottle",
+                "relation": [
+                    "bottle on kitchen counter"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "white plastic bottle",
+                "relation": [
+                    "bottle on kitchen counter"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "large metallic bowl with a reflective surface",
+                "relation": [
+                    "bowl in dish rack",
+                    "bowl on kitchen counter"
+                ]
+            },
+            {
+                "category": "faucet",
+                "description": "chrome-finished faucet with a curved spout and lever handle, shiny and clean",
+                "relation": [
+                    "faucet on kitchen sink"
+                ]
+            },
+            {
+                "category": "kitchen counter",
+                "description": "white countertop, smooth surface",
+                "relation": [
+                    "kitchen counter under kitchen sink",
+                    "kitchen counter holding bottles and dishes"
+                ]
+            },
+            {
+                "category": "kitchen sink",
+                "description": "stainless steel sink, shiny surface",
+                "relation": [
+                    "kitchen sink on kitchen counter"
+                ]
+            },
+            {
+                "category": "sponge",
+                "description": "pink sponge with a textured surface",
+                "relation": [
+                    "sponge in kitchen sink"
+                ]
+            },
+            {
+                "category": "dish rack",
+                "description": "metallic dish rack with multiple slots, shiny and clean",
+                "relation": [
+                    "dish rack on kitchen counter",
+                    "dish rack next to kitchen sink"
+                ]
+            },
+            {
+                "category": "glass",
+                "description": "clear glass tumbler, empty",
+                "relation": [
+                    "glass on kitchen counter"
+                ]
+            },
+            {
+                "category": "glass",
+                "description": "clear wine glass, empty",
+                "relation": [
+                    "glass on kitchen counter"
+                ]
+            },
+            {
+                "category": "tray",
+                "description": "metallic rectangular tray, shiny and clean",
+                "relation": [
+                    "tray on kitchen counter"
+                ]
+            },
+            {
+                "category": "cloth",
+                "description": "yellow microfiber cloth, folded",
+                "relation": [
+                    "cloth on kitchen counter"
+                ]
+            },
+            {
+                "category": "bag",
+                "description": "transparent plastic bag, partially open",
+                "relation": [
+                    "bag on kitchen counter"
+                ]
+            },
+            {
+                "category": "scale",
+                "description": "black digital kitchen scale, rectangular, with a flat surface",
+                "relation": [
+                    "scale on kitchen counter"
+                ]
+            },
+            {
+                "category": "couch",
+                "description": "gray fabric couch",
+                "relation": [
+                    "couch next to kitchen counter"
+                ]
+            },
+            {
+                "category": "curtain",
+                "description": "white and gray striped curtain, partially drawn",
+                "relation": [
+                    "curtain behind couch"
+                ]
+            },
+            {
+                "category": "chair",
+                "description": "white modern chair with a high back",
+                "relation": [
+                    "chair next to kitchen counter"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "small white ceramic bowl",
+                "relation": [
+                    "bowl on kitchen counter"
+                ]
+            },
+            {
+                "category": "can",
+                "description": "silver aluminum can",
+                "relation": [
+                    "can on kitchen counter"
+                ]
+            },
+            {
+                "category": "sponge",
+                "description": "white sponge, being used to wash a black object",
+                "relation": [
+                    "sponge in hand",
+                    "sponge touching black object"
+                ]
+            },
+            {
+                "category": "object",
+                "description": "black plastic or silicone object, possibly a lid or container, being washed",
+                "relation": [
+                    "object in hand",
+                    "object being washed with sponge"
+                ]
+            },
+            {
+                "category": "soap dispenser",
+                "description": "white plastic soap dispenser with a green pump",
+                "relation": [
+                    "soap dispenser next to faucet",
+                    "soap dispenser on kitchen sink"
+                ]
+            },
+            {
+                "category": "plate",
+                "description": "white ceramic plate",
+                "relation": [
+                    "plate in dish rack",
+                    "plate on kitchen counter"
+                ]
+            },
+            {
+                "category": "utensil",
+                "description": "metal fork",
+                "relation": [
+                    "utensil in dish rack"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "561b1ac3-1480-446e-9e12-1df2b5abf014-start.jpg",
+        "atomic_actions": " C stirs the content of the pot with the chopsticks in his right hand| C drops the chopsticks on a sieve with his right hand| C shakes an ingredient with both hands| C picks a cooking spoon from a top cabinet with his left hand| C drops the ingredient on a tray with his right hand| C opens a tap with his right hand| C passes the cooking spoon to his right hand| C turns the cooking spoon in his right hand| C closes the tap with his left hand| C passes the cooking spoon to his left hand| C shakes his right hand| C passes the cooking spoon to his right hand| C shakes the cooking spoon in his right hand| C touches the cooking spoon with his left hand| C stirs the content of the pot with the cooking spoon in his right hand| C turns the cooker switch with his left hand| C shakes the cooking spoon in his right hand| C stirs the content of the pot with the cooking spoon in his right hand| C turns the cooker switch with his left hand| C picks the ingredient from the tray with his left hand| C stirs the content of the pot with the cooking spoon in his right hand| C drops the cooking spoon in his right hand into the cooking pot| C opens the ingredient with both hands| C picks the cooking spoon in the pot with his right hand| C pours the ingredient in his left hand into the cooking pot| C drops the cooking spoon in his right hand in the cooking pot| C passes the ingredient pack to his right hand| C touches a plastic bag in the kitchen zinc with his left hand| C puts the ingredient pack in his right hand into the plastic bag in the kitchen zinc| C turns the cooker switch with his right hand| C picks the chopsticks on the sieve with his right hand| C carries the sieve from the tray with his left hand| C picks the cooking spoon in the cooking pot with his right hand| C pours the pumpkin in the sieve into the cooking pot with his left hand. | C drops the sieve in his left hand on another sieve| C picks a dirt from the sieve with his left hand| C puts the dirt in his left hand into the plastic bag in the kitchen zinc| C picks the cooking spoon in the pot with his left hand| C stirs the content of the pot with the chopsticks in his right hand| C drops the cooking spoon in his left hand on the pot| C shakes the chop sticks in his right hand| C turns the cooker switch with his left hand| C drops the chopsticks on a sieve with his right hand| C opens the cabinet glass with his left hand| C picks an ingredient container from the cabinet with his right hand| C closes the cabinet glass with his left hand| C opens the ingredient container with his right hand| C pours the ingredient in his right hand into the pot| C opens the cabinet glass with his left hand| C drops the ingredient container into the cabinet with his right hand| C closes the cabinet glass with his left hand| C picks the cooking spoon in the pot with his right hand| C holds the handle of the pot with his left hand| C removes his left hand from the handle of the pot| C drops the cooking spoon in his right hand into the cooking pot| C opens the cabinet glass with his left hand| C brings out a container from the cabinet with his left hand| C brings out a basket from the cabinet with his right hand| C returns the container in his left hand into the cabinet| C passes the basket to his left hand| C picks a container from the basket with his right hand| C picks the lid of the container from the basket with his right hand| C drops the container in a basket on the the kitchen zinc| C passes the basket to his right hand| C brings out the container from the cabinet with his left hand| C returns the basket into the cabinet with his right hand| C returns the container in his left hand into the cabinet| C closes the cabinet glass with his left hand| C stirs the content of the pot with the cooking spoon in his right hand| C holds the handle of the pot with his left hand| C adjusts the pot on the cooker with his left hand| C removes his left hand from the handle of the pot| C drops the cooking spoon in his right hand into the cooking pot| C stirs the content of the pot with the cooking spoon in his right hand| C holds the handle of the pot with his left hand| C removes his left hand from the handle of the pot| C drops the cooking spoon in his right hand into the cooking pot| C raises his hands",
+        "end_frame_info": [
+            {
+                "category": "cabinet",
+                "description": "white rectangular cabinet with a smooth surface and visible screws",
+                "relation": [
+                    "cabinet above kitchen sink",
+                    "cabinet above stovetop"
+                ]
+            },
+            {
+                "category": "chopstick",
+                "description": "orange plastic chopstick, thin and straight",
+                "relation": [
+                    "chopstick on sieve"
+                ]
+            },
+            {
+                "category": "chopstick",
+                "description": "pink plastic chopstick, thin and straight",
+                "relation": [
+                    "chopstick on kitchen counter"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "white rectangular plastic container with a transparent lid",
+                "relation": [
+                    "container on kitchen counter"
+                ]
+            },
+            {
+                "category": "vegetable",
+                "description": "mixed vegetable stew",
+                "relation": [
+                    "content in frying pan"
+                ]
+            },
+            {
+                "category": "cooker",
+                "description": "white cylindrical rice cooker with a smooth plastic surface",
+                "relation": [
+                    "cooker on kitchen counter"
+                ]
+            },
+            {
+                "category": "drain",
+                "description": "black circular sink drain with a grid pattern",
+                "relation": [
+                    "drain in kitchen sink"
+                ]
+            },
+            {
+                "category": "exhaust hood",
+                "description": "white rectangular exhaust hood with a smooth surface and visible screws",
+                "relation": [
+                    "exhaust hood above stovetop",
+                    "exhaust hood above kitchen sink"
+                ]
+            },
+            {
+                "category": "frying pan",
+                "description": "black frying pan with a black handle, containing a simmering vegetable stew",
+                "relation": [
+                    "frying pan on stovetop"
+                ]
+            },
+            {
+                "category": "ingredient",
+                "description": "mixed vegetables including zucchini and onions",
+                "relation": [
+                    "ingredient in frying pan"
+                ]
+            },
+            {
+                "category": "kitchen counter",
+                "description": "stainless steel kitchen counter with integrated sink and stovetop",
+                "relation": [
+                    "kitchen counter under exhaust hood",
+                    "kitchen counter next to rice cooker"
+                ]
+            },
+            {
+                "category": "kitchen sink",
+                "description": "stainless steel sink with a single basin, featuring a black drain and a faucet",
+                "relation": [
+                    "kitchen sink next to stovetop",
+                    "kitchen sink under exhaust hood"
+                ]
+            },
+            {
+                "category": "ladle",
+                "description": "metal ladle with a white handle",
+                "relation": [
+                    "spoon in frying pan"
+                ]
+            },
+            {
+                "category": "sieve",
+                "description": "light green plastic colander with a handle, featuring a perforated surface",
+                "relation": [
+                    "sieve on cutting board",
+                    "sieve next to frying pan"
+                ]
+            },
+            {
+                "category": "cutting board",
+                "description": "blue and white striped rectangular plastic cutting board",
+                "relation": [
+                    "cutting board under sieve",
+                    "cutting board next to frying pan"
+                ]
+            },
+            {
+                "category": "faucet",
+                "description": "chrome metal faucet with a single handle",
+                "relation": [
+                    "faucet on kitchen sink"
+                ]
+            },
+            {
+                "category": "soap dispenser",
+                "description": "blue and white plastic soap dispenser with a pump top, labeled 'Laurier'",
+                "relation": [
+                    "soap dispenser on kitchen sink"
+                ]
+            },
+            {
+                "category": "bag",
+                "description": "green plastic bag filled",
+                "relation": [
+                    "bag in kitchen sink"
+                ]
+            },
+            {
+                "category": "stovetop",
+                "description": "stainless steel stovetop with a single burner",
+                "relation": [
+                    "stovetop next to kitchen sink",
+                    "stovetop under exhaust hood"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "38e3a348-48b4-4a9d-8b40-1b07a124b628-start.jpg",
+        "atomic_actions": " C holds a plank of wood with his right hand| C places the plank of wood on the wood splitting machine| C turns the plank of wood in his hands| C turns the plank of wood in his hands| C splits the plank of wood with the wood splitting machine| C removes his right hand from the plank of wood| C picks up a piece of wood beside the wood splitting machine| C removes his right hand from the plank of wood| C drops the piece of wood on his right hand beside the wood splitting machine| C places his right hand on the plank of wood| C adjusts his right hand on the plank of wood| C adjusts his right hand on the plank of wood| C picks up the plank of wood with both hands| C drops the plank of wood| C picks another plank of wood with his left hand| C places the plank of wood on the wood splitting machine| C places his right hand on the plank of wood| C adjusts his right hand on the plank of wood| C adjusts his right hand on the plank of wood| C splits the plank of wood with the wood splitting machine| C removes his right hand from the plank of wood| C picks up a piece of wood on the wood splitting machine| C puts the piece of wood between the plank of wood| C splits the plank of wood| C adjusts his right hand on the plank of wood| C picks up the plank of wood with his right hand| C drops the plank of wood beside the wood splitting machine| C picks up a plank of wood on the wood splitting machine with his left hand| C splits the plank of wood with the wood splitting machine| C adjusts his right hand on the plank of wood| C adjusts his right hand on the plank of wood| C adjusts his right hand on the plank of wood| C adjusts his right hand on the plank of wood| C adjusts his left hand on the plank of wood| C holds the planks of wood with both hands| C drops the plank of wood on his right hand| C holds a plank of wood with his right hand| C sets the plank of wood on the wood splitting machine with his right hand| C splits the plank of wood with the wood splitting machine| C adjusts his right hand on the plank of wood| C adjusts his right hand on the plank of wood| C adjusts his right hand on the plank of wood| C adjusts his right hand on the plank of wood| C picks up the plank of wood with his right hand| C drops the plank of wood on his right hand beside the wood splitting machine| C picks up a piece of wood from the wood splitting machine| C picks up another plank of wood with his left hand| C turns the plank of wood in his hands| C places the plank of wood on the wood cutting machine| C sets his right hand on the plank of wood| C splits the plank of wood| C adjusts his right hand on the plank of wood| C adjusts his right hand on the plank of wood| C holds the planks of wood with both hands| C drops the planks of wood on his right hand| C re-positions planks of wood with his right hand| C holds a plank of wood with his right hand| C turns the plank of wood in his hands| C touches the plank with his right hand.| C moves the plank slightly on the woodworking machine.| C moves away from one of the planks.| C raises the two planks.| C places the second plank on the other side of the woodworking machine.| C gradually moves the first plank with his left hand.| C raises the first plank.| C puts down the first plank.| C touches the first plank with his right hand.| C moves the first plank slightly on the wood working machine.| C gradually moves the first plank with his left hand from behind.| C removes his left hand from the plank.| C holds the first plank with his right hand.| C raises the first plank.| C places the first plank on top of other planks.| C turns around.",
+        "end_frame_info": [
+            {
+                "category": "hammer",
+                "description": "black metal hammer with flat head and claw",
+                "relation": [
+                    "hammer on table saw",
+                    "hammer next to blade slot"
+                ]
+            },
+            {
+                "category": "plank",
+                "description": "long light-brown wooden plank with visible grain, resting diagonally",
+                "relation": [
+                    "plank on table saw",
+                    "plank next to blade slot"
+                ]
+            },
+            {
+                "category": "table saw",
+                "description": "large industrial table saw with metal surface, central blade slot",
+                "relation": [
+                    "table saw under plank",
+                    "table saw next to workbench",
+                    "table saw in workshop"
+                ]
+            },
+            {
+                "category": "workbench",
+                "description": "metal workbench with gray surface",
+                "relation": [
+                    "workbench next to table saw",
+                    "workbench under tape measure",
+                    "workbench in workshop"
+                ]
+            },
+            {
+                "category": "tape measure",
+                "description": "yellow and black tape measure with metal hook",
+                "relation": [
+                    "tape measure on workbench"
+                ]
+            },
+            {
+                "category": "sawdust",
+                "description": "fine light-colored wood particles",
+                "relation": [
+                    "sawdust on table saw",
+                    "sawdust next to hammer"
+                ]
+            },
+            {
+                "category": "clamp",
+                "description": "red and black metal clamp",
+                "relation": [
+                    "clamp on table saw",
+                    "clamp next to blade slot"
+                ]
+            },
+            {
+                "category": "floor",
+                "description": "light brown tiled floor with reflective surface",
+                "relation": [
+                    "floor under table saw",
+                    "floor in workshop"
+                ]
+            },
+            {
+                "category": "bucket",
+                "description": "white plastic bucket with blue rim",
+                "relation": [
+                    "bucket next to table saw",
+                    "bucket in workshop"
+                ]
+            },
+            {
+                "category": "chair",
+                "description": "black office chair with wheels",
+                "relation": [
+                    "chair next to doorway",
+                    "chair in workshop"
+                ]
+            },
+            {
+                "category": "doorway",
+                "description": "open doorway with dark frame",
+                "relation": [
+                    "doorway in background",
+                    "doorway next to chair"
+                ]
+            },
+            {
+                "category": "paper",
+                "description": "white sheet of paper with printed text",
+                "relation": [
+                    "paper on workbench"
+                ]
+            },
+            {
+                "category": "workshop",
+                "description": "industrial workshop",
+                "relation": [
+                    "workshop contains table saw",
+                    "workshop contains workbench",
+                    "workshop contains tools"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "1953891d-6925-44b7-893c-27e1fa3c3696-start.jpg",
+        "atomic_actions": " C mounts the tire to the rim with the tire changer| C holds the tire with his left hand.| C drops the tire changer on the counter with his right hand.| C presses the tire changer with both hands.| C picks the tire changer on the counter with his right hand.| C mounts the tire to the rim with the tire changer| C drops the tire changer on the counter with his right hand.| C presses the tire changer with both hands.| C picks the tire changer on the counter with his right hand.| C mounts the tire to the rim with the tire changer| C holds the tire with his left hand.| C mounts the tire to the rim with the tire changer| C holds the tire with his left hand.| C months the tire to the rim with the tire changer| C drops the tire changer on the counter with his right hand.| C presses the tire changer with both hands.| C cleans his face with right hand.| C picks a claw bar on the table with his right hand.| C mounts the tire to the rim with the claw bar.| C spins the tire with his left hand.| C mounts the tire to the rim with the claw bar.| C presses the tire changer with both hands.| C spins the tire with his right hand.| C picks a claw bar on the table with his right hand.| C mounts the tire to the rim with the claw bar.| C presses the tire changer with both hands.| C mounts the tire to the rim with the claw bar.| C drops the claw bar on the table.| C removes the claw bar from the wheel.| C drops the claw bar on the table.| C presses the tire changer with both hands.| C turns the clamp handle with his left hand.| C removes a particle from the tire with his right hand.| C holds the tire with his right hand.| C turns the clamp handle with his left hand.| C removes the wheel from the clamp.| C removes the wheel support from the clamp.| C hangs the wheel support on the wall rack.| C places the wheel on the counter.| C removes the wheel valve with his left hand.| C moves a tool box on the table with his left hand.| C picks a bottle on the table with his left hand.| C drops the bottle in the tool box with his left hand.| C moves the tool box on the table with his right hand.| C picks the tire changer on the table with his left hand.| C hangs the tire changer on the wall rack.| C picks a face mask on the counter with his left hand.| C moves the tire changer on the wall rack.| C hangs the face mask on the wall rack.| C hangs the tire changer on the wall rack.| C picks a face mask on the counter with his left hand.| C hangs the face mask on the wall rack.| C carries the tool box with his left hand.| C drops the tool box in a cabinet under the counter with his left hand.| C removes a gas pump from a rack with both hands.| C moves a rod under the counter with his right hand.| C picks a plier on the table with his right hand.| C opens the wheel valve with the plier.| C drops the plier on the table with his right hand.| C turns the wheel valve with his right hand.| C opens the wheel valve with the plier.| C attaches the gas pump to the wheel valve.| C drops the gas pump on the counter.| C picks a pen on the counter with his right hand.| C holds the tire with his left hand.| C picks the wheel valve with the pen.| C drops a spanner on the work bench.| C picks a filler. | C drops the filler on the work bench.| C walks to a drawer.| C pulls the drawer| C picks a cup of screws.| C dips his hand in the cup.| C pours the screws in his right hand.| C picks a screw.| C pours the screws into the cup.",
+        "end_frame_info": [
+            {
+                "category": "bicycle",
+                "description": "black bicycle frame with visible handlebars and front wheel",
+                "relation": [
+                    "bicycle on floor",
+                    "bicycle near person"
+                ]
+            },
+            {
+                "category": "bicycle",
+                "description": "blue-framed bicycle with thin tires and visible rear wheel, metallic frame",
+                "relation": [
+                    "bicycle near window",
+                    "bicycle next to cabinet"
+                ]
+            },
+            {
+                "category": "box",
+                "description": "green rectangular box with white label showing number \"143\", appears to be made of cardboard or plastic",
+                "relation": [
+                    "box on cabinet"
+                ]
+            },
+            {
+                "category": "cabinet",
+                "description": "metal shelving unit with multiple compartments, gray color",
+                "relation": [
+                    "cabinet against wall",
+                    "cabinet next to window"
+                ]
+            },
+            {
+                "category": "floor",
+                "description": "orange-brown tiled floor with square tiles, smooth surface",
+                "relation": [
+                    "floor under person",
+                    "floor under bicycle",
+                    "floor under cabinet"
+                ]
+            },
+            {
+                "category": "person",
+                "description": "person wearing a black t-shirt with white text and graphics",
+                "relation": [
+                    "person standing on floor",
+                    "person holding small metallic object"
+                ]
+            },
+            {
+                "category": "object",
+                "description": "small shiny metallic object, possibly a bolt or valve, cylindrical with flat ends",
+                "relation": [
+                    "small metallic object in person's hands"
+                ]
+            },
+            {
+                "category": "step stool",
+                "description": "foldable metal step stool with white painted surface, showing signs of wear and rust, partially open",
+                "relation": [
+                    "step stool on floor",
+                    "step stool next to person"
+                ]
+            },
+            {
+                "category": "window",
+                "description": "white-framed window with metal security bars, partially open",
+                "relation": [
+                    "window in wall",
+                    "window above bicycle"
+                ]
+            },
+            {
+                "category": "wall",
+                "description": "light-colored wall with visible wear and dirt, smooth surface",
+                "relation": [
+                    "wall behind cabinet",
+                    "wall behind window"
+                ]
+            },
+            {
+                "category": "wheel",
+                "description": "black bicycle wheel with visible spokes and tire, metallic rim",
+                "relation": [
+                    "wheel part of bicycle",
+                    "wheel next to cabinet"
+                ]
+            },
+            {
+                "category": "tool shelf",
+                "description": "metal shelving unit with multiple levels, gray color",
+                "relation": [
+                    "tool shelf against wall",
+                    "tool shelf next to window"
+                ]
+            },
+            {
+                "category": "tire",
+                "description": "black rubber tire with visible tread, round and thick",
+                "relation": [
+                    "tire part of bicycle",
+                    "tire on floor"
+                ]
+            },
+            {
+                "category": "clamp",
+                "description": "black clamp with metallic parts",
+                "relation": [
+                    "clamp on bicycle",
+                    "clamp near person"
+                ]
+            },
+            {
+                "category": "drawer",
+                "description": "blue and white rectangular drawer or container with visible wear, possibly plastic or metal",
+                "relation": [
+                    "drawer on tool shelf"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "orange plastic container with lid, rectangular shape",
+                "relation": [
+                    "container on tool shelf"
+                ]
+            },
+            {
+                "category": "door frame",
+                "description": "wooden door frame with dark brown finish",
+                "relation": [
+                    "door frame next to bicycle",
+                    "door frame behind cabinet"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "3b39f621-2fae-4783-9da1-dff81688b0fd-start.jpg",
+        "atomic_actions": " C puts down the tape| C takes a used tape| C disposes used tape| C looks around| C walks around| C looks at the cable connection| C walks around| C holds a grinder machine| C withholds the grinder machine| C walks around| C adjusts the sockets| C removes the cable| C fixes back the cable| C walks back| C takes a grinder machine| C puts down a grinder machine| C walks around| C takes a grinder machine from the ground| C puts down a grinder machine| C walks around| C looks around| C walks around| C takes a polythene bag| C walks around| C wears the polythene bag| C wears the glove| C walks around| C takes off the glove| C walks around| C adjusts wire connection| C walks around| C wears the glove| C takes a grinder machine| C looks at the machine| C turns on grinder machine| C smoothens the metal| C switches off a grinder machine| C walks around| C puts down a grinder machine| C looks around| C walks around| C looks at the metal| C walks around| C looks at the metal| C walks around| C adjusts the camera",
+        "end_frame_info": [
+            {
+                "category": "barrel",
+                "description": "blue cylindrical plastic barrel, partially filled",
+                "relation": [
+                    "barrel on pallet"
+                ]
+            },
+            {
+                "category": "cable",
+                "description": "long thin green cable, flexible and coiled",
+                "relation": [
+                    "cable on floor"
+                ]
+            },
+            {
+                "category": "cable",
+                "description": "long thin black cable, flexible",
+                "relation": [
+                    "cable on floor"
+                ]
+            },
+            {
+                "category": "cable",
+                "description": "long thin red cable, flexible",
+                "relation": [
+                    "cable on floor"
+                ]
+            },
+            {
+                "category": "floor",
+                "description": "large flat concrete floor, light gray in color",
+                "relation": []
+            },
+            {
+                "category": "glove",
+                "description": "blue rubber glove, slightly crumpled, showing signs of use",
+                "relation": [
+                    "glove on person"
+                ]
+            },
+            {
+                "category": "grinder",
+                "description": "orange and black handheld power grinder",
+                "relation": [
+                    "grinder on pallet"
+                ]
+            },
+            {
+                "category": "metal",
+                "description": "metallic cylindrical pipes, bundled together",
+                "relation": [
+                    "metal on pallet"
+                ]
+            },
+            {
+                "category": "person",
+                "description": "person wearing black plastic coveralls and blue gloves",
+                "relation": [
+                    "person wearing glove",
+                    "person standing on floor",
+                    "person holding black plastic sheet"
+                ]
+            },
+            {
+                "category": "polythene",
+                "description": "white polythene bags, crumpled and stacked",
+                "relation": [
+                    "polythene on pallet"
+                ]
+            },
+            {
+                "category": "polythene",
+                "description": "black crinkled plastic sheet, large",
+                "relation": [
+                    "polythene on person"
+                ]
+            },
+            {
+                "category": "bucket",
+                "description": "blue plastic bucket, cylindrical shape",
+                "relation": [
+                    "bucket on pallet"
+                ]
+            },
+            {
+                "category": "drain",
+                "description": "metallic floor drain grate, rectangular shape",
+                "relation": [
+                    "drain on floor"
+                ]
+            },
+            {
+                "category": "pallet",
+                "description": "wooden pallet, rectangular, weathered",
+                "relation": [
+                    "pallet on floor"
+                ]
+            },
+            {
+                "category": "shoe",
+                "description": "black athletic shoe with white sole",
+                "relation": [
+                    "shoe on floor",
+                    "shoe on person"
+                ]
+            },
+            {
+                "category": "tool",
+                "description": "black and gray power tool, possibly a drill or sander",
+                "relation": [
+                    "tool on pallet"
+                ]
+            },
+            {
+                "category": "cord",
+                "description": "black electrical cord, tangled and coiled",
+                "relation": [
+                    "cord on pallet"
+                ]
+            },
+            {
+                "category": "wall",
+                "description": "light beige wooden wall panel, smooth surface",
+                "relation": [
+                    "wall next to floor"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "iiith_cooking_112_4-start.jpg",
+        "atomic_actions": "C places the boiling pan on the countertop with her right hand.|C turns the stovetop knob with her left hand.|C picks the gas lighter from the countertop with her right hand.|C holds the stovetop edge with her left hand.|C places the gas lighter on the countertop with her right hand.|C turns the stovetop knob with her right hand.|C picks the gas lighter from the countertop with her right hand.|C turns the stovetop knob with her left hand.|C ignites the stovetop with the gas lighter in her right hand.|C turns the stovetop knob with her left hand.|C places the gas lighter on the countertop with her right hand.|C picks the boiling pan from the countertop with her right hand.|C places the boiling pan on the stovetop with her right hand.|C opens the plate on the bowl with her left hand.|C picks the bowl from the countertop with her right hand.|C places the plate on the countertop with her left hand.|C adds milk into the boiling pan on the stovetop with her right hand.|C places the bowl on the countertop with her right hand.|C picks the plate from the countertop with her left hand.|C places the plate on the bowl with her left hand.|C opens the cabinet door with her left hand.|C opens the cabinet door with her right hand.|C closes the cabinet door with her left hand.|C picks the tea powder container from the cabinet with her left hand.|C opens the tea powder container lid with her right hand.|C passes the tea powder container lid from her right hand to her left hand.|C picks the spoon in the tea powder container with her right hand.|C adds a spoon of tea powder into the milk in the boiling pan with her right hand.|C places the spoon into the tea powder container with her right hand.|C passes the tea powder container lid from her left hand to her right hand.|C closes the tea powder container with the lid in her right hand.|C opens the cabinet door with her right hand.|C places the tea powder container in the cabinet with her left hand.|C picks the sugar container from the cabinet with her right hand.|C closes the cabinet door with her right hand.|C opens the sugar container lid with her right hand.|C passes the sugar container lid from her right hand to her left hand.|C adds sugar into the tea in the boiling pan with her right hand.|C passes the sugar container lid from her left hand to her right hand.|C closes the sugar container with the lid in her right hand.|C opens the cabinet door with her right hand.|C places the sugar container in the cabinet with her left hand.|C closes the cabinet door with her right hand.|C opens the cabinet with her right hand.|C holds the cabinet with her left hand.|C touches the strainer in the cabinet with her right hand.|C picks the strainer from the cabinet with her right hand.|C closes the cabinet with her left hand.|C passes the strainer from her right hand to her left hand.|C opens the cabinet with her right hand.|C holds the cabinet with her left hand.|C picks a cup from the cabinet with her right hand.|C closes the cabinet with her left hand.|C places the cup on the countertop with her right hand.|C touches the knob with her right hand.|C touches the gas lighter on the countertop with her right hand.|C picks a napkin from the countertop with her right hand.|C turns the stovetop knob with her left hand.|C holds the boiling pan with the napkin in her right hand.|C turns off the stovetop knob with her left hand.|C lifts the boiling pan from the stovetop with the napkin in her right hand.|C places the boiling pan on the countertop with her right hand.|C lifts the boiling pan from the countertop with the napkin in her right hand.|C places the strainer on the cup on the countertop with her left hand.|C strains the tea in the boiling pan into the cup with her right hand.|C places the boiling pan on the countertop with her right hand.|C lifts the boiling pan from the countertop with the napkin in her right hand.|C strains the tea in the boiling pan into the cup with her right hand.|C takes the strainer from the cup with her left hand.|C places the boiling pan on the countertop with the napkin in her right hand.|C places the strainer in the boiling pan with her left hand.|C places the napkin on the countertop with her right hand.|C holds the cup on the countertop with her left hand.",
+        "end_frame_info": [
+            {
+                "category": "bowl",
+                "description": "small round turquoise bowl with a smooth, glossy surface, likely plastic or ceramic",
+                "relation": [
+                    "bowl on countertop",
+                    "spoon in bowl"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "small round white bowl with a smooth, glossy surface, likely ceramic",
+                "relation": [
+                    "bowl on countertop"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "small cylindrical metal container with a textured surface and a lid, possibly for spices or tea",
+                "relation": [
+                    "container on countertop",
+                    "container next to stove"
+                ]
+            },
+            {
+                "category": "countertop",
+                "description": "dark speckled countertop with a smooth, polished surface, likely granite or laminate",
+                "relation": [
+                    "countertop under stove",
+                    "countertop under bowls",
+                    "countertop under cup",
+                    "countertop under tools"
+                ]
+            },
+            {
+                "category": "cup",
+                "description": "small yellow ceramic cup with a blue handle, glossy surface",
+                "relation": [
+                    "cup on countertop",
+                    "cup held by person",
+                    "tea in cup"
+                ]
+            },
+            {
+                "category": "edge",
+                "description": "metallic edge with a smooth, reflective surface",
+                "relation": [
+                    "edge on stove"
+                ]
+            },
+            {
+                "category": "gas",
+                "description": "metallic gas burner with a circular grate, smooth and reflective surface",
+                "relation": [
+                    "gas on stove"
+                ]
+            },
+            {
+                "category": "kitchen",
+                "description": "kitchen",
+                "relation": [
+                    "kitchen contains stove",
+                    "kitchen contains countertop",
+                    "kitchen has window"
+                ]
+            },
+            {
+                "category": "knob",
+                "description": "small round black plastic knob with a matte surface",
+                "relation": [
+                    "knob on stove"
+                ]
+            },
+            {
+                "category": "milk",
+                "description": "white liquid, smooth surface, likely milk",
+                "relation": [
+                    "milk in cup"
+                ]
+            },
+            {
+                "category": "omelet",
+                "description": "flat, round, golden-brown omelet, slightly textured surface",
+                "relation": [
+                    "omelet on stove"
+                ]
+            },
+            {
+                "category": "pan",
+                "description": "metallic pan with a smooth, reflective surface, round shape",
+                "relation": [
+                    "pan on countertop"
+                ]
+            },
+            {
+                "category": "plate",
+                "description": "small round white plate with a smooth, glossy surface, likely ceramic",
+                "relation": [
+                    "plate on countertop"
+                ]
+            },
+            {
+                "category": "powder",
+                "description": "white powdery substance, fine texture, likely sugar or flour",
+                "relation": [
+                    "powder in cup"
+                ]
+            },
+            {
+                "category": "screwdriver",
+                "description": "metallic screwdriver with a flat head, smooth and reflective surface",
+                "relation": [
+                    "screwdriver on countertop"
+                ]
+            },
+            {
+                "category": "spoon",
+                "description": "metallic spoon with a smooth, reflective surface, slightly curved bowl",
+                "relation": [
+                    "spoon in bowl"
+                ]
+            },
+            {
+                "category": "stove",
+                "description": "stainless steel two-burner gas stove with black knobs and circular burners",
+                "relation": [
+                    "stove on countertop",
+                    "stove under window"
+                ]
+            },
+            {
+                "category": "strainer",
+                "description": "metallic strainer with a smooth, reflective surface, round shape with handle",
+                "relation": [
+                    "strainer on countertop",
+                    "strainer next to pan"
+                ]
+            },
+            {
+                "category": "sugar",
+                "description": "white granular substance, fine texture, likely sugar",
+                "relation": [
+                    "sugar in cup"
+                ]
+            },
+            {
+                "category": "tea",
+                "description": "amber-colored liquid, smooth surface, likely tea",
+                "relation": [
+                    "tea in cup"
+                ]
+            },
+            {
+                "category": "tool",
+                "description": "metallic tool with a smooth, reflective surface, likely a screwdriver",
+                "relation": [
+                    "tool on countertop"
+                ]
+            },
+            {
+                "category": "tool",
+                "description": "metallic tool with a smooth, reflective surface, likely a hammer or mallet",
+                "relation": [
+                    "tool on countertop"
+                ]
+            },
+            {
+                "category": "person",
+                "description": "person's hands and forearms visible",
+                "relation": [
+                    "person holding cup",
+                    "person in front of countertop"
+                ]
+            },
+            {
+                "category": "window",
+                "description": "white-framed window with horizontal metal bars",
+                "relation": [
+                    "window above stove",
+                    "window in kitchen"
+                ]
+            },
+            {
+                "category": "cloth",
+                "description": "blue and white striped cloth, possibly a kitchen towel",
+                "relation": [
+                    "cloth on countertop",
+                    "cloth next to stove"
+                ]
+            },
+            {
+                "category": "egg",
+                "description": "small orange plastic egg-shaped object, possibly a toy or container",
+                "relation": [
+                    "egg in hand",
+                    "egg next to cup"
+                ]
+            },
+            {
+                "category": "tile",
+                "description": "square wall tile with multicolored pattern",
+                "relation": [
+                    "tile on wall",
+                    "tile behind stove"
+                ]
+            },
+            {
+                "category": "sink",
+                "description": "blue plastic sink basin",
+                "relation": [
+                    "sink in countertop",
+                    "sink next to person"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "7ba3a8ad-029d-4c2a-9765-ad19b824c85a-start.jpg",
+        "atomic_actions": " c puts the pilers down on the floor| c throws aside the cut plywood| c puts the plywood on the floor| c picks up plywood| c puts the plywood on the floor| c removes the plywood from the floor| c removes the plywood from the floor| c picks plywood from the floor| c puts the plywood together| c puts the cut plywood on the floor| c puts the plywood over the wall| c picks plywood from the floor| c picks up a pliers| c puts the plywood down on the floor| c puts the cut plywood on top of the other plywood| c marks the plywood on the floor| c puts the plywood aside| c picks up the pliers| c pushes the plywood slightly| c cuts the plywood| c puts the pliers down| c throws aside the cut plywood| c puts the plywood on the floor| c removes the plywood from the floor| c picks up the pliers from the floor| c puts the plywood on the floor| c picks up the plywood lying on the wall| c puts the plywood on the floor| c picks up the plywood from the floor| c removes #Unsure from the floor| c puts the plywood on the floor| c picks up plywood from the floor| c puts the plywood on the floor| c moves the plywood on the floor slightly| c picks up plywood from the floor| c puts the plywood on the floor| c picks tissue from the floor| c picks up | c pours  into the tissue| c wipes the floor with a tissue| c puts  aside| c puts the tissue aside| c picks plywood from the floor| c puts the plywood on the floor| c pulls a tool with the pliers| c picks up plywood from the floor| c puts the plywood on the floor| c puts a mark on the plywood with a pencil| c picks a ruler from the floor| c picks up the plywood| c picks up pliers| c cuts the plywood with a pliers| c puts the pliers down| c throws the plywood aside| c puts the plywood down| c puts a mark on the plywood",
+        "end_frame_info": [
+            {
+                "category": "ceiling",
+                "description": "white ceiling with a dark patterned border, showing some texture",
+                "relation": [
+                    "ceiling above person",
+                    "ceiling above wood floor"
+                ]
+            },
+            {
+                "category": "mark",
+                "description": "thin blue line drawn",
+                "relation": [
+                    "mark on plywood"
+                ]
+            },
+            {
+                "category": "pencil",
+                "description": "yellow wooden pencil with a sharpened graphite tip",
+                "relation": [
+                    "pencil held by person",
+                    "pencil over plywood"
+                ]
+            },
+            {
+                "category": "person",
+                "description": "person wearing orange short-sleeve shirt and blue pants, kneeling",
+                "relation": [
+                    "person holding pencil",
+                    "person holding wood plank",
+                    "person kneeling on wood floor",
+                    "person next to plywood"
+                ]
+            },
+            {
+                "category": "wood plank",
+                "description": "dark brown wood-look plank with visible grain texture, rectangular and flat",
+                "relation": [
+                    "wood plank held by person",
+                    "wood plank over plywood",
+                    "wood plank next to installed wood floor"
+                ]
+            },
+            {
+                "category": "plywood",
+                "description": "large rectangular sheet of light brown plywood with rough texture",
+                "relation": [
+                    "plywood next to wood floor",
+                    "plywood under wood plank",
+                    "plywood with blue mark"
+                ]
+            },
+            {
+                "category": "floor",
+                "description": "dark brown wood-look flooring planks with visible grain patterns, partially installed",
+                "relation": [
+                    "floor under person",
+                    "floor next to plywood",
+                    "floor under ceiling"
+                ]
+            },
+            {
+                "category": "wall",
+                "description": "white wall with a textured surface and a dark patterned border at the top edge",
+                "relation": [
+                    "wall behind person",
+                    "wall above wood floor"
+                ]
+            },
+            {
+                "category": "cloth",
+                "description": "crumpled white cloth or paper towel, soft and slightly wrinkled",
+                "relation": [
+                    "cloth on wood floor",
+                    "cloth next to blue container"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "blue plastic container with a green and white label, rectangular",
+                "relation": [
+                    "container on wood floor",
+                    "container next to cloth"
+                ]
+            },
+            {
+                "category": "cable",
+                "description": "black electrical cable, thin and flexible",
+                "relation": [
+                    "cable on plywood",
+                    "cable near white shelf"
+                ]
+            },
+            {
+                "category": "shelf",
+                "description": "white plastic or painted wooden shelf unit, with open compartments",
+                "relation": [
+                    "shelf next to plywood",
+                    "shelf above cable"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "iiith_cooking_41_1-start.jpg",
+        "atomic_actions": "C places the pot on the gas burner.|C turns on the gas burner using the gas knob with her right hand.|C moves the milk bowl with her right hand.|C opens the milk bowl cover with her right hand.|C picks up the milk bowl with her left hand.|C places the milk bowl cover on the countertop.|C transfers the milk bowl to her right hand.|C pours milk into the pot.|C places the milk bowl on the countertop.|C picks up the steel cup from the bottom shelf with her right hand.|C places the steel cup under the tap.|C turns on the tap with her left hand.|C turns off the tap with her left hand.|C pours water into the pot.|C places the steel cup on the countertop.|C shifts the orange bowl with her right hand.|C shifts the mortar with her left hand.|C picks up the tea leaves container with her right hand.|C transfers the tea leaves container to her left hand.|C opens the tea leaves container cover with her right hand.|C picks up the spoon in the tea leaves container with her right hand.|C scoops up tea leaves from the tea leaves container.|C pours tea leaves into the pot.|C puts the spoon in the tea leaves container.|C regulates the gas burner heat using the gas knob with her right hand.|C closes the tea leaves container cover with her right hand.|C places the tea leaves container on the countertop.|C picks up the sugar container with her right hand.|C transfers the sugar container to her left hand.|C opens the sugar container cover with her right hand|C picks up the spoon in the sugar container with her right hand.|C scoops up sugar from the sugar container.|C pours sugar into the pot.|C scoops up sugar from the sugar container.|C pours sugar into the pot.|C closes the sugar container cover with her right hand.|C places the sugar container on the top shelf.|C picks up the tea leaves container with her right hand.|C places the tea leaves container on the top shelf.|C regulates the gas burner heat using the gas knob with her right hand.|C picks up the pot clamp from the countertop with her left hand.|C transfers the pot clamp to her right hand.|C places the pot clamp on the countertop.|C picks up the blue cup from the top shelf with her right hand.|C picks up the orange cup from the top shelf with her right hand.|C places the blue cup on the countertop.|C transfers the orange cup to her left hand.|C places the orange cup on the countertop.|C picks up the mesh sieve from the basket with her right hand.|C transfers the mesh sieve to her left hand.|C shifts the empty milk bowl on the countertop with her right hand.|C shifts the milk bowl on the countertop with her right hand.|C picks up the pot clamp with her right hand.|C places the mesh sieve on the countertop.|C regulates the gas burner heat using the gas knob with her left hand.|C transfers the pot clamp with her left hand.|C shifts the rag cloth on the counter with her right.|C transfer the pot clamp to her right hand.|C regulates the gas burner heat using the gas knob with her left hand.|C regulates the gas burner heat using the gas knob with her right hand.|C stirs the pot using the pot clamp.|C places the pot on the gas burner.|C stirs the pot using the pot clamp.|C places the pot on the gas burner.|C places the pot on the gas burner.|C stirs the pot using the pot clamp.|C places the pot on the gas burner.|C stirs the pot using the pot clamp.|C places the pot on the gas burner.|C stirs the pot using the pot clamp.|C places the pot on the gas burner.|C stirs the pot using the pot clamp.|C places the pot on the gas burner.|C stirs the pot using the pot clamp.|C places the pot on the gas burner.|C grabs the pot with the pot clamp.|C turns off the gas burner using the gas knob with her left hand.|C picks up the pot with the pot clamp.|C picks up the mesh sieve with her left hand.|C places the mesh sieve over over the blue cup.|C strains the milk tea into the blue cup.|C places the mesh sieve over over the orange cup.|C strains the milk tea into the orange cup.|C places the mesh sieve in the pot.|C places the pot on the gas burner.",
+        "end_frame_info": [
+            {
+                "category": "bottom",
+                "description": "black gas stove burner with circular metal grate, appears unused and clean",
+                "relation": [
+                    "bottom on gas stove",
+                    "bottom under bowl"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "small green plastic bowl with a smooth surface",
+                "relation": [
+                    "bowl on gas stove",
+                    "bowl held by clamp",
+                    "bowl above burner"
+                ]
+            },
+            {
+                "category": "burner",
+                "description": "black circular gas stove burner with metal grate, currently inactive",
+                "relation": [
+                    "burner on gas stove",
+                    "burner under bowl"
+                ]
+            },
+            {
+                "category": "clamp",
+                "description": "metal tongs with a shiny surface, gripping a green bowl",
+                "relation": [
+                    "clamp over gas stove",
+                    "clamp holding bowl",
+                    "clamp in person's hand"
+                ]
+            },
+            {
+                "category": "clamp",
+                "description": "metal tongs with a shiny surface",
+                "relation": [
+                    "clamp holding bowl",
+                    "clamp above burner",
+                    "clamp in person's hand"
+                ]
+            },
+            {
+                "category": "cloth",
+                "description": "white cloth with a soft texture",
+                "relation": [
+                    "cloth next to gas stove",
+                    "cloth on counter"
+                ]
+            },
+            {
+                "category": "counter",
+                "description": "black countertop with a smooth surface",
+                "relation": [
+                    "counter next to tile wall",
+                    "counter under gas stove"
+                ]
+            },
+            {
+                "category": "countertop",
+                "description": "black countertop with a smooth, glossy finish",
+                "relation": [
+                    "countertop under gas stove",
+                    "countertop next to tile wall"
+                ]
+            },
+            {
+                "category": "gas stove",
+                "description": "black gas stove with four burners, metallic grates, and control knobs, brand name 'Prestige' visible",
+                "relation": [
+                    "gas stove on counter",
+                    "gas stove under bowl",
+                    "gas stove next to tile wall"
+                ]
+            },
+            {
+                "category": "heat",
+                "description": "black gas stove burner with a circular metal grate, appears inactive with no visible flame",
+                "relation": [
+                    "heat on gas stove",
+                    "heat under bowl"
+                ]
+            },
+            {
+                "category": "kitchen",
+                "description": "kitchen",
+                "relation": [
+                    "kitchen contains gas stove",
+                    "kitchen contains tile wall",
+                    "kitchen contains countertop"
+                ]
+            },
+            {
+                "category": "mesh",
+                "description": "white tiled wall with rectangular tiles arranged in a grid pattern, clean and uniform",
+                "relation": [
+                    "mesh behind gas stove",
+                    "mesh next to countertop"
+                ]
+            },
+            {
+                "category": "mesh",
+                "description": "white tiled wall with rectangular tiles, clean and uniformly arranged",
+                "relation": [
+                    "mesh behind gas stove",
+                    "mesh above countertop"
+                ]
+            },
+            {
+                "category": "milk",
+                "description": "white liquid, smooth and opaque appearance",
+                "relation": [
+                    "milk in bowl",
+                    "milk above burner"
+                ]
+            },
+            {
+                "category": "mortar",
+                "description": "metal container with a cylindrical shape, shiny surface",
+                "relation": [
+                    "mortar on shelf",
+                    "mortar next to other containers"
+                ]
+            },
+            {
+                "category": "shift",
+                "description": "black gas stove with circular burners and metal grates, clean and unused, brand 'Prestige' visible",
+                "relation": [
+                    "shift on counter",
+                    "shift under bowl"
+                ]
+            },
+            {
+                "category": "steel",
+                "description": "black gas stove burner with a circular metal grate, appears inactive, made of metal",
+                "relation": [
+                    "steel on gas stove",
+                    "steel under bowl"
+                ]
+            },
+            {
+                "category": "sugar",
+                "description": "white granular substance, smooth and uniform texture",
+                "relation": [
+                    "sugar in container",
+                    "sugar on shelf"
+                ]
+            },
+            {
+                "category": "tile wall",
+                "description": "white rectangular tiles arranged in a grid pattern, clean and glossy",
+                "relation": [
+                    "tile wall behind gas stove",
+                    "tile wall above countertop"
+                ]
+            },
+            {
+                "category": "tool",
+                "description": "metal tongs with a shiny surface",
+                "relation": [
+                    "tool holding bowl",
+                    "tool over gas stove",
+                    "tool in person's hand"
+                ]
+            },
+            {
+                "category": "tool",
+                "description": "metal tongs with a shiny surface",
+                "relation": [
+                    "tool holding bowl",
+                    "tool above burner",
+                    "tool in person's hand"
+                ]
+            },
+            {
+                "category": "torch",
+                "description": "metal tongs with a shiny surface",
+                "relation": [
+                    "torch holding bowl",
+                    "torch over gas stove",
+                    "torch in person's hand"
+                ]
+            },
+            {
+                "category": "torch",
+                "description": "metal tongs with a shiny surface",
+                "relation": [
+                    "torch holding bowl",
+                    "torch above burner",
+                    "torch in person's hand"
+                ]
+            },
+            {
+                "category": "person",
+                "description": "person, wearing multiple gold-colored bangles",
+                "relation": [
+                    "person holding clamp",
+                    "person next to gas stove",
+                    "person wearing bangles"
+                ]
+            },
+            {
+                "category": "bangle",
+                "description": "gold-colored metal bangle, thin and shiny",
+                "relation": [
+                    "bangle on person's wrist",
+                    "bangle next to clamp"
+                ]
+            },
+            {
+                "category": "shelf",
+                "description": "white curved shelf",
+                "relation": [
+                    "shelf next to tile wall",
+                    "shelf above countertop",
+                    "shelf holding containers"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "metal cylindrical container with a shiny surface",
+                "relation": [
+                    "container on shelf",
+                    "container next to other containers"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "metal cylindrical container with a shiny surface, possibly containing sugar or flour",
+                "relation": [
+                    "container on shelf",
+                    "container next to other containers"
+                ]
+            },
+            {
+                "category": "tripod",
+                "description": "black tripod with three legs",
+                "relation": [
+                    "tripod next to gas stove",
+                    "tripod on countertop"
+                ]
+            },
+            {
+                "category": "camera",
+                "description": "black camera or recording device",
+                "relation": [
+                    "camera on tripod",
+                    "camera next to gas stove"
+                ]
+            },
+            {
+                "category": "cable",
+                "description": "orange cable, possibly for power or data",
+                "relation": [
+                    "cable next to gas stove",
+                    "cable on countertop"
+                ]
+            },
+            {
+                "category": "ice cube tray",
+                "description": "blue plastic ice cube tray with multiple compartments",
+                "relation": [
+                    "ice cube tray on countertop",
+                    "ice cube tray next to gas stove"
+                ]
+            },
+            {
+                "category": "knob",
+                "description": "black plastic knob on the gas stove, round and smooth, used to control the burner",
+                "relation": [
+                    "knob on gas stove",
+                    "knob next to burner"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "2662dad5-c487-492d-8761-3b30d014748d-start.jpg",
+        "atomic_actions": " C takes the inner pot of the pressure cooker.| C closes the pressure cooker.| C drops the pressure cooker inner pot on the countertop.| C takes the inner pot.| C opens the cupboard.| C puts rice in the inner pot from a storage box. | C closes the cupboard.| C turns on a tap.| C stirs the rice in the inner pot.| C turns off the tap.| C drains water out of the inner pot.| C turns on the tap.| C turns off the tap.| C drains water out of the inner pot.| C opens the pressure cooker.| C puts the inner pot in the pressure cooker.| C opens the refrigerator.| C takes a polythene bag from the refrigerator.| C closes the refrigerator.| C takes a napkin.| C wipes the countertop.| C takes out the cabbage in the polythene bag.| C takes a cutting board.| C turns on the tap.| C washes the cabbage.| C turns off the tap.| C shakes the cabbage.| C drops the cabbage on the cutting board.| C opens the cupboard.| C takes a knife.| C drops the knife on the cutting board.| C opens the cupboard with her left hand.| C takes a sieve.| C drops the sieve on the countertop.| C takes the knife.| C cuts the cabbage.| C puts the half of the cabbage in the polythene bag.| C cuts the other half of the cabbage with the knife.| C drops the knife.| C takes the knife.| C cuts the cabbage.| C drops the knife.| C puts the cabbage in the sieve.| C takes the knife.| C wipes the knife.| C scrapes the cabbage on the cutting board.| C puts the cabbage in the sieve.| C drops the knife.| C takes cabbage from a polythene bag.| C cuts the cabbage with the knife.| C drops the knife.| C puts the cabbage in the sieve.| C takes the knife.| C wipes the knife with her left hand.| C scrapes the board with the knife.| C puts the cabbage in the sieve.| C puts the cabbage in the polythene bag.| C takes the knife.| C scrapes the cutting board with the knife.| C turns on a tap.| C rinses the knife.| C drops the knife on the cutting board.| C turns off the tap.| C takes a napkin.| C wipes his hands with the napkin.| C drops the napkin.| C grabs the polythene bag.| C folds the polythene bag.| C puts the polythene bag in a crisper drawer.| C takes vegetables from the refrigerator.| C closes the refrigerator.| C takes a frying pan.| C turns on the tap.| C turns off the tap.| C adjusts a second frying pan on a gas cooker burner.| C drops the frying pan on a gas cooker burner.| C touches a button on the gas cooker.| C opens a cupboard.| C takes a pack from the cupboard.| C takes a sheet from the pack. | C drops the sheet in the frying pan. | C folds the pack.| C puts the pack back in the cupboard.| C takes a vegetable on the countertop.| C removes the nylon covering on the vegetable.| C takes the knife.| C cuts the vegetable.| C drops the knife.| C covers the vegetable with the nylon covering.| C drops the vegetable.| C takes the small piece of the vegetable.| C carries the knife.| C cuts the surface of the vegetable.| C peels the skin of the vegetable.| C drops the skin in the sink.| C cuts the vegetable into smaller pieces.",
+        "end_frame_info": [
+            {
+                "category": "cutting board",
+                "description": "white rectangular plastic cutting board with a gray handle",
+                "relation": [
+                    "cutting board on countertop",
+                    "cutting board under knife",
+                    "cutting board next to sink"
+                ]
+            },
+            {
+                "category": "knife",
+                "description": "metal kitchen knife with a straight blade",
+                "relation": [
+                    "knife in hand",
+                    "knife cutting vegetable",
+                    "knife on cutting board"
+                ]
+            },
+            {
+                "category": "person",
+                "description": "person wearing a blue apron with white polka dots",
+                "relation": [
+                    "person holding knife",
+                    "person standing at countertop",
+                    "person wearing apron"
+                ]
+            },
+            {
+                "category": "cabbage",
+                "description": "shredded green cabbage in a metal colander, appearing fresh and moist",
+                "relation": [
+                    "cabbage in colander",
+                    "colander on countertop"
+                ]
+            },
+            {
+                "category": "colander",
+                "description": "metal colander with small holes",
+                "relation": [
+                    "colander on countertop",
+                    "colander holding cabbage"
+                ]
+            },
+            {
+                "category": "kitchen sink",
+                "description": "stainless steel double-basin kitchen sink, showing signs of recent use",
+                "relation": [
+                    "kitchen sink next to cutting board",
+                    "kitchen sink under faucet",
+                    "kitchen sink containing sponge"
+                ]
+            },
+            {
+                "category": "faucet",
+                "description": "chrome-finished kitchen faucet with a single lever handle",
+                "relation": [
+                    "faucet on sink",
+                    "faucet above sink basin"
+                ]
+            },
+            {
+                "category": "sponge",
+                "description": "yellow rectangular sponge",
+                "relation": [
+                    "sponge in sink",
+                    "sponge in holder"
+                ]
+            },
+            {
+                "category": "drain",
+                "description": "metal sink drain with a circular shape and a dark interior",
+                "relation": [
+                    "drain in sink",
+                    "drain under sponge holder"
+                ]
+            },
+            {
+                "category": "dish rack",
+                "description": "metal dish rack with perforated base",
+                "relation": [
+                    "dish rack on sink",
+                    "dish rack holding bowls"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "green plastic bowl with a white interior",
+                "relation": [
+                    "bowl in dish rack",
+                    "bowl next to blue bowl"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "light blue ceramic bowl",
+                "relation": [
+                    "bowl in dish rack",
+                    "bowl next to green bowl"
+                ]
+            },
+            {
+                "category": "vegetable",
+                "description": "whole light green daikon radish",
+                "relation": [
+                    "vegetable on countertop",
+                    "vegetable next to cutting board"
+                ]
+            },
+            {
+                "category": "vegetable",
+                "description": "round brown onion wrapped in clear plastic",
+                "relation": [
+                    "vegetable on countertop",
+                    "vegetable next to daikon"
+                ]
+            },
+            {
+                "category": "countertop",
+                "description": "stainless steel countertop with a smooth, reflective surface",
+                "relation": [
+                    "countertop under cutting board",
+                    "countertop next to sink",
+                    "countertop holding colander"
+                ]
+            },
+            {
+                "category": "stove",
+                "description": "black gas stove with metal grates",
+                "relation": [
+                    "stove on countertop",
+                    "stove next to colander"
+                ]
+            },
+            {
+                "category": "soap bottle",
+                "description": "white plastic bottle",
+                "relation": [
+                    "soap bottle on tray",
+                    "soap bottle next to sponge"
+                ]
+            },
+            {
+                "category": "brush",
+                "description": "yellow-bristled dish brush with a wooden handle",
+                "relation": [
+                    "brush on tray",
+                    "brush next to soap bottle"
+                ]
+            },
+            {
+                "category": "towel",
+                "description": "white folded cloth towel, partially wrapped",
+                "relation": [
+                    "towel on countertop",
+                    "towel next to daikon"
+                ]
+            },
+            {
+                "category": "bag",
+                "description": "clear plastic bag with red and green printed text",
+                "relation": [
+                    "plastic bag on countertop",
+                    "plastic bag next to towel"
+                ]
+            },
+            {
+                "category": "apron",
+                "description": "blue apron with white polka dots",
+                "relation": [
+                    "apron worn by person",
+                    "apron covering torso"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "fair_bike_06_10-start.jpg",
+        "atomic_actions": "C holds a spanner with his hands.|C loosen a bolt from the bike gear with the spanner in his right hand.|C removes the gear with his left hand.|C puts the spanner in his right hand into the pocket of his apron.|C loosens the brake cable with his hands.|C picks a spanner with his right hand from his apron.|C turns the spanner in his right hand.|C places the spanner in his right hand on the bike hub.|C holds the bike wheel with his left hand.|C adjusts the spanner in his right hand.|C turns the spanner on the hub with his right hand.|C holds the bike wheel with his left hand.|C loosens the bolt in a hub with the spanner in his right hand.|C loosens the bolt with his right hand.|C transfers the spanner in his right hand to his left hand.|C holds the bike wheel with his right hand.|C puts the spanner in his left hand on the bike hub.|C loosens the bolt on the hub with the spanner in his left hand.|C removes the bolt on the hub with his left hand.|C holds the bike wheel  with his left hand.|C removes the his right hand from the wheel.|C removes a chain from the cassette with his right.|C removes the wheel with his left hand.|C removes his right hand from the chain.|C transfers the bike wheel in his left hand to right hand.",
+        "end_frame_info": [
+            {
+                "category": "apron",
+                "description": "yellow and black apron with a rectangular shape, appearing to be made of fabric",
+                "relation": [
+                    "apron hanging on wall",
+                    "apron next to tool chest"
+                ]
+            },
+            {
+                "category": "hose",
+                "description": "blue coiled air hose with a flexible, spiral shape, made of plastic or rubber material",
+                "relation": [
+                    "hose on floor",
+                    "hose next to bike stand"
+                ]
+            },
+            {
+                "category": "cassette",
+                "description": "black rectangular cassette with a smooth surface, possibly plastic",
+                "relation": [
+                    "cassette on tool chest",
+                    "cassette next to bike"
+                ]
+            },
+            {
+                "category": "chain",
+                "description": "blue coiled chain with a flexible, spiral shape",
+                "relation": [
+                    "chain on floor",
+                    "chain next to bike stand"
+                ]
+            },
+            {
+                "category": "floor",
+                "description": "light gray concrete floor with a flat, smooth surface, showing some stains and wear marks",
+                "relation": [
+                    "floor in garage",
+                    "floor under bike stand",
+                    "floor under workbench"
+                ]
+            },
+            {
+                "category": "garage",
+                "description": "indoor garage space, appearing cluttered and functional",
+                "relation": []
+            },
+            {
+                "category": "workbench",
+                "description": "wooden workbench with a flat surface, light brown finish",
+                "relation": [
+                    "workbench in garage",
+                    "workbench next to tool chest",
+                    "workbench under shelf"
+                ]
+            },
+            {
+                "category": "bike",
+                "description": "light blue road bike with drop handlebars",
+                "relation": [
+                    "bike on repair stand",
+                    "bike next to tool chest",
+                    "bike in front of wall"
+                ]
+            },
+            {
+                "category": "repair stand",
+                "description": "black metal bike repair stand with adjustable arms and a clamp",
+                "relation": [
+                    "repair stand on floor",
+                    "repair stand holding bike",
+                    "repair stand next to air hose"
+                ]
+            },
+            {
+                "category": "tool chest",
+                "description": "black metal tool chest with multiple drawers",
+                "relation": [
+                    "tool chest under workbench",
+                    "tool chest next to bike",
+                    "tool chest on floor"
+                ]
+            },
+            {
+                "category": "mat",
+                "description": "black rectangular rubber mat with a textured surface",
+                "relation": [
+                    "mat on floor",
+                    "mat under repair stand"
+                ]
+            },
+            {
+                "category": "shelf",
+                "description": "metal shelving unit",
+                "relation": [
+                    "shelf on wall",
+                    "shelf above workbench"
+                ]
+            },
+            {
+                "category": "bucket",
+                "description": "white plastic bucket with a handle",
+                "relation": [
+                    "bucket on floor",
+                    "bucket next to fire extinguisher"
+                ]
+            },
+            {
+                "category": "fire extinguisher",
+                "description": "red cylindrical fire extinguisher with a black nozzle and handle, standing upright",
+                "relation": [
+                    "fire extinguisher on floor",
+                    "fire extinguisher next to bucket"
+                ]
+            },
+            {
+                "category": "light",
+                "description": "long fluorescent ceiling light fixture",
+                "relation": [
+                    "light on ceiling",
+                    "light illuminating garage"
+                ]
+            },
+            {
+                "category": "person",
+                "description": "partial view of a person's hand and forearm",
+                "relation": [
+                    "person holding bike handlebar",
+                    "person in front of bike"
+                ]
+            },
+            {
+                "category": "handlebar",
+                "description": "black curved bicycle handlebar with textured grip",
+                "relation": [
+                    "handlebar held by person",
+                    "handlebar in front of bike"
+                ]
+            },
+            {
+                "category": "tool",
+                "description": "blue and black hand tool",
+                "relation": [
+                    "tool on workbench",
+                    "tool next to container"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "white plastic container",
+                "relation": [
+                    "container on workbench",
+                    "container next to tool"
+                ]
+            },
+            {
+                "category": "wall",
+                "description": "beige painted wall",
+                "relation": [
+                    "wall in garage",
+                    "wall behind bike",
+                    "wall under shelf"
+                ]
+            },
+            {
+                "category": "pipe",
+                "description": "silver metal pipe",
+                "relation": [
+                    "pipe on wall",
+                    "pipe next to tool chest"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "aca32da5-8b05-4ea2-a243-a761f4432bf6-start.jpg",
+        "atomic_actions": " C touches the wall with her right hand| C picks up the knife that fell on the floor with his right hand| C places it on a fridge| C stirs the content of the frying pan with a cooking utensil in her right hand| C takes the frying pan from the cooker to the fridge with her right hand| C changes the position of the knife on the fridge with her left hand| C washes a chopping board | C picks a kitchen roll with her left hand| C cuts out of the kitchen roll with her right hand| C returns the kitchen roll to where she picked it from| C wipes the chopping board with the kitchen roll| C puts the chopping board beneath the cooker with her left hand| C picks the knife from the top of the fridge with her right hand| C washes the knife| C picks the kitchen roll she used to wipe the chopping board with her left hand| C wipes the knife in her right hand| C opens a cupboard below the sink with her left hand| C puts the knife in it with her right hand| C closes the cupboard with her left hand| C takes the frying pan from the top of the fridge to the sink with both hands| C picks the kitchen roll she used to clean the knife with her left hand| C cleans the sink with the kitchen roll| C drops the kitchen roll in a bin with her left hand| C picks an object from the top of the fridge with her right hand| C touches the object with her left hand| C picks the kitchen roll with her left hand| C cuts out of it with her right hand| C returns the kitchen roll to where she picked it from| C wipes the top of the fridge with the kitchen roll in her hand| C drops the kitchen roll in the bin with her left hand| C picks the kitchen roll with her left hand| C cuts out of it with her right hand| C returns the kitchen roll to where she picked it from| C folds the kitchen roll with both hands| C picks a bottle of stain remover from the top of the fridge with her right hand| C sprays it on the fridge| C returns the bottle to where she picked it from| C cleans the fridge and the objects on it with the kitchen roll in her hand| C drops the kitchen roll in the bin with her left hand| C picks an object from the top of the sink with both hands| C works on the objects with both hands",
+        "end_frame_info": [
+            {
+                "category": "person",
+                "description": "person wearing light gray long-sleeve shirt",
+                "relation": [
+                    "person standing on floor",
+                    "person in front of kitchen sink",
+                    "person holding plastic bag"
+                ]
+            },
+            {
+                "category": "food",
+                "description": "mixed chopped vegetables or stir-fry ingredients, light green and white in color",
+                "relation": [
+                    "food inside pan"
+                ]
+            },
+            {
+                "category": "pan",
+                "description": "dark non-stick frying pan with black handle",
+                "relation": [
+                    "pan on stove",
+                    "pan next to sink"
+                ]
+            },
+            {
+                "category": "stove",
+                "description": "black electric or gas stovetop with at least one visible burner",
+                "relation": [
+                    "stove under pan",
+                    "stove next to sink"
+                ]
+            },
+            {
+                "category": "sink",
+                "description": "dark rectangular kitchen sink with visible faucet",
+                "relation": [
+                    "sink next to stove",
+                    "sink under faucet"
+                ]
+            },
+            {
+                "category": "faucet",
+                "description": "metallic curved faucet with single handle",
+                "relation": [
+                    "faucet over sink"
+                ]
+            },
+            {
+                "category": "bag",
+                "description": "transparent plastic bag with printed label",
+                "relation": [
+                    "bag held by person",
+                    "bag above sink"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "white plastic bottle with blue cap, cylindrical shape",
+                "relation": [
+                    "bottle on countertop",
+                    "bottle next to stove"
+                ]
+            },
+            {
+                "category": "countertop",
+                "description": "dark flat kitchen countertop surface",
+                "relation": [
+                    "countertop under stove",
+                    "countertop under sink",
+                    "countertop next to wall"
+                ]
+            },
+            {
+                "category": "wall",
+                "description": "dark plain wall with smooth surface",
+                "relation": [
+                    "wall behind countertop",
+                    "wall next to kitchen"
+                ]
+            },
+            {
+                "category": "floor",
+                "description": "light brown wooden floor with visible grain",
+                "relation": [
+                    "floor under person",
+                    "floor next to countertop"
+                ]
+            },
+            {
+                "category": "kitchen",
+                "description": "dimly lit compact kitchen area with dark countertops",
+                "relation": [
+                    "kitchen in room",
+                    "kitchen containing stove and sink"
+                ]
+            },
+            {
+                "category": "room",
+                "description": "dimly lit interior room, overall low visibility and cluttered appearance",
+                "relation": [
+                    "room containing kitchen",
+                    "room with wooden floor"
+                ]
+            },
+            {
+                "category": "shelf",
+                "description": "black metal wire shelf",
+                "relation": [
+                    "shelf on wall",
+                    "shelf above sink"
+                ]
+            },
+            {
+                "category": "bag",
+                "description": "dark fabric bag or backpack, with straps and zippers",
+                "relation": [
+                    "bag on floor",
+                    "bag next to wall"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "indiana_bike_12_13-start.jpg",
+        "atomic_actions": "C transfers a wrench from his right hand to his left hand.|C takes a wrench from a tool box with his right hand.|C holds an axle nut with his left hand.|C  places a wrench on the table with his right hand.|C transfers a wrench from his left hand to his right hand.|C holds the wheel with his left hand.|C places a wrench on an axle nut with his right hand.|C turns an axle nut with a wrench in his right hand.|C turns an axle with his right hand.|C removes an axle nut from a wheel with his right hand.|C places an axle nut on the table with his right hand.|C holds the wheel with his left hand.|C places a wrench on an axle nut with his right hand.|C places a wrench on an axle nut with his right hand.|C places a wrench on an axle nut with his right hand.|C turns an axle nut with a wrench in his right hand.|C turns an axle nut with a wrench in his right hand.|C turns an axle nut with his right hand.|C removes an axle nut with his right hand.|C holds an axle nut with his left hand.|C places an axle nut on the table with his left hand.|C places a wrench on the table with his right hand.|C holds the wheel with his left hand.|C holds the wheel with both hands.|C removes the wheel from the bicycle with both hands.|C places the wheel on the floor with his left hand.",
+        "end_frame_info": [
+            {
+                "category": "axle",
+                "description": "small cylindrical metal axle, dark gray",
+                "relation": [
+                    "axle on table"
+                ]
+            },
+            {
+                "category": "floor",
+                "description": "large concrete floor, gray, rough texture",
+                "relation": [
+                    "floor under table",
+                    "floor under person",
+                    "floor under wheel"
+                ]
+            },
+            {
+                "category": "nut",
+                "description": "small metallic nut, silver-colored, hexagonal shape, slightly reflective",
+                "relation": [
+                    "nut on table"
+                ]
+            },
+            {
+                "category": "person",
+                "description": "person wearing dark pants and shoes, only lower body visible, dark clothing",
+                "relation": [
+                    "person standing on floor",
+                    "person behind table"
+                ]
+            },
+            {
+                "category": "table",
+                "description": "medium rectangular wooden table, light brown, flat surface",
+                "relation": [
+                    "table on floor",
+                    "table next to person",
+                    "table holding tools"
+                ]
+            },
+            {
+                "category": "wheel",
+                "description": "small black rubber wheel, round",
+                "relation": [
+                    "wheel on floor",
+                    "wheel next to table"
+                ]
+            },
+            {
+                "category": "workbench",
+                "description": "medium rectangular wooden workbench, light brown, flat surface",
+                "relation": [
+                    "workbench on floor",
+                    "workbench same as table"
+                ]
+            },
+            {
+                "category": "workshop",
+                "description": "entire workshop space",
+                "relation": [
+                    "workshop contains person",
+                    "workshop contains table",
+                    "workshop contains floor",
+                    "workshop contains workbench",
+                    "workshop contains wheel",
+                    "workshop contains wheel",
+                    "workshop has window"
+                ]
+            },
+            {
+                "category": "towel roll",
+                "description": "large white paper towel roll, cylindrical",
+                "relation": [
+                    "paper towel roll on table",
+                    "paper towel roll next to tools"
+                ]
+            },
+            {
+                "category": "tray",
+                "description": "black plastic tool tray",
+                "relation": [
+                    "tool tray on table",
+                    "tool tray holding tools"
+                ]
+            },
+            {
+                "category": "pliers",
+                "description": "red-handled pliers, metallic jaws",
+                "relation": [
+                    "pliers in tool tray",
+                    "pliers on table"
+                ]
+            },
+            {
+                "category": "screwdriver",
+                "description": "black-handled screwdriver, metallic shaft",
+                "relation": [
+                    "screwdriver in tool tray",
+                    "screwdriver on table"
+                ]
+            },
+            {
+                "category": "cup",
+                "description": "transparent plastic cup, small, round, empty",
+                "relation": [
+                    "plastic cup on table",
+                    "plastic cup next to paper towel roll"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "small clear plastic bottle with blue cap",
+                "relation": [
+                    "bottle on table",
+                    "bottle next to cup"
+                ]
+            },
+            {
+                "category": "bag",
+                "description": "crumpled transparent plastic bag, small",
+                "relation": [
+                    "bag on table",
+                    "bag next to bottle"
+                ]
+            },
+            {
+                "category": "tripod",
+                "description": "metal tripod with adjustable legs",
+                "relation": [
+                    "tripod on floor",
+                    "tripod next to table"
+                ]
+            },
+            {
+                "category": "window",
+                "description": "rectangular window with white frame",
+                "relation": [
+                    "window on wall",
+                    "window illuminating floor"
+                ]
+            },
+            {
+                "category": "person",
+                "description": "person wearing white shirt and dark pants",
+                "relation": [
+                    "person holding hose",
+                    "person in front of table"
+                ]
+            },
+            {
+                "category": "hose",
+                "description": "black flexible hose or cable, thick",
+                "relation": [
+                    "hose held by person",
+                    "hose on floor",
+                    "hose next to table"
+                ]
+            },
+            {
+                "category": "watch",
+                "description": "black wristwatch with dark strap",
+                "relation": [
+                    "watch on wrist",
+                    "watch next to hose"
+                ]
+            },
+            {
+                "category": "tool",
+                "description": "metal tool with green handle",
+                "relation": [
+                    "tool on table",
+                    "tool next to cup"
+                ]
+            },
+            {
+                "category": "wall",
+                "description": "light-colored wall, plain, with visible stains and marks",
+                "relation": [
+                    "wall behind window",
+                    "wall next to floor"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "0d99e346-e1c0-4369-8d7f-f4c7e1676028-start.jpg",
+        "atomic_actions": " C passes the wooden piece to his left hand| C picks up a sand paper| C attaches the sand paper to the wooden piece| C picks up a wooden plank| C smoothens the wooden plank with the sand paper| C passes the sand paper to his right hand| C smoothens the wooden plank with the sand paper| C withdraws the sand paper| C passes the sand paper to his left hand from his right hand| C picks up another sand paper from the floor| C flips the sand paper| C drops the sand paper on the table| C picks up another sand paper from the table| C attaches the sand paper to the wooden piece| C smoothens the wooden plank with the sand paper with his left hand| C hold downs the wooden plank with his right hand| C shifts his right hand on the wooden plank| C withdraws sand paper from the wooden plank| C passes the sand paper to his right hand from his left hand| C adjusts the wooden plank with his left hand| C smoothens the wooden plank with the sand paper| C passes the sand paper from his right hand to his left hand| C dusts off dirt from the wooden plank| C holds the wooden plank with his right hand| C smoothens the wooden plank with the sand paper| C withdraws sand paper from the wooden plank| C dusts off dirt from the wooden plank| C drops the wooden piece and sand paper on the table| C touches another sand paper| C picks another sand paper| C passes the sand paper from his left hand to his right hand| C holds the wooden plank with his left hand| C smoothens the wooden plank with the sand paper| C withdraws sand paper from the wooden plank| C passes the sand paper from his right hand to his left hand| C drops the sand paper on the table| C picks the previous sand paper and wooden piece| C smoothens the wooden plank with the sand paper| C holds the wooden plank with his right hand| C withdraws sand paper from the wooden plank| C dusts off dirt from the wooden plank| C adjusts the wooden plank with his right hand| C drops the sand paper and wooden piece on the table| C picks the previous sand paper with his left hand| C smoothens the wooden plank with the sand paper| C holds the wooden plank with his right hand| C withdraws sand paper from the wooden plank| C smoothens the wooden plank with the sand paper| C passes the sand paper from his left hand to his right hand| C holds the wooden plank with his left hand| C smoothens the wooden plank with the sand paper| C passes the sand paper from his right hand to his left hand| C holds the wooden plank with his right hand| C smoothens the wooden plank with the sand paper| C adjusts the wooden plank| C smoothens the wooden plank with the sand paper| C turns the wooden plank| C withdraws sand paper from the wooden plank| C adjusts the wooden plank with his right hand| C holds the wooden plank with his right hand| C smoothens the wooden plank with the sand paper| C withdraws sand paper from the wooden plank| C passes the sand paper from his left hand to his right hand| C holds the wooden plank with his left hand| C adjusts the wooden plank with his left hand| C smoothens the wooden plank with the sand paper| C passes the sand paper from his right hand to his left hand| C smoothens the wooden plank with the sand paper| C holds the wooden plank with his right hand| C passes the sand paper from his left hand to his right hand| C adjusts the wooden plank with his left hand| C holds the wooden plank with his left hand| C smoothens the wooden plank with the sand paper| C removes the sandpaper from the wood| C passes the sandpaper from his right hand to his left hand| C drops the sandpaper on a table| C picks up another sandpaper from the table with his left hand| C holds the sandpaper with both hands| C holds the wood with his right hand| C rubs over the wood with a sandpaper with his left hand| C removes the sandpaper from the wood| C rubs the sandpaper over the wood| C removes the sandpaper from the wood| C passes the sandpaper from his left hand to his right hand| C holds the wood with his left hand| C rubs the sandpaper over the wood with his right hand| C adjusts the sandpaper",
+        "end_frame_info": [
+            {
+                "category": "person",
+                "description": "person wearing blue jeans and bright neon green sneakers",
+                "relation": [
+                    "person standing on floor",
+                    "person holding plank",
+                    "person assembling wood"
+                ]
+            },
+            {
+                "category": "plank",
+                "description": "long rectangular light brown wooden plank with visible grain",
+                "relation": [
+                    "plank held by person",
+                    "plank next to wooden frame"
+                ]
+            },
+            {
+                "category": "plank",
+                "description": "thin rectangular light brown wooden plank",
+                "relation": [
+                    "plank on floor",
+                    "plank next to plastic sheet"
+                ]
+            },
+            {
+                "category": "piece",
+                "description": "small rectangular light brown wooden piece",
+                "relation": [
+                    "piece held by person",
+                    "piece being inserted into frame"
+                ]
+            },
+            {
+                "category": "floor",
+                "description": "brown tiled floor with visible grout lines",
+                "relation": [
+                    "floor under person",
+                    "floor under plastic sheet",
+                    "floor under wooden planks"
+                ]
+            },
+            {
+                "category": "sheet",
+                "description": "large crumpled white plastic sheet",
+                "relation": [
+                    "plastic sheet on floor",
+                    "plastic sheet under wooden frame"
+                ]
+            },
+            {
+                "category": "frame",
+                "description": "rectangular wooden frame made of light brown planks, partially assembled",
+                "relation": [
+                    "wooden frame on plastic sheet",
+                    "wooden frame being assembled by person"
+                ]
+            },
+            {
+                "category": "sneaker",
+                "description": "bright neon green athletic sneaker with white laces and white sole",
+                "relation": [
+                    "sneaker on foot",
+                    "sneaker on floor"
+                ]
+            },
+            {
+                "category": "jeans",
+                "description": "blue denim jeans with visible creases and slight fading",
+                "relation": [
+                    "jeans on person",
+                    "jeans covering legs"
+                ]
+            },
+            {
+                "category": "wood shavings",
+                "description": "small scattered pieces of light brown wood shavings and cut-offs",
+                "relation": [
+                    "wood shavings on floor",
+                    "wood debris near plastic sheet"
+                ]
+            },
+            {
+                "category": "room",
+                "description": "indoor workspace, and visible construction activity",
+                "relation": [
+                    "room contains person",
+                    "room contains floor",
+                    "room contains wooden frame"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "iiith_cooking_32_1-start.jpg",
+        "atomic_actions": "C turns on the gas burner.|C picks the lighter from the kitchen cabinet.|C lights the gas burner.|C returns the lighter.|C picks the skillet from the kitchen rack.|C places the skillet on the gas burner.|C adjust the heat on the gas burner.|C picks up a jar of oil.|C opens the jar of oil.|C drop the jar lid on the counter top.|C scopes oil from the jar.|C pours oil into the skillet.|C returns the scope ladle into the jar.|C picks up the lid from the counter top.|C covers the jar with the lid.|C returns the jar to the cabinet.|C picks up the chopping board.|C drops the chopping board on the counter top.|C opens the basket.|C picks up vegetables from the basket.|C closes the basket.|C places the onions on the chopping board.|C places the green pepper on the chopping board.|C slices onions.|C picks up the green pepper.|C slices green pepper.|C picks up a bowl from the plate rack.|C drops the bowl on the counter top.|C picks up the egg from a bowl.|C picks up spoon from the plate rack.|C uses spoon to crack the egg.|C drops the spoon in the bowl.|C cracks the egg with her hands into the bowl.|C uses her hands to gather the vegetables.|C adds the vegetables to the egg in the bowl.|C picks up the bowl with the egg mixture.|C drops the bowl with the egg mixture on the counter top.|C grabs a jar of salt.|C opens the jar of salt.|C scopes out salt from the jar.|C adds salt to egg mixture.|C covers the jar of salt with lid.|C returns the jar of salt to the cabinet.|C grabs a jar of pepper from the cabinet.|C drops the jar of pepper on the counter top.|C opens the jar of pepper.|C scopes out pepper from the jar.|C adds pepper to egg mixture.|C closes the jar of pepper.|C returns jar of pepper to the cabinet.|C whisks the egg with a spoon.|C picks up the bowl with egg mixture.|C drops the bowl of egg mixture on the counter top.|C stops whisking the egg mixture.|C regulates the heat on the gas burner.|C tilts the skillet to spread the oil.|C regulates the heat on the gas burner.|C whisks the egg mixture with a spoon.|C picks up the bowl of egg mixture.|C pours the egg mixture into the skillet.|C drops the bowl on the counter top.|C moves the bowl across the counter top.|C places the bowl on the counter top.|C picks up a plate from the kitchen rack.|C places the plate on the counter top.|C picks up a spatula.|C regulates the heat on the gas burner.|C slips spatula under omelette. |C regulates heat.|C slips spatula under omelette. |C grabs the skillet on the gas burner.|C slips spatula under omelette. |C flips omelette to the other side. |C slips spatula under omelette. |C flips omelette to the other side. |C slips spatula under omelette. |C regulates heat of the gas burner.|C slips spatula under omelette. |C flips omelette to the other side. |C regulates heat of the gas burner.|C flips omelette to the other side. |C turns off heat of the gas burner.|C serves omelette into a plate.|C picks up the plate with omelette.",
+        "end_frame_info": [
+            {
+                "category": "bowl",
+                "description": "small round metallic bowl with a reflective surface",
+                "relation": [
+                    "bowl on counter",
+                    "bowl next to plate"
+                ]
+            },
+            {
+                "category": "burner",
+                "description": "rectangular metallic gas burner with a black grate, showing signs of use",
+                "relation": [
+                    "burner on counter",
+                    "burner under pan"
+                ]
+            },
+            {
+                "category": "counter",
+                "description": "large dark green marble countertop with visible veining and a smooth, polished surface",
+                "relation": [
+                    "counter in kitchen",
+                    "counter under stove",
+                    "counter under plate",
+                    "counter under bowl"
+                ]
+            },
+            {
+                "category": "gas",
+                "description": "metallic gas stove burner with a black grate",
+                "relation": [
+                    "gas under burner",
+                    "gas under pan"
+                ]
+            },
+            {
+                "category": "heat",
+                "description": "metallic gas stove burner with a black grate, showing some food residue and signs of recent use",
+                "relation": [
+                    "heat under pan",
+                    "heat on counter"
+                ]
+            },
+            {
+                "category": "kitchen",
+                "description": "kitchen area",
+                "relation": []
+            },
+            {
+                "category": "ladle",
+                "description": "metallic ladle with a long handle",
+                "relation": [
+                    "ladle in pan",
+                    "ladle touching food"
+                ]
+            },
+            {
+                "category": "omelet",
+                "description": "yellowish round omelet with a slightly uneven surface",
+                "relation": [
+                    "omelet in pan",
+                    "omelet on plate"
+                ]
+            },
+            {
+                "category": "omelette",
+                "description": "yellowish round omelet with a slightly uneven surface",
+                "relation": [
+                    "omelette on plate",
+                    "omelette next to bowl"
+                ]
+            },
+            {
+                "category": "oven",
+                "description": "metallic gas stove burner with a black grate, showing signs of use",
+                "relation": [
+                    "oven next to burner",
+                    "oven on counter"
+                ]
+            },
+            {
+                "category": "pan",
+                "description": "black non-stick frying pan",
+                "relation": [
+                    "pan on burner",
+                    "pan on stove",
+                    "pan containing ladle"
+                ]
+            },
+            {
+                "category": "pan",
+                "description": "black non-stick frying pan",
+                "relation": [
+                    "pan on burner",
+                    "pan on counter"
+                ]
+            },
+            {
+                "category": "pie",
+                "description": "yellowish round omelet with a slightly uneven surface",
+                "relation": [
+                    "pie on plate",
+                    "pie next to bowl"
+                ]
+            },
+            {
+                "category": "plate",
+                "description": "metallic round plate with a reflective surface",
+                "relation": [
+                    "plate on counter",
+                    "plate under omelet",
+                    "plate next to bowl"
+                ]
+            },
+            {
+                "category": "return",
+                "description": "metallic gas stove burner with a black grate, showing signs of use",
+                "relation": [
+                    "return on counter",
+                    "return under pan"
+                ]
+            },
+            {
+                "category": "scope",
+                "description": "metallic gas stove burner with a black grate, showing signs of use",
+                "relation": [
+                    "scope near burner",
+                    "scope on counter"
+                ]
+            },
+            {
+                "category": "scope",
+                "description": "black camera, with visible cables",
+                "relation": [
+                    "scope on counter",
+                    "scope next to stove",
+                    "scope pointing at pan"
+                ]
+            },
+            {
+                "category": "vegetable",
+                "description": "yellowish round omelet with a slightly uneven surface",
+                "relation": [
+                    "vegetable in omelet",
+                    "vegetable on plate"
+                ]
+            },
+            {
+                "category": "person",
+                "description": "person, wearing dark clothing",
+                "relation": [
+                    "person holding ladle",
+                    "person holding plate",
+                    "person cooking on stove"
+                ]
+            },
+            {
+                "category": "tripod",
+                "description": "black metal tripod with adjustable legs",
+                "relation": [
+                    "tripod on counter",
+                    "tripod under camera",
+                    "tripod next to stove"
+                ]
+            },
+            {
+                "category": "window",
+                "description": "wooden-framed window with metal security bars, showing an outdoor view",
+                "relation": [
+                    "window behind counter",
+                    "window in kitchen"
+                ]
+            },
+            {
+                "category": "cable",
+                "description": "red and black electrical cables",
+                "relation": [
+                    "cable on counter",
+                    "cable connected to camera"
+                ]
+            },
+            {
+                "category": "food residue",
+                "description": "small brownish food remnants, indicating recent cooking",
+                "relation": [
+                    "food residue in pan",
+                    "food residue on burner"
+                ]
+            },
+            {
+                "category": "stove",
+                "description": "silver metallic portable gas stove with two burners, one in use with a pan, showing control knobs and a metal grate",
+                "relation": [
+                    "stove on counter",
+                    "stove under pan",
+                    "stove next to camera"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "sfu_cooking025_3-start.jpg",
+        "atomic_actions": "C moves a cucumber on the chopping board with his left hand.|C slices the cucumber on the chopping board with the knife in his right hand.|C places his right hand on the sliced cucumbers.|C turns the sliced cucumbers on the chopping board with his left hand.|C holds the sliced cucumbers with his hands.|C picks a sliced cucumber on the chopping board with his left hand.|C turns the sliced cucumbers on the chopping board upright with his hands.|C dices the sliced cucumbers on the chopping board with the knife in the  his right hand.|C packs the diced cucumbers on the chopping board with his hands.|C drops the diced cucumbers into a mixing bowl on the countertop.|C picks a diced cucumber on the chopping board with his left hand.|C drops the diced cucumber into the mixing bowl on the countertop.|C picks a tomato on the chopping board with his left hand.|C places the tomato on the chopping board with his left hand.|C cuts the tomato on the chopping board with the knife in his right hand.|C turns the cut tomato on the chopping board with his hands.|C slices the tomato on the chopping board with the knife in his right hand.|C packs the sliced tomatoes together with his left hand.|C packs the sliced tomatoes together with his hands.|C picks up the sliced tomatoes on the chopping board with his hands.|C places the sliced tomatoes on the chopping board with his hands.|C dices the sliced tomatoes on the chopping board with the knife in his right hand.|C packs the diced tomatoes on the chopping board with his left hand.|C drops the diced tomatoes into a mixing bowl on the countertop.|C spreads the tomatoes in the mixing bowl with the knife in his right hand.|C moves aside the tomato seeds on a chopping board with the knife in his right hand.",
+        "end_frame_info": [
+            {
+                "category": "bowl",
+                "description": "small round dark-colored bowl",
+                "relation": [
+                    "bowl on kitchen counter",
+                    "bowl next to cutting board"
+                ]
+            },
+            {
+                "category": "countertop",
+                "description": "speckled gray and white granite-style countertop surface, flat and smooth, with various kitchen items",
+                "relation": [
+                    "countertop under cutting board",
+                    "countertop under bowl",
+                    "countertop next to stove"
+                ]
+            },
+            {
+                "category": "board",
+                "description": "rectangular light brown wooden cutting board",
+                "relation": [
+                    "board on kitchen counter",
+                    "board under person's hands",
+                    "board next to bowl"
+                ]
+            },
+            {
+                "category": "kitchen counter",
+                "description": "speckled gray and white kitchen counter surface, flat and smooth",
+                "relation": [
+                    "kitchen counter next to stove",
+                    "kitchen counter under cutting board",
+                    "kitchen counter under bowl"
+                ]
+            },
+            {
+                "category": "kitchen table",
+                "description": "speckled gray and white kitchen table surface, flat and smooth, with kitchen items",
+                "relation": [
+                    "kitchen table same as kitchen counter"
+                ]
+            },
+            {
+                "category": "person",
+                "description": "person's arms and torso visible, wearing dark patterned clothing",
+                "relation": [
+                    "person standing in front of cutting board",
+                    "person cutting vegetable",
+                    "person's hands touching cutting board"
+                ]
+            },
+            {
+                "category": "vegetable",
+                "description": "chopped red vegetable pieces, likely tomato",
+                "relation": [
+                    "vegetable on cutting board",
+                    "vegetable being handled by person"
+                ]
+            },
+            {
+                "category": "electric kettle",
+                "description": "black and silver electric kettle with handle and spout, plastic and metal construction",
+                "relation": [
+                    "electric kettle on kitchen counter",
+                    "electric kettle next to milk jug"
+                ]
+            },
+            {
+                "category": "milk jug",
+                "description": "large white plastic milk jug with purple label, partially filled, wide base and narrow neck",
+                "relation": [
+                    "milk jug on kitchen counter",
+                    "milk jug next to electric kettle"
+                ]
+            },
+            {
+                "category": "stove",
+                "description": "black electric stove with coil burners, stainless steel control panel",
+                "relation": [
+                    "stove next to kitchen counter",
+                    "stove under pot"
+                ]
+            },
+            {
+                "category": "pot",
+                "description": "small black non-stick pot with handle",
+                "relation": [
+                    "pot on stove",
+                    "pot next to cutting board"
+                ]
+            },
+            {
+                "category": "spice jar",
+                "description": "white cylindrical plastic spice jar with lid, labeled",
+                "relation": [
+                    "spice jar on kitchen counter",
+                    "spice jar next to bowl"
+                ]
+            },
+            {
+                "category": "salt shaker",
+                "description": "small white plastic salt shaker with perforated top, cylindrical shape",
+                "relation": [
+                    "salt shaker on kitchen counter",
+                    "salt shaker next to spice jar"
+                ]
+            },
+            {
+                "category": "window blinds",
+                "description": "white horizontal plastic window blinds, partially closed,",
+                "relation": [
+                    "window blinds above kitchen counter",
+                    "window blinds behind electric kettle"
+                ]
+            },
+            {
+                "category": "wall outlet",
+                "description": "white electrical wall outlet with two sockets",
+                "relation": [
+                    "wall outlet above countertop",
+                    "wall outlet next to spice jar"
+                ]
+            },
+            {
+                "category": "wall tile",
+                "description": "white square ceramic wall tiles with visible grout lines",
+                "relation": [
+                    "wall tile behind kitchen counter",
+                    "wall tile under window blinds"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "small clear plastic container with lid, possibly for spices or leftovers",
+                "relation": [
+                    "container on kitchen counter",
+                    "container next to salt shaker"
+                ]
+            },
+            {
+                "category": "lid",
+                "description": "white plastic lid with small holes, possibly for a shaker or container",
+                "relation": [
+                    "lid on kitchen counter",
+                    "lid next to milk jug"
+                ]
+            }
+        ]
+    }
+]

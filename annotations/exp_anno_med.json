@@ -1,0 +1,2867 @@
+[
+    {
+        "start_frame": "bbd99850-bcb0-460e-8a40-056f1e618f88-start.jpg",
+        "atomic_actions": " C throws bread container in trash| C opens container of butter| C butters bread| C closes container of butter| C returns container of butter to fridge| C puts on tap| C opens pack of vegetable| C picks knife| C puts off tap| C slices vegetable| C holds vegetable in hands| C removes back of vegetable| C puts on tap| C washes vegetable| C puts off tap| C sieves vegetable| C picks up vegetable| C puts on tap| C washes vegetable| C puts off tap| C places vegetable on chopping board| C slices vegetable| C drops rest of vegetable on counter| C opens cabinet| C brings out bowl from cabinet| C packs vegetable into bowl| C slices vegetable| C pours vegetable into bowl| C slices vegetable| C packs vegetables into bowl| C picks container of salt| C sprinkles salt into bowl| C drops container of salt| C mixes vegetables in bowl with hands| C puts on tap| C slices vegetable| C washes vegetable| C peels vegetable| C drops peeler| C puts off tap| C dries hands with clothes| C opens fridge| C brings out container from fridge| C closes fridge| C places container on counter| C opens container| C pours out content of container| C picks vegetable| C washes vegetable| C dips vegetable into container| C washes hands| C closes container| C puts container in fridge| C closes fridge| C dries hands with cloth| C returns vegetable into pack| C wipes kitchen top with tissue| C adjusts plate| C opens drawer| C picks spoon from drawer| C adjusts bowl| C picks up bread spread| C opens bread spread| C puts spread on bread| C spreads bread with spoon| C puts spread on bread| C spreads bread with spoon| C puts spread on bread| C spreads bread with spoon| C puts spread on bread| C spreads bread with spoon| C puts spread on bread| C spreads bread with spoon| C drops spoon in sink| C covers bread spread| C returns spread to fridge| C wipes surface| C puts on tap| C squeezes cloth| C puts off tap| C dries hands with cloth| C picks plate| C mixes vegetable| C washes hands| C ours water in bowl| C drains bowl| C drops bowl| C dries hands with cloth| C opens pack| C brings out jug| C puts vegetable in jug| C opens tap| C washes vegetable| C drops vegetable in jug| C puts off tap| C closes jug| C rolls top of jug| C drains water from jug| C opens container| C closes jug| C rolls top of jug| C drains water from jug| C opens container| C brings out vegetable from jug| C Drains jug| C drains bowl| C pours vegetable into bowl| C puts on tap| C rinses sieve| C drops sieve on rack| C rinses jug| C drops jug on rack| C picks up lid of jug| C rinses lid",
+        "end_frame_info": [
+            {
+                "category": "bowl",
+                "description": "large round metal bowl with a shiny reflective surface",
+                "relation": [
+                    "bowl in dish rack"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "small white ceramic bowl with a smooth surface",
+                "relation": [
+                    "bowl on kitchen counter"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "medium-sized transparent plastic bowl with a blue rim",
+                "relation": [
+                    "bowl in dish rack"
+                ]
+            },
+            {
+                "category": "colander",
+                "description": "metal colander with small holes",
+                "relation": [
+                    "colander on kitchen counter",
+                    "lettuce in colander"
+                ]
+            },
+            {
+                "category": "cloth",
+                "description": "white rectangular cloth with a soft texture",
+                "relation": [
+                    "cloth on plate"
+                ]
+            },
+            {
+                "category": "dish rack",
+                "description": "metal dish rack with multiple compartments",
+                "relation": [
+                    "dish rack on kitchen counter",
+                    "dish rack over sink"
+                ]
+            },
+            {
+                "category": "kitchen counter",
+                "description": "long white countertop with a smooth surface",
+                "relation": []
+            },
+            {
+                "category": "kitchen sink",
+                "description": "stainless steel sink with a curved basin",
+                "relation": [
+                    "kitchen sink in kitchen counter"
+                ]
+            },
+            {
+                "category": "lettuce",
+                "description": "green leafy lettuce with crisp texture",
+                "relation": [
+                    "lettuce in colander"
+                ]
+            },
+            {
+                "category": "lettuce",
+                "description": "green leafy lettuce with slightly wilted edges",
+                "relation": [
+                    "lettuce in colander"
+                ]
+            },
+            {
+                "category": "plate",
+                "description": "white round plate with a smooth surface",
+                "relation": [
+                    "plate on kitchen counter"
+                ]
+            },
+            {
+                "category": "plate",
+                "description": "white rectangular plate with a smooth surface",
+                "relation": [
+                    "plate on kitchen counter"
+                ]
+            },
+            {
+                "category": "sponge",
+                "description": "yellow rectangular sponge with a porous texture",
+                "relation": [
+                    "sponge in sink"
+                ]
+            },
+            {
+                "category": "stove",
+                "description": "black electric stove with multiple burners",
+                "relation": [
+                    "stove on kitchen counter"
+                ]
+            },
+            {
+                "category": "pot",
+                "description": "black non-stick pot with a black handle",
+                "relation": [
+                    "pot on stove"
+                ]
+            },
+            {
+                "category": "kettle",
+                "description": "silver metal kettle with a wooden handle",
+                "relation": [
+                    "kettle on stove"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "clear plastic bottle with a white cap",
+                "relation": [
+                    "bottle on kitchen counter"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "yellow plastic bottle with a red cap",
+                "relation": [
+                    "bottle on kitchen counter"
+                ]
+            },
+            {
+                "category": "utensil",
+                "description": "metal whisk with a black handle",
+                "relation": [
+                    "utensil in utensil holder"
+                ]
+            },
+            {
+                "category": "utensil",
+                "description": "wooden spatula with a yellow handle",
+                "relation": [
+                    "utensil in utensil holder"
+                ]
+            },
+            {
+                "category": "utensil holder",
+                "description": "clear plastic utensil holder containing various kitchen utensils",
+                "relation": [
+                    "utensil holder on kitchen counter"
+                ]
+            },
+            {
+                "category": "window",
+                "description": "large window with white sheer curtains",
+                "relation": [
+                    "window in background"
+                ]
+            },
+            {
+                "category": "table",
+                "description": "wooden table cluttered with papers, books, and various items",
+                "relation": [
+                    "table next to window"
+                ]
+            },
+            {
+                "category": "chair",
+                "description": "wooden chair with a dark finish",
+                "relation": [
+                    "chair next to table"
+                ]
+            },
+            {
+                "category": "teapot",
+                "description": "white ceramic teapot with a lid and spout",
+                "relation": [
+                    "teapot on kitchen counter"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "transparent plastic container with a lid",
+                "relation": [
+                    "container in dish rack"
+                ]
+            },
+            {
+                "category": "cup",
+                "description": "white ceramic cup with a handle",
+                "relation": [
+                    "cup on kitchen counter"
+                ]
+            },
+            {
+                "category": "spice rack",
+                "description": "wooden spice rack with multiple small jars",
+                "relation": [
+                    "spice rack above stove"
+                ]
+            },
+            {
+                "category": "faucet",
+                "description": "chrome faucet with a single handle",
+                "relation": [
+                    "faucet on sink"
+                ]
+            },
+            {
+                "category": "board",
+                "description": "yellow rectangular cutting board",
+                "relation": [
+                    "board in sink"
+                ]
+            },
+            {
+                "category": "bag",
+                "description": "clear plastic bag with green and white labeling",
+                "relation": [
+                    "bag on kitchen counter"
+                ]
+            },
+            {
+                "category": "book",
+                "description": "stack of books and papers",
+                "relation": [
+                    "book on table"
+                ]
+            },
+            {
+                "category": "fan",
+                "description": "small black fan with a round base",
+                "relation": [
+                    "fan on table"
+                ]
+            },
+            {
+                "category": "curtain",
+                "description": "white sheer curtain",
+                "relation": [
+                    "curtain on window"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "51280df4-f4d1-4f45-9b05-13fc99a46ae5-start.jpg",
+        "atomic_actions": " C rinses a tray| C closes the tap| C moves a can on the counter| C moves a bowl on the counter| C moves a wrap on the counter| C picks a towel from the counter| C wipes the tray with the towel| C drops the tray on the counter| C picks a rack from the sink| C opens the tap| C rinses the rack| C closes the tap| C puts the rack in the plate rack| C takes a chop board with a knife from the counter| C drops the chop board with knife in the sink| C takes a plate from the counter| C drops the plate in the sink| C opens the tap| C takes a bottle from the sink| C pours soap on a sponge| C drops the bottle on the sink| C washes the plate with the sponge| C opens the tap| C rinses the plate| C drops the plate in the sink| C takes the sponge from the sink| C rinses the sponge| C closes the tap| C takes the bottle from the sink| C pours soap on a sponge| C drops the bottle on the sink| C washes the plate with the sponge| C drops the plate in the sink| C washes the knife with the sponge| C drops the knife in the sink| C washes the chop hoard with the sponge| C opens the tap| C washes her hands| C rinses the chop board| C drops the chop board in the plate rack| C rinses the knife| C puts the knife in the plate rack| C rinses the plate| C closes the tap| C takes a dish towel by the sink| C wipes the plate with the dish towel| C drops the plate on a tray| C hangs the dish towel| C takes a salt shaker from the counter| C picks a bottle from the edge of the sink| C pours soap on the salt shaker| C drops the bottle at the edge of the sink| C opens the tap| C washes the salt shaker| C closes the tap| C puts the salt shaker on the plate rack| C takes a plate by the sink| C opens the tap| C picks a sponge from the sink| C washes the plate with the sponge| C drops the sponge in the sink| C rinses the plate| C taps the plate on the edge of the sink| C drops the plate on the counter| C picks the sponge from the sink| C washes the plate with the sponge| C drops the sponge in the sink| C rinses the plate| C turns off the tap| C taps the plate on the sink| C puts the plate on another plate| C carries the plates from the counter| C puts the plates at the edge of the sink| C moves a yellow hand towel| C picks a plastic container from the counter| C takes a can from the counter| C opens the tap| C pours water out of the can| C opens the tap| C closes the tap| C pours water out of the can| C takes the plastic container| C drops the can by the sink| C opens the tap| C washes the plastic container| C closes the tap| C picks the yellow hand towel from the counter| C opens the tap| C washes the hand towel| C opens the tap| C squeezes the hand towel| C drops the towel on the counter| C folds the hand towel| C wipes the counter with the towel| C raises a jar from the counter| C cleans the cooker with the towel| C opens the tap| C washes the towel| C closes the tap| C squeezes the towel| C folds the towel| C wipes the counter with the towel| C removes the pan support from the cooker| C wipes the cooker with the towel| C carries a pan from the cooker| C removes the pan supports from the cooker| C places the pan supports on the counter| C wipes the cooker with the towel| C cleans the pan support with the towel| C puts the pan support on the cooker| C cleans the pan support with the towel| C puts the pan support on the cooker| C picks the pan support from the counter| C cleans the pan support with the towel| C puts the pan support on the cooker| C cleans the cooker with the towel| C carries the pan from the counter| C places the pan on the cooker| C wipes the counter with the towel| C drops the towel on the counter| C opens a drawer| C takes a drain sieve from the drawer| C closes a drawer| C places the drain sieve on the counter| C opens the tap| C takes the sponge from the sink| C takes the bottle by the sink| C pours soap on the sponge| C drops the bottle by the sink| C washes the sponge| C closes the tap| C squeezes the sponge| C spreads the sponge on the soap rack| C takes a sponge from the soap rack| C opens the tap| C turns the tap around the sink| C washes the sink with the sponge| C washes the sink drain with the sponge| C rinses the sponge| C closes the tap| C puts the sponge on the soap rack| C removes the drain cover| C removes the drain sieve cup| C removes the drain sieve from the sieve cup| C puts the drain sieve into a bag| C picks a drain sieve from the counter| C puts the drain sieve on the sieve cup| C opens the tap| C puts the sieve cup in the drain| C puts the drain cover on the drain| C turns off the tap| C takes the towel from the counter| C wipes the bottle with the towel| C wipes the sink with the towel| C places down the bottle on the sink| C wipes the bottle with the towel| C wipes the sink with the towel| C places down the bottle on the sink| C removes the soap rack| C wipes the counter with the towel| C wipes the tap with the towel| C replaces the soap rack| C washes the towel| C closes the tap| C squeezes the towel| C folds the towel| C places the towel on the counter| C applies soap to his hands| C rubs his hands together",
+        "end_frame_info": [
+            {
+                "category": "bottle",
+                "description": "green glass bottle",
+                "relation": [
+                    "bottle on kitchen counter"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "small plastic bottle",
+                "relation": [
+                    "bottle on kitchen counter"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "small plastic bottle",
+                "relation": [
+                    "bottle on shelf"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "transparent glass bottle with a narrow neck",
+                "relation": [
+                    "bottle on kitchen counter"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "large metallic bowl with a reflective surface",
+                "relation": [
+                    "bowl on dish rack"
+                ]
+            },
+            {
+                "category": "drain",
+                "description": "circular metallic drain",
+                "relation": [
+                    "drain in kitchen sink"
+                ]
+            },
+            {
+                "category": "faucet",
+                "description": "chrome faucet with a curved spout and a single handle, shiny and reflective",
+                "relation": [
+                    "faucet on kitchen sink"
+                ]
+            },
+            {
+                "category": "kitchen counter",
+                "description": "white kitchen counter with a smooth surface",
+                "relation": [
+                    "kitchen counter under kitchen sink",
+                    "kitchen counter next to dish rack"
+                ]
+            },
+            {
+                "category": "kitchen sink",
+                "description": "stainless steel sink, shiny and reflective",
+                "relation": [
+                    "kitchen sink in kitchen counter",
+                    "kitchen sink under faucet"
+                ]
+            },
+            {
+                "category": "pan",
+                "description": "black non-stick pan with a ribbed surface",
+                "relation": [
+                    "pan on drying rack",
+                    "pan next to glass"
+                ]
+            },
+            {
+                "category": "person",
+                "description": "person, wearing a white sleeve, arms visible",
+                "relation": [
+                    "person washing hands in kitchen sink",
+                    "person standing in front of kitchen sink"
+                ]
+            },
+            {
+                "category": "sponge",
+                "description": "pink mesh sponge with a textured surface",
+                "relation": [
+                    "sponge in kitchen sink"
+                ]
+            },
+            {
+                "category": "sponge",
+                "description": "yellow rectangular sponge with a smooth surface",
+                "relation": [
+                    "sponge on kitchen counter"
+                ]
+            },
+            {
+                "category": "towel",
+                "description": "yellow rectangular towel with a smooth surface",
+                "relation": [
+                    "towel on kitchen counter"
+                ]
+            },
+            {
+                "category": "water",
+                "description": "clear water",
+                "relation": [
+                    "water in kitchen sink"
+                ]
+            },
+            {
+                "category": "glass",
+                "description": "clear wine glass with a long stem",
+                "relation": [
+                    "glass on kitchen counter",
+                    "glass next to pan"
+                ]
+            },
+            {
+                "category": "glass",
+                "description": "clear drinking glass with a wide mouth",
+                "relation": [
+                    "glass on kitchen counter",
+                    "glass next to wine glass"
+                ]
+            },
+            {
+                "category": "dish rack",
+                "description": "black metal dish rack",
+                "relation": [
+                    "dish rack on kitchen counter",
+                    "dish rack next to kitchen sink"
+                ]
+            },
+            {
+                "category": "plate",
+                "description": "white ceramic plate with a smooth surface",
+                "relation": [
+                    "plate in dish rack"
+                ]
+            },
+            {
+                "category": "cutting board",
+                "description": "white plastic cutting board with a smooth surface",
+                "relation": [
+                    "cutting board in dish rack"
+                ]
+            },
+            {
+                "category": "bag",
+                "description": "clear plastic bag with a zipper seal",
+                "relation": [
+                    "bag on kitchen counter"
+                ]
+            },
+            {
+                "category": "scale",
+                "description": "black digital kitchen scale with a flat surface",
+                "relation": [
+                    "scale on kitchen counter"
+                ]
+            },
+            {
+                "category": "chair",
+                "description": "white upholstered chair with a high back",
+                "relation": [
+                    "chair next to kitchen counter"
+                ]
+            },
+            {
+                "category": "curtain",
+                "description": "white and gray striped curtain",
+                "relation": [
+                    "curtain behind kitchen counter"
+                ]
+            },
+            {
+                "category": "can",
+                "description": "silver aluminum can with a pull tab",
+                "relation": [
+                    "can on kitchen counter"
+                ]
+            },
+            {
+                "category": "box",
+                "description": "orange and white cardboard box with printed text and images",
+                "relation": [
+                    "box on kitchen counter"
+                ]
+            },
+            {
+                "category": "knife",
+                "description": "black-handled knife with a metallic blade",
+                "relation": [
+                    "knife in dish rack"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "small plastic bottle with a green pump dispenser and a white body",
+                "relation": [
+                    "bottle next to faucet"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "f3dd7f48-050c-4d18-aa3d-753813d29630-start.jpg",
+        "atomic_actions": " C passes the object to his left hand| C drops the object in the sink| C changes the position of some objects in the sink with his left hand| C puts on a cooker with his right hand| C picks up a pot from the cooker with his right hand| C takes off the pot cover with his left hand| C pours okra from the pot in his hand into a sieve in the sink| C drops the pot in his right hand in the sink| C drops the pot cover in his left hand on the pot in the sink| C picks up the sieve containing the okra with his right hand| C turns on the tap with his left hand| C rinses the okra in the sieve| C drops the sieve in his right hand in the sink| C changes the position of the bowl with his right hand| C drops the sieve into the bowl in the sink with his right hand| C passes the nylon to his right hand| C turns off the tap with his left hand| C holds the nylon with both hands| C drops the nylon on a chopping board| C changes the position of a knife on the chopping board| C walks towards the cooker| C puts on the cooker with his right hand| C opens a drawer with both hands| C takes out a pot cover from the drawer with his right hand| C adjusts the cover with both hands| C drops the pot cover in his left hand on the cooker| C closes the drawer with his right hand| C walks back to the chopping board| C picks a pair of scissors with his right hand and the nylon on the chopping board with his left hand| C cuts the nylon| C drops the cut part of the nylon in his left hand in the bin| C drops the pair of scissors on the chopping board| C works the nylon with both hands| C drops the nylon on the chopping board| C checks the temperature of the foil on the cooker with his right hand | C takes out fish from the nylon with his right hand| C drops the fish on the foil with both hands| C takes out another fish from the nylon with his left hand| C drops the fish on the foil with both hands| C squeezes the nylon with both hands| C drops the nylon in the bin with his right hand| C opens the tap with his left hand| C rinses both hands| C rinses the okra in the sieve under the tap with his right hand| C drops the sieve with okra in it| C changes the position of the bowl in the sink with his left hand| C changes the position of the sieve with okra in it| C puts off the tap with his left hand| C changes the position of the bowl in the sink with his left hand| C wipes his hands with a napkin| C picks out two chopsticks from a container with his left hand| C passes the chopsticks to his right hand| C drops the chopsticks beside the sink| C picks up some other chopsticks with his right hand| C arranges the chopsticks with both hands| C puts the chopsticks in the container he picked the first two from with his left hand| C picked the two chopsticks beside the sink with his right hand| C walks to the cooker| C adjusts the foil and one of the fishes with the chopsticks in his right hand| C passes the chopsticks to his left hand and back to his right hand| C adjusts the foil with his left hand and the chopsticks in his right hand| C passes the chopsticks to his left hand| C picks a pot cover from the cooker with his right hand| C covers the fishes| C changes the position of a toothpick with his right hand| C adjusts two bowls beside the cooker with his right hand| C passes the chopsticks to his right hand| C touches the drawer with his right hand| C picks the pot cover on the pot in the sink with his left hand| C passes it to his right hand| C picks up a sponge with his right hand| C passes the sponge to his left hand| C picks up a soap container from the top of the sink with his right hand| C opens the soap container with his left hand| C pours the soap in his right hand on the sponge in his left hand| C drops the soap container on the sink with his right hand| C passes the sponge to his right hand| C picks up the pot cover with his left hand| C washes the pot cover with the sponge in his right hand| C drops the pot cover in his left hand in the sink| C drops the sponge in his right hand on the pot cover| C picks the pot in the sink with his left hand| C picks the sponge from the pot cover with his right hand| C washes the pot in his left hand with the sponge| C drops the sponge in his right hand| C changes the position of the sponge with his right hand| C turns on the tap with his right hand| C rinses the pot with both hands| C changes the position of the pot cover in the sink with his left hand| C rinses the pot with both hands| C closes a first tap with his left hand| C opens a second tap with his left hand with the pot in his right hand under the tap| C places the pot in his right hand on a cooker| C picks a pot cover from a sink with his right hand| C opens the first tap with his left hand| C rinses the cover with both hands| C closes the tap with his left hand| C walks to the pot on the cooker with the cover in his right hand| C covers the pot| C walks back to the sink| C dries his hands with a napkin hanging below the sink| C walks to the fridge| C opens the fridge with his right hand| C takes out a nylon from the fridge with his right hand| C opens the nylon with both hands| C takes out the component of the nylon with his right hand| C drops them on a chopping board| C takes out the component of the nylon with his right hand| C drops them on the chopping board| C closes the nylon| C walks back to the fridge| C opens the fridge with his left hand| C places the nylon in the fridge with his right hand| C closes the fridge with both hands| C picks up chopsticks from a bowl with his right hand| C opens a pot on the cooker with his right hand| C drops the pot cover on the cooker| C adjusts the chopsticks in his right hand with his left hand| C holds the pot handle with his left hand| C adjusts two pieces of fish on a foil in the pot with the chop sticks| C picks the cover from the cooker with his right hand| C covers the pot| C passes the chopsticks to his left hand and back to his right hand| C drops the chopsticks on the bowl he picked it from| C picks one of the components of the nylon he dropped on the chopping board with his right hand| C removes some part of it with both hands| C drops it back on the chopping board with his right hand| C picks another component of the nylon he dropped on the chopping board with his right hand| C removes some part of it with both hands| C picks another component of the nylon he dropped on the chopping board with his right hand| C drops it back on the chopping board with his left hand| C picks another component of the nylon he dropped on the chopping board with his right hand| C removes some part of it with both hands| C drops it back on the chopping board with his right hand| C picks another component of the nylon he dropped on the chopping board with his right hand| C removes some part of it with both hands| C drops it back on the chopping board with his right hand| C picks another component of the nylon he dropped on the chopping board with his right hand| C removes some part of it with both hands| C packs all of them on the chopping board with both hands | C opens the pot with his left hand| C pours everything in his right hand into the pot| C closes the pot with his left hand| C walks back to the sink| C opens the first tap with his left hand| C rinses both hands| C closes the tap with his left hand| C wipes the chopping board with his right hand| C opens the first tap with his left hand| C rinses both hands| C closes the tap with his left hand| C dries his hands with the napkin hanging below the sink| C walks to the cooker| C picks up the chopsticks with his left hand| C passes them to his right hand| C opens the pot with his left hand| C adjusts a fish in the pot with the chopsticks| C covers the pot| C drops the chopsticks on the bowl he picked them from",
+        "end_frame_info": [
+            {
+                "category": "board",
+                "description": "white rectangular plastic cutting board with a smooth surface",
+                "relation": [
+                    "board on kitchen counter"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "small transparent glass bowl",
+                "relation": [
+                    "bowl on kitchen counter"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "medium-sized white ceramic bowl with a glossy finish, round shape, empty",
+                "relation": [
+                    "bowl on kitchen counter"
+                ]
+            },
+            {
+                "category": "chopstick",
+                "description": "pair of thin wooden chopsticks, light brown color, smooth texture",
+                "relation": [
+                    "chopstick on kitchen counter"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "rectangular plastic container with a transparent lid",
+                "relation": [
+                    "container on floor"
+                ]
+            },
+            {
+                "category": "exhaust hood",
+                "description": "white rectangular exhaust hood with a digital display showing 12:34, smooth surface",
+                "relation": [
+                    "exhaust hood above stove"
+                ]
+            },
+            {
+                "category": "foil",
+                "description": "shiny metallic foil",
+                "relation": [
+                    "foil on pot"
+                ]
+            },
+            {
+                "category": "kitchen counter",
+                "description": "long rectangular countertop with a smooth surface, light brown color",
+                "relation": [
+                    "kitchen counter under exhaust hood",
+                    "kitchen counter next to sink"
+                ]
+            },
+            {
+                "category": "kitchen sink",
+                "description": "stainless steel sink with a curved basin, shiny surface",
+                "relation": [
+                    "kitchen sink in kitchen counter"
+                ]
+            },
+            {
+                "category": "knife",
+                "description": "black-handled kitchen knife with a sharp blade, metallic surface",
+                "relation": [
+                    "knife on cutting board"
+                ]
+            },
+            {
+                "category": "omelet",
+                "description": "omelet in a pan, golden brown color",
+                "relation": [
+                    "omelet in pot"
+                ]
+            },
+            {
+                "category": "person",
+                "description": "person wearing a gray shirt",
+                "relation": [
+                    "person standing on mat",
+                    "person near kitchen counter"
+                ]
+            },
+            {
+                "category": "plate",
+                "description": "white ceramic plate with a glossy finish, round shape, empty",
+                "relation": [
+                    "plate on kitchen counter"
+                ]
+            },
+            {
+                "category": "pot",
+                "description": "metal pot with a glass lid, shiny surface",
+                "relation": [
+                    "pot on stove"
+                ]
+            },
+            {
+                "category": "scissor",
+                "description": "black-handled scissors with metallic blades",
+                "relation": [
+                    "scissor on cutting board"
+                ]
+            },
+            {
+                "category": "sieve",
+                "description": "metal sieve with a fine mesh, round shape",
+                "relation": [
+                    "sieve on kitchen counter"
+                ]
+            },
+            {
+                "category": "soap",
+                "description": "green bar of soap, rectangular shape",
+                "relation": [
+                    "soap in kitchen sink"
+                ]
+            },
+            {
+                "category": "sponge",
+                "description": "green sponge with a rough texture, rectangular shape,",
+                "relation": [
+                    "sponge in kitchen sink"
+                ]
+            },
+            {
+                "category": "tap",
+                "description": "metal faucet with a curved spout, shiny surface,",
+                "relation": [
+                    "tap on kitchen sink"
+                ]
+            },
+            {
+                "category": "temperature",
+                "description": "digital temperature display showing 12:34, black numbers",
+                "relation": [
+                    "temperature on exhaust hood"
+                ]
+            },
+            {
+                "category": "tool",
+                "description": "black-handled scissors with metallic blades",
+                "relation": [
+                    "tool on cutting board"
+                ]
+            },
+            {
+                "category": "tool",
+                "description": "metal spoon with a long handle, shiny surface",
+                "relation": [
+                    "tool on kitchen counter"
+                ]
+            },
+            {
+                "category": "tool",
+                "description": "black-handled kitchen knife with a sharp blade, metallic surface",
+                "relation": [
+                    "tool on cutting board"
+                ]
+            },
+            {
+                "category": "utensil",
+                "description": "black-handled kitchen knife with a sharp blade, metallic surface",
+                "relation": [
+                    "utensil on cutting board"
+                ]
+            },
+            {
+                "category": "utensil",
+                "description": "black-handled scissors with metallic blades",
+                "relation": [
+                    "utensil on cutting board"
+                ]
+            },
+            {
+                "category": "utensil",
+                "description": "metal spoon with a long handle, shiny surface",
+                "relation": [
+                    "utensil on kitchen counter"
+                ]
+            },
+            {
+                "category": "utensil",
+                "description": "pair of thin wooden chopsticks, light brown color, smooth texture",
+                "relation": [
+                    "utensil on kitchen counter"
+                ]
+            },
+            {
+                "category": "mat",
+                "description": "striped mat with alternating light and dark gray stripes, rectangular shape",
+                "relation": [
+                    "mat under person"
+                ]
+            },
+            {
+                "category": "stove",
+                "description": "black gas stove",
+                "relation": [
+                    "stove under exhaust hood",
+                    "stove next to kitchen counter"
+                ]
+            },
+            {
+                "category": "kettle",
+                "description": "metal kettle with a black handle and spout",
+                "relation": [
+                    "kettle on stove"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "transparent plastic bottle with a green cap",
+                "relation": [
+                    "bottle near sink"
+                ]
+            },
+            {
+                "category": "cup",
+                "description": "white ceramic cup with a handle",
+                "relation": [
+                    "cup on kitchen counter"
+                ]
+            },
+            {
+                "category": "towel",
+                "description": "white towel",
+                "relation": [
+                    "towel on kitchen counter"
+                ]
+            },
+            {
+                "category": "wrap",
+                "description": "clear plastic wrap covering a block of food",
+                "relation": [
+                    "wrap on yellow cloth"
+                ]
+            },
+            {
+                "category": "cloth",
+                "description": "yellow cloth with a textured surface",
+                "relation": [
+                    "cloth on kitchen counter"
+                ]
+            },
+            {
+                "category": "box",
+                "description": "cardboard box with printed text and images",
+                "relation": [
+                    "box on floor"
+                ]
+            },
+            {
+                "category": "bag",
+                "description": "transparent plastic bag",
+                "relation": [
+                    "bag on floor"
+                ]
+            },
+            {
+                "category": "spice jar",
+                "description": "small glass jar with a black lid",
+                "relation": [
+                    "spice jar on kitchen counter"
+                ]
+            },
+            {
+                "category": "glass",
+                "description": "clear glass tumbler, cylindrical shape",
+                "relation": [
+                    "glass on kitchen counter"
+                ]
+            },
+            {
+                "category": "timer",
+                "description": "digital timer with a white casing",
+                "relation": [
+                    "timer on exhaust hood"
+                ]
+            },
+            {
+                "category": "wall",
+                "description": "white tiled wall with a smooth surface",
+                "relation": [
+                    "wall behind sink"
+                ]
+            },
+            {
+                "category": "floor",
+                "description": "light brown wooden floor with a smooth surface",
+                "relation": [
+                    "floor under mat",
+                    "floor under kitchen counter"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "083a509c-5bad-4617-8eda-62f882c45ba8-start.jpg",
+        "atomic_actions": " C rinses her hands| C picks up a sponge scourer from a rack| C passes sponge scourer to her right hands| C squeezes sponge scourer| C turns off tap| C picks up soap from the rack| C applies soap to the sponge scourer| C places soap back to the rack| C moves two plates in the sink| C picks up a saucer from the sink| C pours off water from the saucer| C washes the saucer with the sponge scourer| C places the saucer on the kitchen slab| C picks another plate from the sink| C pours off water from the plate| C washes the plate with the sponge scourer| C places the plate on the saucer on the kitchen slab| C picks up a yellow plate from the sink| C pours off water from the yellow plate| C washes the yellow plate with the sponge scourer| C places the plate on the previous plate| C moves two plates in the sink| C picks up another plate from the sink| C pours off water from the plate| C drops the plate in the sink| C picks up a blue saucer from the sink| C pours off water from the blue saucer| C washes the blue saucer| C raises the yellow plate| C puts the blue saucer in the middle of the plates on the kitchen slab| C places the yellow plate on the blue saucer| C pours off water from the black plate| C washes the red plate| C places the red plate on the yellow plate| C picks another red plate from the sink| C pours off water from the black plate into two plates in the sink| C washes the red plate| C places the red plate on the previous red plate| C moves a small white plate in the sink| C picks up a plastic plate from the sink| C pours off water from the plastic plate into a small plate| C washes the plastic plate| C places the plastic plate on the red plate| C moves two small plates in the sink| C pours off water from one of the small plate into the other small plate in the sink| C washes the small plate| C places the small plate on the plastic plate| C moves four chop sticks in the sink| C moves two plates in the sink| C carries a small plate from the sink| C pours off water from the small plate into another plate in the sink| C washes the small plate| C places the small plate on the the previous small plate| C moves a plate in the sink| C touches a chop stick in the sink| C drops the sponge scourer into the rack| C turns on the tap| C touches the small plate on the previous small plate briefly| C rinses her hands| C carries some plates from the yellow plate on the kitchen slab| C rinses the plates briefly| C drops the plates on the kitchen slab| C rinses her hands| C moves a plate in the sink| C resumes rinsing both hands| C pours water on the tap| C drips off water from her hangs| C carries kettle from the cooker| C pours water from the kettle into the plates in the sink| C moves a blue cover on the sink| C pours water on the blue cover| C turns the blue cover to the other side| C pours water into the sink| C walks towards the cooker| C drops the kettle on the cooker| C picks up sponge scourer from the rack| C passes sponge scourer to her right hand| C squeezes the sponge scourer| C touches a plate in the sink| C turns on tap briefly| C picks up soap from the rack| C applies soap to the sponge scourer| C drops the soap into the rack| C picks up the chop sticks from the sink| C washes the chop sticks| C drops the chop sticks on the yellow plate| C touches a plate in the sink| C picks up blue cover from the sink| C washes the blue cover| C places the blue cover on the kitchen slab| C touches the plate in the sink| C picks up another plastic plate from the sink| C pours off water from the plastic plate into the other plates in the sink| C washes the plastic plate| C drops the plate in the sink| C continues washing the plastic plate| C raises the plastic plate| C places the plastic plate on the plastic cover on the kitchen slab| C picks up another plate from the sink| C pours of water from the plate| C washes the plate| C places the plate into the plastic plate| C picks up plate from the sink| C pours of water from the plate| C washes the plate| C drops sponge scourer in the rack| C turns on the tap| C rinses the plate| C moves the chop sticks from the yellow plate to the plastic plate| C carries the first set of plates on the kitchen slab| C drops the plates in the sink| C drops the plate in her hand in the other plates in the sink| C carries the third set of plates on the kitchen slab| C moves the chop sticks to the blue cover on the kitchen slab from the third set of plated| C moves the plates in the sink| C picks up the chop sticks from the blue cover| C passes the chop sticks to her left hand| C carries the last set of plates on the kitchen slab| C drops the plates in the sink| C moves plates briefly in the sink| C rinses the chop sticks| C picks up the blue cover from the kitchen slab| C rinses the blue cover briefly| C drops the blue cover on the kitchen slab| C passes chop sticks to her right hand| C pouts off water from the plastic plate in the sink| C places the plastic plate on the blue cover| C passes the chop sticks to her left hand| C wipes the kitchen slab with her hand| C rinses the chop sticks| C wipes the kitchen slab with her hand| C rinses the chop sticks| C places the chop sticks on the plastic plate| C moves the plates in the sink| C rinses a plate in the sink",
+        "end_frame_info": [
+            {
+                "category": "kitchen sink",
+                "description": "stainless steel double basin sink with a shiny metallic surface",
+                "relation": [
+                    "kitchen sink in kitchen counter",
+                    "kitchen sink under faucet"
+                ]
+            },
+            {
+                "category": "faucet",
+                "description": "chrome-finished faucet with a curved spout and lever handle",
+                "relation": [
+                    "faucet over kitchen sink",
+                    "faucet dispensing water"
+                ]
+            },
+            {
+                "category": "drain",
+                "description": "circular metallic drain with a dark interior",
+                "relation": [
+                    "drain inside kitchen sink"
+                ]
+            },
+            {
+                "category": "kitchen counter",
+                "description": "gray speckled countertop with a smooth surface",
+                "relation": [
+                    "kitchen counter surrounding kitchen sink"
+                ]
+            },
+            {
+                "category": "person",
+                "description": "person wearing black and white striped clothing",
+                "relation": [
+                    "person washing bowl",
+                    "person standing near kitchen sink"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "white ceramic bowl with a smooth surface",
+                "relation": [
+                    "bowl under faucet",
+                    "bowl in person's hands"
+                ]
+            },
+            {
+                "category": "sponge",
+                "description": "white and orange sponge with a textured surface",
+                "relation": [
+                    "sponge on kitchen counter"
+                ]
+            },
+            {
+                "category": "soap",
+                "description": "white bar of soap with a smooth surface",
+                "relation": [
+                    "soap on kitchen counter"
+                ]
+            },
+            {
+                "category": "dish rack",
+                "description": "metal wire dish rack",
+                "relation": [
+                    "dish rack on kitchen sink"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "blue plastic bottle with a narrow neck",
+                "relation": [
+                    "bottle in dish rack"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "black and pink plastic bottle",
+                "relation": [
+                    "bottle in dish rack"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "transparent rectangular plastic container",
+                "relation": [
+                    "plastic container on kitchen counter",
+                    "chopsticks inside plastic container"
+                ]
+            },
+            {
+                "category": "chopsticks",
+                "description": "two chopsticks, one red and one black with gold patterns",
+                "relation": [
+                    "chopsticks in plastic container"
+                ]
+            },
+            {
+                "category": "water",
+                "description": "clear water",
+                "relation": [
+                    "water flowing from faucet",
+                    "water in kitchen sink"
+                ]
+            },
+            {
+                "category": "towel",
+                "description": "white crumpled towel",
+                "relation": [
+                    "towel on kitchen counter"
+                ]
+            },
+            {
+                "category": "food",
+                "description": "clear plastic package with Japanese text",
+                "relation": [
+                    "food on kitchen counter"
+                ]
+            },
+            {
+                "category": "cabinet",
+                "description": "wooden cabinet with a light brown finish and a metal handle",
+                "relation": [
+                    "cabinet under kitchen counter"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "yellow plastic bowl ",
+                "relation": [
+                    "bowl in kitchen sink"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "24e11c60-a866-4f66-ad81-54532a597248-start.jpg",
+        "atomic_actions": " C walks to the other side of a motorbike.| C unscrews a switch holder of the motorbike with the screwdriver in his right hand. #Unsure| C unscrews the switch holder of the motorbike with the screwdriver in both hands. #Unsure| C touches a throttle grip of the motorbike with his left hand.| C interacts with a man X.| C lifts the switch of the motorbike with his right hand.| C drops the switch of the motorbike in his right hand on the bike.| C holds the switch holder of the motorbike with both hands. #Unsure| C drops the switch holder of the motorbike on the tool table with his right hand. #Unsure| C drops the screwdriver in his right hand on the tool table.| C holds a throttle grip with his left hand.| C holds a clutch lever with his right hand.| C presses on the clutch lever in his right hand.| C holds a switch of the motorbike with his left hand| C picks the screwdriver on the tool table with his right hand.| C unscrews the switch holder of the motorbike with the screwdriver in his right hand. #Unsure| C unscrews the switch holder of the motorbike with the screwdriver in both hands. #Unsure| C touches his face with his right hand. #Unsure| C unscrews the switch holder of the motorbike with the screwdriver in both hands. #Unsure| C unscrews the throttle grip with the screwdriver in his right hand.| C touches the switch of the motorbike with his left hand.| C lifts the switch of the motorbike with his right hand.| C removes a cable clip on a handle bar with his left hand| C moves the cable clip in his left hand to his right hand.| C drops the cable clip in his right hand on the tool table.| C drops a nail in his left hand on the tool table.| C twists the switch of the motorbike with both hands.| C twists the throttle grip with his right hand.| C opens up the switch of the motorbike with both hands.| C drops the screwdriver in his right hand on the tool table.| C picks a combination spanner on the tool table with his right hand.| C unscrews a mirror holder of the motorbike with the combination spanner in his right hand. #Unsure| C unscrews the mirror holder with his left hand. #Unsure| C detaches the mirror of the motorbike with his right hand.| C detaches the switch of the motorbike with his left hand.| C drops the mirror of the motorbike on the bike with his left hand.| C walks towards a cabinet.| C moves the combination spanner in his right hand to his left hand.| C picks a cloth in front of the cabinet with his right hand.| C drops the cloth on the motorbike with his left hand.| C drops the mirror of the motor bike on the cloth with both hands.| C takes the combination spanner in his left hand with his right hand.| C takes the mirror holder of the motorbike in his left hand with his right hand. #Unsure| C drops the mirror holder of the motorbike in his right hand on the tool table. #Unsure| C drops the combination spanner in his right hand on the tool table.| C picks the screwdriver on the tool table with his left hand.| C moves the screwdriver in his left hand to his right hand.| C unscrews a mirror holder of the motorbike with the screwdriver in his right hand. #Unsure| C bends the mirror of the motorbike with his left hand.| C unscrews the mirror holder of the motorbike with the screwdriver with both hands. #Unsure| C holds the mirror of the motorbike| C removes the bolt of the mirror holder of the motorbike with his right hand. #Unsure| C moves the bolt in his right hand to his left hand.| C holds a clutch cable with his right hand. #Unsure| C holds the mirror of the motorbike with his left hand.| C unscrews the mirror holder of the motorbike with the screwdriver in his right hand. #Unsure| C detaches the mirror of the motorbike with his left hand.| C removes the mirror holder of the motorbike with his right hand. #Unsure| C pulls the cloth on the motorbike to the side with his left hand.| C places the mirror of the motorbike on the cloth at the side of the motorbike with his right hand.| C moves the mirror holder in his right hand to his left hand. #Unsure| C holds the switch of the motorbike with his left hand.| C unscrews the switch holder of the motorbike with the screwdriver in his right hand. #Unsure| C unscrews the switch holder of the motorbike with the screwdriver in both hands. #Unsure| C holds the throttle grip with his left hand.| C unscrews the switch holder of the motorbike with the screwdriver in both hands. #Unsure| C removes a bolt in the switch holder with his right hand. #Unsure| C drops the bolt of the switch holder in his right hand on his left hand. #Unsure| C loosens a bolt in the switch on the handle bar with the screw driver in both hands.| C removes the bolt in the switch on the handle bar with his right hand.| C removes the switch on the handle bar with both hands.| C picks a switch clamp in his left hand with his right hand. #Unsure| C drops the switch clamp in his right hand on a tool table. #Unsure| C drops the screwdriver in his right hand on the tool table. #Unsure| C drops the bolts in his left hand on the tool table.| C picks a t-spanner on the tool table with his right hand.| C loosens a bolt in a handle bar clamp with the t-spanner in both hands.| C loosens a bolt in the handle bar clamp with the t-spanner in both hands.| C loosens a bolt in the handle bar clamp with the t-spanner in his left hand.| C holds the handle bar with his right hand.| C loosens the bolt in the handle bar clamp with the t-spanner in his left hand.| C loosens the bolt in the handle bar clamp with the t-spanner in both hands.| C loosens the bolt in the handle bar clamp with the t-spanner in both hands.| C puts the t-spanner in his right pocket with his right hand.| C holds the handle bar with his right hand.| C loosens the bolt in the handle bar clamp with his left hand.| C loosens the bolt in the handle bar clamp with his right hand.| C removes the bolt in the handle bar clamp with his right hand.| C removes the handle bar clamp with the bolt with his left hand.| C removes the handle bar clamp from the bolt in his left hand with his right hand.| C loosens the bolt on the handle bar clamp with his left hand.| C holds the handle bar with his right hand.| C holds the handle bar with both hands.| C shakes the handle bar with both hands.| C touches a clutch cable with his right hand.| C moves the bolt in his left hand to his right hand.| C drops the bolt in his right hand on the tool table.| C holds the handle bar with his right hand.| C loosens the bolt in the handle bar clamp with his left hand.| C removes the bolt in the handle bar clamp with his left hand.| C removes the handle bar clamp with his left hand.| C holds the handle bar with both hands.| C holds a throttle grip with his right hand.| C pulls out the throttle grip from the handle bar with his right hand.| C closes a key box on the handle bar with his right hand. #Unsure| C pulls out the throttle grip from the handle bar with his right hand.| C holds the handle bar with both hands.| C removes his left hand from the handle bar in his right hand.| C drops the handle bar in his right hand on the table.| C drops the handle bar clamp in his left hand on the tool table.| C drops the bolt in his left hand on the tool table.| C holds a clutch lever with both hands.| C moves the clutch lever in both hands to the side of a motorbike.| C removes a clamp from the motorbike with his left hand.| C removes a clamp from the motorbike with his left hand.| C moves the clamps in his left hand to his right hand.| C drops the clamps in his right hand on the tool table| C holds a nylon on the tool table with his right hand.| C removes a handle bar from the nylon in his left hand with his right hand.| C holds the handle bar with both hands.| C holds the throttle grip with his right hand.| C takes a brush stick in a oil on the tool table with his right hand. #Unsure| C dips the brush stick in is right hand in the throttle grip. #Unsure| C dips the brush stick in his right hand into the oil on the tool table. #Unsure| C holds the throttle grip with his left hand.| C dips the brush stick in his right hand into the oil on the tool table. #Unsure| C drops the brush stick in his right hand into the oil on the tool table. #Unsure| C holds the throttle grip with his right hand.| C puts the handle bar in his left hand into the throttle grip in his right hand.| C picks handle bar clamp on the tool table with his right hand.| C holds the throttle grip with his right hand.| C holds a nylon with both hands.| C removes a nylon from the nylon with his right hand.| C picks bolts from the nylon with his right hand.| C puts the bolts in his right hand on his left hand.| C drops the bolts in his left hand on the tool table.| C picks handle bar clamp on the tool table with his left hand.| C puts the bolt in his right hand into the handle bar clamp in his left hand.| C holds the clutch cable with his right hand. #Unsure| C screws the bolt in the handle bar clamp on the handle bar with his left hand.| C picks the bolt from the tool table with his right hand.| C moves the bolt in his right hand to his left hand.| C screws the bolt into the handle bar clamp on the handle bar with his left hand.| C walks towards a tool wall. #Unsure| C picks a t-spanner from the tool wall with his left hand. #Unsure| C throws the t-spanner in his left hand to his right hand.| C walks towards the motorbike.| C moves the t-spanner in his right hand to his left hand.| C holds the throttle grip with his right hand.| C holds the handle bar with his left hand.| C lifts the handle bar with both hands.",
+        "end_frame_info": [
+            {
+                "category": "person",
+                "description": "person wearing a red and black motorcycle jacket with white stripes",
+                "relation": [
+                    "person wearing jacket",
+                    "person holding handlebar",
+                    "person standing on floor",
+                    "person working on motorbike"
+                ]
+            },
+            {
+                "category": "jacket",
+                "description": "red and black motorcycle jacket with white stripes, smooth fabric with visible seams and red buttons",
+                "relation": [
+                    "jacket worn by person"
+                ]
+            },
+            {
+                "category": "motorbike",
+                "description": "silver and black Honda motorcycle with visible fuel tank featuring Honda logo and K&N decal, black handlebars",
+                "relation": [
+                    "motorbike on floor",
+                    "motorbike being worked on by person"
+                ]
+            },
+            {
+                "category": "handlebar",
+                "description": "black curved metal handlebar with smooth finish",
+                "relation": [
+                    "handlebar part of motorbike",
+                    "handlebar held by person"
+                ]
+            },
+            {
+                "category": "fuel tank",
+                "description": "silver metallic fuel tank with black Honda logo, and K&N decal with orange and red stripes, smooth and slightly reflective surface",
+                "relation": [
+                    "fuel tank part of motorbike"
+                ]
+            },
+            {
+                "category": "clamp",
+                "description": "metal clamp, shiny silver finish, cylindrical shape",
+                "relation": [
+                    "clamp attached to handlebar",
+                    "clamp part of motorbike"
+                ]
+            },
+            {
+                "category": "lever",
+                "description": "black plastic lever, smooth curved surface, likely brake or clutch lever",
+                "relation": [
+                    "lever part of handlebar",
+                    "lever on motorbike"
+                ]
+            },
+            {
+                "category": "tool",
+                "description": "silver metal tool with cylindrical shaft and flat head, possibly a screwdriver or punch",
+                "relation": [
+                    "tool held by person",
+                    "tool near handlebar"
+                ]
+            },
+            {
+                "category": "floor",
+                "description": "gray tiled floor with visible grout lines, slightly dirty",
+                "relation": [
+                    "floor under motorbike",
+                    "floor under person"
+                ]
+            },
+            {
+                "category": "cable",
+                "description": "black insulated cable, slightly curved",
+                "relation": [
+                    "cable part of motorbike"
+                ]
+            },
+            {
+                "category": "clip",
+                "description": "metal clip, silver and shiny",
+                "relation": [
+                    "clip attached to handlebar",
+                    "clip holding cable"
+                ]
+            },
+            {
+                "category": "engine area",
+                "description": "exposed motorcycle engine, partially covered",
+                "relation": [
+                    "engine area part of motorbike"
+                ]
+            },
+            {
+                "category": "fabric",
+                "description": "black fabric, smooth and slightly wrinkled, likely protective or cleaning cloth",
+                "relation": [
+                    "fabric on motorbike",
+                    "fabric covering engine area"
+                ]
+            },
+            {
+                "category": "workbench",
+                "description": "red metal workbench",
+                "relation": [
+                    "workbench next to motorbike",
+                    "workbench on floor"
+                ]
+            },
+            {
+                "category": "bucket",
+                "description": "black plastic bucket, cylindrical shape",
+                "relation": [
+                    "bucket on floor",
+                    "bucket next to workbench"
+                ]
+            },
+            {
+                "category": "toolbox",
+                "description": "red metal toolbox",
+                "relation": [
+                    "toolbox on workbench"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "be97c001-8d23-4d16-8fd5-489773979277-start.jpg",
+        "atomic_actions": " C closes the pack of milk|# C pours milk into the bowl of eggs.| C drops the cup on the sink.| C whisk the egg and milk.| C presses her phone| C whisk the egg and milk.| C picks a jar of sugar. | C shifts the pack of egg| C opens a drawer| C pics a spoon.| C closes the drawer| C scoops sugar from the jar into the bowl . | C drops the spoon.| C returns the jar of sugar to the rack. | C presses her phone.| C whisk the egg and milk.| C presses her phone.| C picks a pack of milk.| C drops the pack of milk.| C opens the pack of milk.| C picks a pack of milk and cup.| C pours milk into the cup| C drops the pack of milk| C pours the milk into the eggs mixtures| C mixes the batter.| C presses her phone.| C drops her phone| C presses her phone.| C picks the pack of eggs.| C picks the pack of milk.| C drops the pack of milk on the counter.| C opens a fridge| C picks a nylon of salt.| C places the pack of eggs in the fridge| C removes a pack of pudding. | C drops the nylon of slat.| C drops a pack of baby milk. | C picks a pack of milk.| C puts the milk in the fridge.| C adjusts the pack of chips in the fridge.| C puts the milk in the fridge.| C closes the fridge| C opens a cabinet.| C moves the slices of bread on the other counter.| C moves a puzzle to another counter.| C picks a plates.| C closes the cabinet| C picks the slice of bread.| C drops the plate and bred on the counter top.| C separates the plates.| C picks the slice bread.| C unwraps the slice bread.| C places the bread on the plates| C drops the nylon on the counter.| C whisk a batter. | C drops the whisk on the sink.| C pick the batter bowl and a cup of milk. | C pours the batter into the cup of milk | C pours the mixture of milk and batter on the bread in the plate| C drops the cup.| C picks the whisk.| C whisk the batter. | C drops the whisk on the sink.| C picks the cup.| C pours the batter into the cup | C pours the batter on the bread in the plate| C pours the batter into the cup | C pours the batter on the bread in the plate| C pours the batter into the cup | C pours the batter on the bread in the plate. | C pours the batter into the cup | C pours the batter on the bread in the plate. | C pours the batter into the cup | C pours the batter on the bread in the plate. | C pours the batter into the cup | C pours the batter on the bread in the plate. | C pours the batter into the cup | C pours the batter on the bread in the plate. | C drops the cup and the bowl in the sink.| C touches her phone.| C picks the whisk in the sink.| C turns the breads in the plates over| C opens the tap.| C rinses her fingers.| C closes the tap.| C cleans her hands.| C picks the nylon on the counter.| C separates the nylons.| C covers the plates with the nylon.| C picks the plate.| C drops the plate.| C picks the nylon on the counter.| C covers the plates with the nylon.| C picks the plate.| C washes the cup.| C drops the cup in the plate rack.| C rinses a bowl.| C washes the bowl.| C rinses the bowl.| C drops the sponge.",
+        "end_frame_info": [
+            {
+                "category": "bowl",
+                "description": "round white ceramic bowl, possibly butter or cheese",
+                "relation": [
+                    "bowl on kitchen counter",
+                    "bowl next to plate"
+                ]
+            },
+            {
+                "category": "butter",
+                "description": "yellow rectangular block of butter with a smooth surface,",
+                "relation": [
+                    "butter in bowl"
+                ]
+            },
+            {
+                "category": "cup",
+                "description": "white ceramic cup with a handle, glossy surface",
+                "relation": [
+                    "cup on shelf",
+                    "cup next to microwave"
+                ]
+            },
+            {
+                "category": "cup",
+                "description": "white ceramic cup with a handle, glossy surface",
+                "relation": [
+                    "cup in kitchen sink"
+                ]
+            },
+            {
+                "category": "kitchen counter",
+                "description": "metallic kitchen counter",
+                "relation": [
+                    "kitchen counter under microwave",
+                    "kitchen counter next to sink"
+                ]
+            },
+            {
+                "category": "kitchen sink",
+                "description": "rectangular stainless steel sink",
+                "relation": [
+                    "kitchen sink under faucet",
+                    "kitchen sink next to microwave"
+                ]
+            },
+            {
+                "category": "microwave",
+                "description": "rectangular microwave with a red and black finish, digital display, and control buttons",
+                "relation": [
+                    "microwave on kitchen counter",
+                    "microwave above sink"
+                ]
+            },
+            {
+                "category": "nylon",
+                "description": "white plastic bag with a crumpled texture, partially filled",
+                "relation": [
+                    "nylon next to kitchen sink",
+                    "nylon under towel"
+                ]
+            },
+            {
+                "category": "phone",
+                "description": "black rectangular smartphone with a glossy surface",
+                "relation": [
+                    "phone on drying rack",
+                    "phone next to bowl"
+                ]
+            },
+            {
+                "category": "plate",
+                "description": "round white ceramic plate, possibly butter or cheese",
+                "relation": [
+                    "plate on kitchen counter",
+                    "plate next to bowl"
+                ]
+            },
+            {
+                "category": "spoon",
+                "description": "metal spoon with a long handle",
+                "relation": [
+                    "spoon in kitchen sink",
+                    "spoon next to whisk"
+                ]
+            },
+            {
+                "category": "sponge",
+                "description": "yellow rectangular sponge with a textured surface",
+                "relation": [
+                    "sponge in sink holder",
+                    "sponge next to red cloth"
+                ]
+            },
+            {
+                "category": "sponge",
+                "description": "red rectangular sponge with a textured surface",
+                "relation": [
+                    "sponge in sink holder",
+                    "sponge next to yellow sponge"
+                ]
+            },
+            {
+                "category": "whisk",
+                "description": "metal whisk with a wooden handle",
+                "relation": [
+                    "whisk in kitchen sink",
+                    "whisk next to spoon"
+                ]
+            },
+            {
+                "category": "towel",
+                "description": "white cloth towel with green and purple floral pattern",
+                "relation": [
+                    "towel on container",
+                    "towel next to sink"
+                ]
+            },
+            {
+                "category": "rack",
+                "description": "metallic drying rack with slotted design",
+                "relation": [
+                    "drying rack on kitchen counter",
+                    "drying rack next to sink"
+                ]
+            },
+            {
+                "category": "faucet",
+                "description": "metal faucet with a white handle",
+                "relation": [
+                    "faucet over sink",
+                    "faucet next to sponge"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "transparent plastic bottle",
+                "relation": [
+                    "bottle in sink",
+                    "bottle next to sponge"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "dark blue plastic bowl",
+                "relation": [
+                    "bowl under faucet",
+                    "bowl being washed"
+                ]
+            },
+            {
+                "category": "shelf",
+                "description": "metal wire shelf",
+                "relation": [
+                    "shelf next to microwave",
+                    "shelf above counter"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "white plastic container",
+                "relation": [
+                    "container on counter",
+                    "container next to microwave"
+                ]
+            },
+            {
+                "category": "utensil",
+                "description": "metal ladle with a white handle",
+                "relation": [
+                    "utensil on sink",
+                    "utensil next to faucet"
+                ]
+            },
+            {
+                "category": "cloth",
+                "description": "red cloth with a textured surface",
+                "relation": [
+                    "cloth in sink holder",
+                    "cloth next to sponge"
+                ]
+            },
+            {
+                "category": "jar",
+                "description": "transparent glass jar",
+                "relation": [
+                    "jar on counter",
+                    "jar next to drying rack"
+                ]
+            },
+            {
+                "category": "bread",
+                "description": "yellow rectangular slice of bread with a smooth surface",
+                "relation": [
+                    "bread in bowl"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "08a7fe30-3f6c-42f7-8b92-88df11e59175-start.jpg",
+        "atomic_actions": " C picks a pack of zucchini from a shelf with his right hand. | C places the pack of zucchini on the cutting board with his left hand| C picks a knife from the cutting board with his right hand| C opens the oven with his left hand| C operates the oven with his right hand| C picks a pack of meat from the oven with his right hand. | C passes the pack of meat from his right hand to his left hand| C places the pack of meat on a tray on the sink countertop with his left hand| C picks a knife from the cutting board with his right hand| C holds the pack of zucchini on the cutting board with his left hand| C cuts the pack of zucchini on the cutting board with the knife in his right hand| C drops the knife in his right hand on the cutting board| C removes a zucchini from the pack with his right hand| C adjusts the pack of zucchini on the cutting board with his left hand| C passes the zucchini in his right hand to his left hand| C picks the knife from the cutting board with his right hand| C places the zucchini in his right hand on the cutting board| C cuts the zucchini into pieces on the cutting board with the knife| C picks a piece of zucchini on the cutting board with his left hand| C adjusts the pieces of zucchini on the cutting board with the knife in his right hand| C cuts the zucchini into pieces on the cutting board with the knife| C drops the piece of zucchini in his left hand on the cutting board| C picks a piece of zucchini on the cutting board with his left hand| C cuts the piece of zucchini into pieces on the cutting board with the knife| C adjust the pieces of zucchini on the cutting board with his left hand| C picks a piece of zucchini on the cutting board with his left hand| C adjusts the pieces of zucchini on the cutting board with the knife in his right hand| C picks a piece of zucchini on the cutting board with his left hand| C adjusts the pieces of zucchini on the cutting board with the knife in his right hand| C cuts the piece of zucchini into pieces on the cutting board with the knife| C picks a piece of zucchini on the cutting board with his left hand| C cuts the piece of zucchini into pieces on the cutting board with the knife| C adjusts the pieces of zucchini on the cutting board with the knife in his right hand| C cuts a piece of zucchini into pieces on the cutting board with the knife| C picks a piece of zucchini on the cutting board with his left hand| C cuts the piece of zucchini into pieces on the cutting board with the knife| C adjusts the pieces of zucchini on the cutting board with the knife in his right hand| C picks a piece of zucchini on the cutting board with his left hand| C cuts the piece of zucchini into pieces on the cutting board with the knife| C adjusts the pieces of zucchini on the cutting board with the knife in his right hand| C picks a piece of zucchini from the cutting board with his left hand| C drops the knife in his right hand on the cutting board| C picks a piece of zucchini from the cutting board with his right hand| C throws the piece of zucchini in his left hand into the sink hole| C throws the piece of zucchini in his right hand into the sink hole| C picks a container from the sink with his left hand| C packs the pieces of zucchini from the cutting board with his right hand| C puts the pieces of zucchini in his right hand into the container in his left hand| C packs the pieces of zucchini from the cutting board with his right hand| C puts the pieces of zucchini in his right hand into the container in his left hand| C picks a piece of zucchini from the cutting board with his right hand| C puts the piece of zucchini in his right hand into the container in his left hand| C packs the pieces of zucchini from the cutting board with his right hand| C puts the pieces of zucchini in his right hand into the container in his left hand| C packs the pieces of zucchini from the cutting board with his right hand| C puts the pieces of zucchini in his right hand into the container in his left hand| C picks a piece of zucchini from sink countertop with his right hand| C puts the piece of zucchini in his right hand into the container in his left hand| C turns on the sink faucet with his right hand| C adjusts the sink faucet with his right hand| C drinks the container in his left hand in the sink| C turns off the sink faucet with his left hand| C adjusts the sink faucet with his left hand| C rinses the pieces of zucchini in the container with his left hand| C adjusts the sink faucet with his right hand| C picks the pack of zucchini from the sink countertop with his right hand| C removes a zucchini from the pack with his hands| C drops the pack on the sink countertop with his left hand| C passes the zucchini in his right hand to his left hand| C picks a knife from the cutting board with his right hand| C places the zucchini on the cutting board with his left hand| C cuts the zucchini into pieces on the cutting board with the knife| C adjusts a piece of zucchini on the cutting board with his left hand| C cuts the piece of zucchini into pieces on the cutting board with the knife| C places the piece of zucchini in his left hand on the cutting board| C adjusts a piece of zucchini on the cutting board with his left hand| C cuts the piece of zucchini into pieces on the cutting board with the knife| C drops the knife in his right hand on the cutting board| C opens a cabinet with his right hand| C picks a roll of tissue paper from the cabinet with his right hand| C cuts a part of the tissue paper with his hands| C drops the roll of tissue paper on the cooker with his left hand| C picks a piece of zucchini from the cutting board with his left hand| C wraps the piece of zucchini with the tissue paper in his right hand| C places the wrapped zucchini on the cutting board with his left hand| C places his right hand on a piece of zucchini on the cutting board.| C picks the roll of tissue paper from the cooker with his right hand| C cuts a part of the tissue paper with his hands| C drops the roll of tissue paper on the cooker with his left hand| C picks a piece of zucchini from the cutting board with his left hand| C wraps the piece of zucchini with the tissue paper in his right hand| C adjusts a piece of zucchini on the cutting board with his right hand| C cuts a part of the tissue paper with his hands| C passes the piece of tissue paper from his right hand to his left hand| C picks a piece of zucchini from the cutting board with his right hand| C wraps the piece of zucchini with the tissue paper in his left hand| C picks a sealed sachet from the cabinet with his right hand| C picks a sealed sachet from the cabinet with his right hand| C holds the sealed sachet with both hands| C opens the sealed sachet with his hands| C inserts the wrapped piece of zucchini into the sealed sachet| C picks the roll of tissue paper from the cooker with his right hand| C tears the tissue paper with his hands",
+        "end_frame_info": [
+            {
+                "category": "countertop",
+                "description": "dark-colored countertop with a smooth surface",
+                "relation": [
+                    "countertop next to kitchen sink",
+                    "countertop under tile wall"
+                ]
+            },
+            {
+                "category": "faucet",
+                "description": "metallic faucet with a curved spout and lever handle, shiny and reflective",
+                "relation": [
+                    "faucet on kitchen sink"
+                ]
+            },
+            {
+                "category": "food",
+                "description": "small round dark-colored food items in a metal bowl",
+                "relation": [
+                    "food in bowl",
+                    "bowl in kitchen sink"
+                ]
+            },
+            {
+                "category": "sink",
+                "description": "stainless steel sink with a curved basin, shiny and reflective",
+                "relation": [
+                    "kitchen sink under faucet",
+                    "kitchen sink next to countertop"
+                ]
+            },
+            {
+                "category": "knife",
+                "description": "metallic knife with a black handle and sharp blade",
+                "relation": [
+                    "knife on countertop"
+                ]
+            },
+            {
+                "category": "oven",
+                "description": "black glass-top oven with control knobs",
+                "relation": [
+                    "oven under exhaust hood",
+                    "oven next to countertop"
+                ]
+            },
+            {
+                "category": "towel",
+                "description": "white paper towel roll with a cardboard core",
+                "relation": [
+                    "towel held by person"
+                ]
+            },
+            {
+                "category": "towel",
+                "description": "single white paper towel sheet, slightly crumpled",
+                "relation": [
+                    "towel held by person"
+                ]
+            },
+            {
+                "category": "person",
+                "description": "person wearing a white t-shirt and dark shorts",
+                "relation": [
+                    "person holding paper towel",
+                    "person standing on floor",
+                    "person next to countertop"
+                ]
+            },
+            {
+                "category": "pot",
+                "description": "black non-stick frying pan with a long handle",
+                "relation": [
+                    "pot on oven"
+                ]
+            },
+            {
+                "category": "sachet",
+                "description": "clear plastic zip-top bag with colorful printed design, partially open",
+                "relation": [
+                    "sachet on countertop"
+                ]
+            },
+            {
+                "category": "wall",
+                "description": "white square ceramic tiles with light gray grout lines",
+                "relation": [
+                    "wall behind kitchen sink",
+                    "wall behind oven",
+                    "wall above countertop"
+                ]
+            },
+            {
+                "category": "exhaust hood",
+                "description": "black rectangular exhaust hood with a flat front panel",
+                "relation": [
+                    "exhaust hood above oven"
+                ]
+            },
+            {
+                "category": "utensil holder",
+                "description": "metallic utensil holder with multiple slots",
+                "relation": [
+                    "utensil holder on countertop"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "small metal bowl with a reflective surface",
+                "relation": [
+                    "bowl in kitchen sink"
+                ]
+            },
+            {
+                "category": "sponge",
+                "description": "yellow rectangular sponge with a textured surface",
+                "relation": [
+                    "sponge on countertop"
+                ]
+            },
+            {
+                "category": "spatula",
+                "description": "black plastic spatula with a slotted head and long handle",
+                "relation": [
+                    "spatula in utensil holder"
+                ]
+            },
+            {
+                "category": "chopsticks",
+                "description": "wooden chopsticks with a smooth finish",
+                "relation": [
+                    "chopsticks in utensil holder"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "small white plastic container with a red lid",
+                "relation": [
+                    "container on countertop"
+                ]
+            },
+            {
+                "category": "towel",
+                "description": "pink and white cloth towel, partially folded",
+                "relation": [
+                    "towel on countertop"
+                ]
+            },
+            {
+                "category": "floor",
+                "description": "light-colored wooden or laminate floor with visible planks, clean and smooth",
+                "relation": [
+                    "floor under person",
+                    "floor next to oven"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "b6fb508c-ad23-4e3d-ba84-4e135f51b82c-start.jpg",
+        "atomic_actions": " C holds the chopping board with both hands.| C puts the the chopping board on a sink slab.| C walks to a refrigerator in the kitchen.| C opens a drawer bin in the refrigerator with his right hand.| C picks a cabbage in the drawer bin with his left hand.| C closes the drawer bin.| C removes the cling wrap on the cabbage.| C puts the cling wrap in a nylon in the kitchen sink.| C opens the tap with his right hand.| C rinses the cabbage in the sink under running water.| C closes the tap with his right hand.| C shakes the cabbage in his hands.| C puts the cabbage in his hands on the chopping board.| C flaps his hands in the sink.| C cleans his hands with a napkin on the sink.| C opens a cabinet under the sink with his right hand.| C picks a knife in the cabinet with his right hand.| C closes the cabinet door with his leg.| C holds the cabbage on the chopping board with his left hand.| C cuts the cabbage with the knife in his right hand.| C puts the knife in his right hand on the chopping board.| C picks up a piece of the cabbage.| C peels the leaf on the cabbage.| C puts the leaf in the nylon in the sink.| C picks up the knife with his right hand.| C puts the cabbage in his left hand on the chopping board.| C cuts cabbage on the chopping board.| C puts the knife in his right hand on the chopping board.| C picks a piece of cabbage on the chopping board with his right hand.| C opens the drawer bin on the refrigerator with his left hand.| C searches the drawer bin with his left hand.| C puts the cabbage in his right hand in a nylon in the drawer bin.| C closes the drawer bin with his right hand.| C adjusts the cabbage on the chopping board.| C holds the knife on the chopping board with his right hand.| C picks the knife with his right hand.| C chops cabbage on the chopping board.| C chops cabbage on the chopping board.| C wipes cabbage on the knife with his left hand.| C adjusts cabbage on the chopping board with his left hand and the knife in his right hand.| C picks a piece of cabbage on the sink slab with his left hand.| C puts the cabbage on the chopping board.| C puts the knife in the sink.| C opens the tap with his right hand.| C rinses his hands in the sink under running water.| C closes the tap with his right hand.| C flaps his hands in the sink.| C cleans his hands on a napkin on the refrigerator.| C opens a wall cabinet with his right hand.| C picks a container n the cabinet with his right hand.| C passes the container to his left hand.| C closes the wall cabinet with his right hand.| C collects the container lid with his right hand.| C puts the lid on the chopping board.| C packs the cabbage on the chopping board with his right hand.| C pours the cabbage in the container in his left hand.| C packs the cabbage on the chopping board with his right hand.| C pours the cabbage in the container in his left hand.| C packs the cabbage on the chopping board with his right hand.| C pours the cabbage in the container in his left hand.| C picks the cabbage on the chopping board with his right hand.| C puts the cabbage in the container in his left hand.|picks up the container.| C covers the container with its lid.| C picks a container on the sink slab with his right hand.| C puts the container in his right hand over the container on the sink slab.| C picks the chopping board on the sink slab with his hands.| C opens the tap with his right hand.| C rinses the chopping board in the sink under running water.| C wipes the sink slab with his right hand.| C rinses his hands in the sink.| C picks the napkin on the sink with his right hand. | C cleans the sink slab with the napkin in his right hand.| C adjusts the nylon in the sink with his left hand.| C closes the tap with his right hand.| C adjusts the chopping board and knife in the sink with his hands.| C adjusts the nylon in the sink with his hands.| C adjusts the containers on the sink slab with his hands.| C picks the napkin on the sink with his left hand.| C cleans his hands with the napkin.| C puts the napkin on the sink with his left hand.| C opens the refrigerator with his right hand.| C picks a minced meat broth in the refrigerator.| C closes the refrigerator.| C puts the minced meat broth on the sink slab.| C picks the chopping board in the sink with his left hand.| C picks the minced meat broth bowl on the sink slab with his right hand.| C puts the chopping board on the sink.| C puts the minced meat broth on the chopping board.| C removes the cling nylon on the minced meat broth bowl.| C folds the cling nylon.| C puts the cling nylon in the nylon in the sink.| C holds the handle of a frying pan on a stove with his right hand.| C adjusts a chopstick on a container on the sink slab with his left hand.| C ignites the stove with the knob with his right hand.| C turns on a kitchen extraction fan with a rope with his right hand.| C adjusts the knob on the stove with his right hand.| C lowers the frying pan on the stove.| C picks a bottle of oil on the sink slab with his right hand.| C holds the oil bottle with both hands.| C opens the lid of the oil bottle.| C pours oil into the frying pan.| C covers the oil bottle with its lid.| C puts the oil bottle on the sink slab.| C picks the chopstick with his right hand.| C passes the chopstick to his left hand.| C picks up the frying pan with his right hand.| C rocks the frying pan.| C puts the frying pan on the stove.| C passes the chopstick from his left hand to his right hand.| C picks a bowl of endive on the sink slab with his left hand.| C puts the bowl of endive on the chopping board.| C adjusts a bowl on the sink slab with his left hand.| C picks up the bowl of endive with his left hand.| C pours endive into the frying pan.| C puts the bowl on the chopping board.| C adjusts the minced meat bowl with his left hand.| C stir fries with the chopstick in his right hand.| C holds the handle of the frying pan with his left hand.| C passes the chopstick in his right hand to his left hand.| C puts the chopstick in his left hand on the sink slab.| C opens the cover of a pot on the stove with his right hand.| C covers the pot.| C passes the chopstick to his right hand.| C stir fries.",
+        "end_frame_info": [
+            {
+                "category": "bottle",
+                "description": "dark glass bottle with a black cap and label",
+                "relation": [
+                    "bottle next to bowl",
+                    "bottle on counter"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "dark glass bottle with a red cap and label",
+                "relation": [
+                    "bottle next to other bottle",
+                    "bottle on counter"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "clear glass bottle with a black cap",
+                "relation": [
+                    "bottle next to bowl",
+                    "bottle on counter"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "small glass jar with a metal lid",
+                "relation": [
+                    "bottle on shelf"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "round white ceramic bowl with a blue rim",
+                "relation": [
+                    "bowl on counter",
+                    "bowl next to frying pan"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "small white ceramic bowl, empty and clean",
+                "relation": [
+                    "bowl on counter",
+                    "bowl next to larger bowl"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "stack of brown ceramic bowls, round and glossy",
+                "relation": [
+                    "bowl on shelf"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "stack of dark blue ceramic bowls, round and glossy",
+                "relation": [
+                    "bowl on shelf"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "stack of light gray ceramic bowls with subtle patterns",
+                "relation": [
+                    "bowl on shelf"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "small orange ceramic bowl, round and glossy",
+                "relation": [
+                    "bowl on shelf"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "small red ceramic bowl, round and glossy",
+                "relation": [
+                    "bowl on shelf"
+                ]
+            },
+            {
+                "category": "cabinet",
+                "description": "wooden cabinet",
+                "relation": [
+                    "cabinet above stove",
+                    "cabinet next to wall"
+                ]
+            },
+            {
+                "category": "hood",
+                "description": "white circular exhaust hood, with a beige center cover",
+                "relation": [
+                    "hood above stove",
+                    "hood on wall"
+                ]
+            },
+            {
+                "category": "pan",
+                "description": "black non-stick frying pan with a long black handle",
+                "relation": [
+                    "pan on stove",
+                    "pan held by person"
+                ]
+            },
+            {
+                "category": "kitchen sink",
+                "description": "stainless steel kitchen sink with a faucet",
+                "relation": [
+                    "kitchen sink next to counter",
+                    "kitchen sink under shelf"
+                ]
+            },
+            {
+                "category": "knife",
+                "description": "metal kitchen knife with a black handle",
+                "relation": [
+                    "knife in kitchen sink"
+                ]
+            },
+            {
+                "category": "person",
+                "description": "person cooking, visible from above",
+                "relation": [
+                    "person cooking on stove",
+                    "person holding frying pan"
+                ]
+            },
+            {
+                "category": "shelf",
+                "description": "wooden shelf with multiple levels",
+                "relation": [
+                    "shelf above stove",
+                    "shelf next to wall"
+                ]
+            },
+            {
+                "category": "wall",
+                "description": "white tiled wall",
+                "relation": [
+                    "wall behind shelf",
+                    "wall next to stove"
+                ]
+            },
+            {
+                "category": "teapot",
+                "description": "white ceramic teapot with floral patterns and a lid",
+                "relation": [
+                    "teapot on stove",
+                    "teapot next to frying pan"
+                ]
+            },
+            {
+                "category": "stove",
+                "description": "black electric stove with a burner",
+                "relation": [
+                    "stove under frying pan",
+                    "stove next to counter"
+                ]
+            },
+            {
+                "category": "spice shaker",
+                "description": "small pink plastic spice shaker with a face design",
+                "relation": [
+                    "spice shaker on shelf"
+                ]
+            },
+            {
+                "category": "spice shaker",
+                "description": "small white plastic spice shaker with a face design",
+                "relation": [
+                    "spice shaker on shelf"
+                ]
+            },
+            {
+                "category": "can",
+                "description": "metal can with a blue and white label",
+                "relation": [
+                    "can on shelf"
+                ]
+            },
+            {
+                "category": "cloth",
+                "description": "folded blue and white striped cloth",
+                "relation": [
+                    "cloth on shelf"
+                ]
+            },
+            {
+                "category": "basket",
+                "description": "woven bamboo basket, round and shallow",
+                "relation": [
+                    "basket on shelf"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "small yellow ceramic bowl, round and glossy",
+                "relation": [
+                    "bowl on counter",
+                    "bowl next to frying pan"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "white plastic container with a lid",
+                "relation": [
+                    "container on counter",
+                    "container next to bowl"
+                ]
+            },
+            {
+                "category": "utensil holder",
+                "description": "black metal wire rack holding various kitchen utensils",
+                "relation": [
+                    "utensil holder next to sink",
+                    "utensil holder under shelf"
+                ]
+            },
+            {
+                "category": "garlic",
+                "description": "single white garlic clove",
+                "relation": [
+                    "garlic on shelf"
+                ]
+            },
+            {
+                "category": "strainer",
+                "description": "metal strainer with a long handle",
+                "relation": [
+                    "strainer next to cabinet"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "f3dd7f48-050c-4d18-aa3d-753813d29630-start.jpg",
+        "atomic_actions": " C passes the object to his left hand| C drops the object in the sink| C changes the position of some objects in the sink with his left hand| C puts on a cooker with his right hand| C picks up a pot from the cooker with his right hand| C takes off the pot cover with his left hand| C pours okra from the pot in his hand into a sieve in the sink| C drops the pot in his right hand in the sink| C drops the pot cover in his left hand on the pot in the sink| C picks up the sieve containing the okra with his right hand| C turns on the tap with his left hand| C rinses the okra in the sieve| C drops the sieve in his right hand in the sink| C changes the position of the bowl with his right hand| C drops the sieve into the bowl in the sink with his right hand| C passes the nylon to his right hand| C turns off the tap with his left hand| C holds the nylon with both hands| C drops the nylon on a chopping board| C changes the position of a knife on the chopping board| C walks towards the cooker| C puts on the cooker with his right hand| C opens a drawer with both hands| C takes out a pot cover from the drawer with his right hand| C adjusts the cover with both hands| C drops the pot cover in his left hand on the cooker| C closes the drawer with his right hand| C walks back to the chopping board| C picks a pair of scissors with his right hand and the nylon on the chopping board with his left hand| C cuts the nylon| C drops the cut part of the nylon in his left hand in the bin| C drops the pair of scissors on the chopping board| C works the nylon with both hands| C drops the nylon on the chopping board| C checks the temperature of the foil on the cooker with his right hand | C takes out fish from the nylon with his right hand| C drops the fish on the foil with both hands| C takes out another fish from the nylon with his left hand| C drops the fish on the foil with both hands| C squeezes the nylon with both hands| C drops the nylon in the bin with his right hand| C opens the tap with his left hand| C rinses both hands| C rinses the okra in the sieve under the tap with his right hand| C drops the sieve with okra in it| C changes the position of the bowl in the sink with his left hand| C changes the position of the sieve with okra in it| C puts off the tap with his left hand| C changes the position of the bowl in the sink with his left hand| C wipes his hands with a napkin| C picks out two chopsticks from a container with his left hand| C passes the chopsticks to his right hand| C drops the chopsticks beside the sink| C picks up some other chopsticks with his right hand| C arranges the chopsticks with both hands| C puts the chopsticks in the container he picked the first two from with his left hand| C picked the two chopsticks beside the sink with his right hand| C walks to the cooker| C adjusts the foil and one of the fishes with the chopsticks in his right hand| C passes the chopsticks to his left hand and back to his right hand| C adjusts the foil with his left hand and the chopsticks in his right hand| C passes the chopsticks to his left hand| C picks a pot cover from the cooker with his right hand| C covers the fishes| C changes the position of a toothpick with his right hand| C adjusts two bowls beside the cooker with his right hand| C passes the chopsticks to his right hand| C touches the drawer with his right hand| C picks the pot cover on the pot in the sink with his left hand| C passes it to his right hand| C picks up a sponge with his right hand| C passes the sponge to his left hand| C picks up a soap container from the top of the sink with his right hand| C opens the soap container with his left hand| C pours the soap in his right hand on the sponge in his left hand| C drops the soap container on the sink with his right hand| C passes the sponge to his right hand| C picks up the pot cover with his left hand| C washes the pot cover with the sponge in his right hand| C drops the pot cover in his left hand in the sink| C drops the sponge in his right hand on the pot cover| C picks the pot in the sink with his left hand| C picks the sponge from the pot cover with his right hand| C washes the pot in his left hand with the sponge| C drops the sponge in his right hand| C changes the position of the sponge with his right hand| C turns on the tap with his right hand| C rinses the pot with both hands| C changes the position of the pot cover in the sink with his left hand| C rinses the pot with both hands| C closes a first tap with his left hand| C opens a second tap with his left hand with the pot in his right hand under the tap| C places the pot in his right hand on a cooker| C picks a pot cover from a sink with his right hand| C opens the first tap with his left hand| C rinses the cover with both hands| C closes the tap with his left hand| C walks to the pot on the cooker with the cover in his right hand| C covers the pot| C walks back to the sink| C dries his hands with a napkin hanging below the sink| C walks to the fridge| C opens the fridge with his right hand| C takes out a nylon from the fridge with his right hand| C opens the nylon with both hands| C takes out the component of the nylon with his right hand| C drops them on a chopping board| C takes out the component of the nylon with his right hand| C drops them on the chopping board| C closes the nylon| C walks back to the fridge| C opens the fridge with his left hand| C places the nylon in the fridge with his right hand| C closes the fridge with both hands| C picks up chopsticks from a bowl with his right hand| C opens a pot on the cooker with his right hand| C drops the pot cover on the cooker| C adjusts the chopsticks in his right hand with his left hand| C holds the pot handle with his left hand| C adjusts two pieces of fish on a foil in the pot with the chop sticks| C picks the cover from the cooker with his right hand| C covers the pot| C passes the chopsticks to his left hand and back to his right hand| C drops the chopsticks on the bowl he picked it from| C picks one of the components of the nylon he dropped on the chopping board with his right hand| C removes some part of it with both hands| C drops it back on the chopping board with his right hand| C picks another component of the nylon he dropped on the chopping board with his right hand| C removes some part of it with both hands| C picks another component of the nylon he dropped on the chopping board with his right hand| C drops it back on the chopping board with his left hand| C picks another component of the nylon he dropped on the chopping board with his right hand| C removes some part of it with both hands| C drops it back on the chopping board with his right hand| C picks another component of the nylon he dropped on the chopping board with his right hand| C removes some part of it with both hands| C drops it back on the chopping board with his right hand| C picks another component of the nylon he dropped on the chopping board with his right hand| C removes some part of it with both hands| C packs all of them on the chopping board with both hands | C opens the pot with his left hand| C pours everything in his right hand into the pot| C closes the pot with his left hand| C walks back to the sink| C opens the first tap with his left hand| C rinses both hands| C closes the tap with his left hand| C wipes the chopping board with his right hand| C opens the first tap with his left hand| C rinses both hands| C closes the tap with his left hand| C dries his hands with the napkin hanging below the sink| C walks to the cooker| C picks up the chopsticks with his left hand| C passes them to his right hand| C opens the pot with his left hand| C adjusts a fish in the pot with the chopsticks| C covers the pot| C drops the chopsticks on the bowl he picked them from",
+        "end_frame_info": [
+            {
+                "category": "board",
+                "description": "white rectangular plastic cutting board with a smooth surface",
+                "relation": [
+                    "board on kitchen counter"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "small transparent glass bowl",
+                "relation": [
+                    "bowl on kitchen counter"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "medium-sized white ceramic bowl with a glossy finish, round shape, empty",
+                "relation": [
+                    "bowl on kitchen counter"
+                ]
+            },
+            {
+                "category": "chopstick",
+                "description": "pair of thin wooden chopsticks, light brown color, smooth texture",
+                "relation": [
+                    "chopstick on kitchen counter"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "rectangular plastic container with a transparent lid",
+                "relation": [
+                    "container on floor"
+                ]
+            },
+            {
+                "category": "exhaust hood",
+                "description": "white rectangular exhaust hood with a digital display showing 12:34, smooth surface",
+                "relation": [
+                    "exhaust hood above stove"
+                ]
+            },
+            {
+                "category": "foil",
+                "description": "shiny metallic foil",
+                "relation": [
+                    "foil on pot"
+                ]
+            },
+            {
+                "category": "kitchen counter",
+                "description": "long rectangular countertop with a smooth surface, light brown color",
+                "relation": [
+                    "kitchen counter under exhaust hood",
+                    "kitchen counter next to sink"
+                ]
+            },
+            {
+                "category": "kitchen sink",
+                "description": "stainless steel sink with a curved basin, shiny surface",
+                "relation": [
+                    "kitchen sink in kitchen counter"
+                ]
+            },
+            {
+                "category": "knife",
+                "description": "black-handled kitchen knife with a sharp blade, metallic surface",
+                "relation": [
+                    "knife on cutting board"
+                ]
+            },
+            {
+                "category": "omelet",
+                "description": "omelet in a pan, golden brown color",
+                "relation": [
+                    "omelet in pot"
+                ]
+            },
+            {
+                "category": "person",
+                "description": "person wearing a gray shirt",
+                "relation": [
+                    "person standing on mat",
+                    "person near kitchen counter"
+                ]
+            },
+            {
+                "category": "plate",
+                "description": "white ceramic plate with a glossy finish, round shape, empty",
+                "relation": [
+                    "plate on kitchen counter"
+                ]
+            },
+            {
+                "category": "pot",
+                "description": "metal pot with a glass lid, shiny surface",
+                "relation": [
+                    "pot on stove"
+                ]
+            },
+            {
+                "category": "scissor",
+                "description": "black-handled scissors with metallic blades",
+                "relation": [
+                    "scissor on cutting board"
+                ]
+            },
+            {
+                "category": "sieve",
+                "description": "metal sieve with a fine mesh, round shape",
+                "relation": [
+                    "sieve on kitchen counter"
+                ]
+            },
+            {
+                "category": "soap",
+                "description": "green bar of soap, rectangular shape",
+                "relation": [
+                    "soap in kitchen sink"
+                ]
+            },
+            {
+                "category": "sponge",
+                "description": "green sponge with a rough texture, rectangular shape,",
+                "relation": [
+                    "sponge in kitchen sink"
+                ]
+            },
+            {
+                "category": "tap",
+                "description": "metal faucet with a curved spout, shiny surface,",
+                "relation": [
+                    "tap on kitchen sink"
+                ]
+            },
+            {
+                "category": "temperature",
+                "description": "digital temperature display showing 12:34, black numbers",
+                "relation": [
+                    "temperature on exhaust hood"
+                ]
+            },
+            {
+                "category": "tool",
+                "description": "black-handled scissors with metallic blades",
+                "relation": [
+                    "tool on cutting board"
+                ]
+            },
+            {
+                "category": "tool",
+                "description": "metal spoon with a long handle, shiny surface",
+                "relation": [
+                    "tool on kitchen counter"
+                ]
+            },
+            {
+                "category": "tool",
+                "description": "black-handled kitchen knife with a sharp blade, metallic surface",
+                "relation": [
+                    "tool on cutting board"
+                ]
+            },
+            {
+                "category": "utensil",
+                "description": "black-handled kitchen knife with a sharp blade, metallic surface",
+                "relation": [
+                    "utensil on cutting board"
+                ]
+            },
+            {
+                "category": "utensil",
+                "description": "black-handled scissors with metallic blades",
+                "relation": [
+                    "utensil on cutting board"
+                ]
+            },
+            {
+                "category": "utensil",
+                "description": "metal spoon with a long handle, shiny surface",
+                "relation": [
+                    "utensil on kitchen counter"
+                ]
+            },
+            {
+                "category": "utensil",
+                "description": "pair of thin wooden chopsticks, light brown color, smooth texture",
+                "relation": [
+                    "utensil on kitchen counter"
+                ]
+            },
+            {
+                "category": "mat",
+                "description": "striped mat with alternating light and dark gray stripes, rectangular shape",
+                "relation": [
+                    "mat under person"
+                ]
+            },
+            {
+                "category": "stove",
+                "description": "black gas stove",
+                "relation": [
+                    "stove under exhaust hood",
+                    "stove next to kitchen counter"
+                ]
+            },
+            {
+                "category": "kettle",
+                "description": "metal kettle with a black handle and spout",
+                "relation": [
+                    "kettle on stove"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "transparent plastic bottle with a green cap",
+                "relation": [
+                    "bottle near sink"
+                ]
+            },
+            {
+                "category": "cup",
+                "description": "white ceramic cup with a handle",
+                "relation": [
+                    "cup on kitchen counter"
+                ]
+            },
+            {
+                "category": "towel",
+                "description": "white towel",
+                "relation": [
+                    "towel on kitchen counter"
+                ]
+            },
+            {
+                "category": "wrap",
+                "description": "clear plastic wrap covering a block of food",
+                "relation": [
+                    "wrap on yellow cloth"
+                ]
+            },
+            {
+                "category": "cloth",
+                "description": "yellow cloth with a textured surface",
+                "relation": [
+                    "cloth on kitchen counter"
+                ]
+            },
+            {
+                "category": "box",
+                "description": "cardboard box with printed text and images",
+                "relation": [
+                    "box on floor"
+                ]
+            },
+            {
+                "category": "bag",
+                "description": "transparent plastic bag",
+                "relation": [
+                    "bag on floor"
+                ]
+            },
+            {
+                "category": "spice jar",
+                "description": "small glass jar with a black lid",
+                "relation": [
+                    "spice jar on kitchen counter"
+                ]
+            },
+            {
+                "category": "glass",
+                "description": "clear glass tumbler, cylindrical shape",
+                "relation": [
+                    "glass on kitchen counter"
+                ]
+            },
+            {
+                "category": "timer",
+                "description": "digital timer with a white casing",
+                "relation": [
+                    "timer on exhaust hood"
+                ]
+            },
+            {
+                "category": "wall",
+                "description": "white tiled wall with a smooth surface",
+                "relation": [
+                    "wall behind sink"
+                ]
+            },
+            {
+                "category": "floor",
+                "description": "light brown wooden floor with a smooth surface",
+                "relation": [
+                    "floor under mat",
+                    "floor under kitchen counter"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "45753902-b27d-4eba-91ec-4e15feb9a0e7-start.jpg",
+        "atomic_actions": " C stretches her left hand towards the tap.| C turns on the tap.| C rinses her hands.| C turns off the tap.| C takes a bar soap from a soap dish on the left side of the sink.| C rubs the soap on her hands.| C drops the soap on the soap dish.| C rubs the soap around her hands.| C turns on the tap.| C rinses her hands.| C turns off the tap.| C flaps her hands.| C takes a frypan from the shelf above the sink.| C removes the cover of the frypan.| C drops the cover on a pot.| C places the frypan on a range cooker.| C flaps her hands in the sink.| C opens the drawer on the left of the sink.| C takes a foil wrap pack from the drawer.| C opens the foil wrap pack.| C pulls a wrap from the pack.| C cuts the wrap with her right hand.| C sets the wrap on the frypan.| C places the foil wrap pack in the drawer.| C sorts the items in the drawer.| C places the foil wrap pack in the drawer.| C closes the drawer.| C opens the fridge on the left of the sink area.| C takes a chocolate from the fridge.| C drops the chocolate on the fridge.| C takes a seal bag containing fish from the fridge.| C closes the fridge.| C takes the chocolate from the top of the fridge.| C drops the chocolate on the sink slab.| C opens the seal bag.| C drops the seal bag on the right side of the range cooker.| C unwraps the nylon on the fish.| C drops the fish on the foil.| C folds the nylon in her hands.| C tidies the nylon in a waste bag in the sink.| C turns on the range cooker.| C adjusts the control knob of the cooker.| C presses a button on the shelf above the cooker.| C turns on the tap.| C rinses her hands.| C turns off the tap.| C takes the bar soap from the soap dish on the left side of the sink.| C rubs the soap on her hands.| C drops the soap on the soap dis.| C rubs the soap around her hands.| C turns on the tap.| C rinses her hands.| C turns off the tap.| C flaps her hands.| C tries to open the drawer beneath the range cooker.| C takes the seal bag on the right side of the range cooker.| C places the seal bag on a cooler.| C places the seal bag on the right table top of the kitchen.| C takes the pot cover from the pot on the shelf above the sink.| C takes the pot from the shelf above the sink.| C drops the pot cover on the shelf above the sink.| C turns on the tap.| C rinses the pot.| C turns off the tap.| C places the pot on the right side of the range cooker.| C moves to the fridge.| C opens the lower compartment of the fridge.| C searches the lower compartment of the fridge.| C takes a potato pack from the drawer. | C closes the lower compartment of the fridge.| C moves to the sink area.| C adjusts the control knob of the range cooker.| C removes the rubber band on the potato pack. | C unwraps the potato pack. | C pours the potato on the pot. | C folds the potato pack. | C wraps the potato pack with the rubber band. | C moves to the fridge.| C opens the lower compartment of the fridge.| C drops the potato pack into the lower compartment. | C opens another shelf in the lower compartment.| C takes a plastic plate from the lower compartment.| C closes the lower compartment of the fridge.| C opens the microwave on top of the fridge.| C places the plastic container into the microwave.| C closes the microwave.| C takes a stirrer from the cutlery rack.| C switches the stirrer from her left hand to her right hand.| C moves close to the range cooker.| C adjusts the foil on the frypan.| C switches the stirrer from her right hand to her left hand.| C adjusts the pot on the right side of the range cooker.| C turns on the right side of the range cooker.| C switches the stirrer from her left hand to her right hand.| C fries the fish with the stirrer.| C adjusts the control knob of the range cooker.| C adjusts the frypan.| C takes the pot cover from the shelf above the sink.| C covers the frypan with the pot cover.| C adjusts the cover with the stirrer.| C shakes the pot on the right side of the range cooker.| C places the stirrer on the sink basket.| C plugs the wire of the microwave to the socket.| C turns on the microwave.| C takes the stirrer from the sink basket.| C places the stirrer on the sink basket.| C takes the pot from the right side of the range cooker.| C shakes the pot.| C turns on the tap.| C fills the pot with water.| C shakes the pot.| C turns off the tap.| C sets the pot on the right side of the range cooker.| C picks the chopsticks on the sink basket.| C switches the chopsticks from her left hand to her right hand.| C adjusts the cover of the frypan on the left side of the range cooker.| C switches the chopsticks from her right hand to her left hand.| C places the chopsticks on the sink basket.| C moves to the right side of the kitchen.",
+        "end_frame_info": [
+            {
+                "category": "kitchen sink",
+                "description": "stainless steel sink with a single basin, metallic faucet, and a black drain cover, clean and shiny surface",
+                "relation": [
+                    "kitchen sink on kitchen counter"
+                ]
+            },
+            {
+                "category": "stove",
+                "description": "gas stove with two burners, metallic surface",
+                "relation": [
+                    "stove on kitchen counter"
+                ]
+            },
+            {
+                "category": "frying pan",
+                "description": "black frying pan with a handle",
+                "relation": [
+                    "frying pan on stove"
+                ]
+            },
+            {
+                "category": "pot",
+                "description": "black pot, handle visible",
+                "relation": [
+                    "pot on stove"
+                ]
+            },
+            {
+                "category": "rice cooker",
+                "description": "white rice cooker with a digital display, cylindrical shape, smooth plastic surface",
+                "relation": [
+                    "rice cooker on shelf"
+                ]
+            },
+            {
+                "category": "shelf",
+                "description": "wooden shelf unit with multiple levels, light brown finish",
+                "relation": [
+                    "shelf above kitchen counter"
+                ]
+            },
+            {
+                "category": "kitchen counter",
+                "description": "kitchen counter",
+                "relation": []
+            },
+            {
+                "category": "drain cover",
+                "description": "black circular drain cover, smooth metallic surface",
+                "relation": [
+                    "drain cover in kitchen sink"
+                ]
+            },
+            {
+                "category": "faucet",
+                "description": "metallic faucet with a single handle, shiny surface",
+                "relation": [
+                    "faucet on kitchen sink"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "transparent plastic bottle",
+                "relation": [
+                    "bottle on kitchen sink"
+                ]
+            },
+            {
+                "category": "sponge",
+                "description": "green rectangular sponge with a textured surface",
+                "relation": [
+                    "sponge on kitchen sink"
+                ]
+            },
+            {
+                "category": "cord",
+                "description": "black electrical cord, thin and flexible",
+                "relation": [
+                    "cord near shelf"
+                ]
+            },
+            {
+                "category": "plate",
+                "description": "stack of white ceramic plates, round and flat, neatly",
+                "relation": [
+                    "plate on shelf"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "brown ceramic bowl, round and deep",
+                "relation": [
+                    "bowl on shelf"
+                ]
+            },
+            {
+                "category": "glass",
+                "description": "transparent glass, cylindrical shape",
+                "relation": [
+                    "glass on shelf"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "blue plastic container with a smooth surface",
+                "relation": [
+                    "container on floor"
+                ]
+            },
+            {
+                "category": "exhaust hood",
+                "description": "white rectangular exhaust hood, with a vented front panel",
+                "relation": [
+                    "exhaust hood above stove"
+                ]
+            },
+            {
+                "category": "wall",
+                "description": "white square tiles, clean and glossy",
+                "relation": [
+                    "wall behind stove",
+                    "tiled wall behind kitchen sink"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "fae92e70-88aa-4b77-b41a-5879b74c804c-start.jpg",
+        "atomic_actions": " C rinses his hands in the sink| C turns off the sink faucet with his right hand| C picks a foam from the sink with his right hand| C washes his hands with the foam in the sink| C drops the foam on the sink with his right hand| C washes his hands in the sink| C turns on the sink faucet with his right hand| C picks a frying pan with his left hand| C rinses the frying pan in the sink| C pours out water from the frying pan into the sink with his left hand| C fills the frying pan with water from the sink| C turns off the sink faucet with his right hand| C places the frying pan on the cooker with his left hand| C adjusts the cooker knob with his right hand| C presses the cooker hood with his right hand| C picks a bowl from the sink countertop with his left hand| C passes the bowl from his left hand to his right hand| C places the bowl on the sink with his right hand| C opens a cabinet with his left hand| C picks a sachet from the cabinet with his left hand| C closes the cabinet with his left hand| C presses the sachet with his hands| C tears the sachet with his hands| C pours beverage from the sachet into the bowl| C takes beverage from the sachet with his right hand| C puts the beverage in his right hand into the bowl| C takes beverage from the sachet with his right hand| C puts the beverage in his right hand into the bowl| C passes the sachet from his left hand to his right hand| C puts the sachet into a polythene bag in the sink with his right hand| C turns on the sink faucet with his right hand| C rinses his hands in the sink| C turns off the sink faucet with his right hand| C cuts tissue paper with his hands| C cleans his hands with the tissue paper| C drops the tissue into a polythene bag in the sink with his right hand| C opens a drawer with his left hand| C picks a sachet from the drawer with his left hand| C passes the sachet from his left hand to his right hand| C inserts his left hand into the drawer| C pulls a drawer with his left hand| C picks a wrapped foil from the drawer with his left hand. | C closes the drawer with his right hand| C drops the clip on the table with his right hand| C unfolds the sachet with his hands| C adjusts the sachet with his hands| C pours green peas from the sachet into the bowl. | C pours green peas from the sachet into the bowl. | C folds the sachet with his hands| C drops the sachet in the sink with his right hand| C passes the wrapped foil from his left hand to his right hand. | C drops the wrapped foil on the table with his right hand. | C picks a chopstick from a cup with his left hand| C passes the chopstick from his left hand to his right hand| C adjusts the cooker knob with his right hand| C picks the bowl from the sink with his right hand| C picks the frying pan from the cooker with his left hand| C pours hot water from the frying pan in his left hand into the bowl in his right hand| C places the bowl on the cooker table with his right hand| C stirs the water in the bowl with the chopsticks in his right hand| C pours the water in the frying pan in his left hand into the sink| C places the frying pan on the cooker with his left hand| C holds the bowl on the cooker table with his left hand| C drops the chopsticks on the bowl with his right hand| C picks the wrapped foil from the table with his right hand. | C unwraps the foil with his hands| C cuts the leaves in the foil into pieces with his hands. | C removes the leaves from the foil with his right hand. | C puts the leaves into the bowl with his right hand. | C removes the leaves from the foil with his right hand. | C puts the leaves into the bowl with his right hand. | C picks the chopsticks on the bowl with his right hand| C stirs the leaves in the bowl with the chopsticks in his right hand| C drops the chopsticks on the bowl with his right hand| C holds the foil in his right hand| C puts the foil into the polythene in the sink with his right hand| C picks a spoon from the tray on the sink with his left hand| C passes the spoon from his left hand to his right hand| C adjusts the chopsticks on the bowl with his left hand| C takes water from the bowl with the spoon in his right hand| C puts the spoon in his mouth| C turns on the sink faucet with his left han| C rinses the spoon in the sink| C passes the spoon from his right hand to his left hand| C drops the spoon in the tray with his left hand| C opens the cabinet with his left hand| C picks a container of soda from the cabinet with his left hand. | C opens the container of soda with his right hand. | C passes the container of soda from his left hand to his right hand. | C pours soda from the container into the bowl with his right hand. | C closes the container of soda with his left hand| C passes the container of soda from his right hand to his left hand. | C places the container of soda in the cabinet with his left hand. | C closes the cabinet with his left hand| C picks the chopsticks on the table with his right hand| C adjusts the chopsticks with his hands| C stirs the leaves in the bowl with the chopsticks in his right hand| C picks the bowl from the cooker table with his left hand| C drops the chopsticks on the bowl with his right hand| C picks a tray from a cabinet with his right hand| C places the cabinet on the cooker with his right hand| C drops the bowl in his left hand on the tray| C adjusts the chopsticks on the bowl with his right hand| C picks the clip on the table with his right hand| C picks the frying pan from the cooker with his left hand| C places the frying pan on the cooker with his left hand| C opens a drawer with his left hand| C drops the clip into the drawer with his right hand| C closes the drawer with his left hand| C opens a refrigerator with his left hand| C picks a pack of meat from the refrigerator with his left hand| C closes the refrigerator with his right hand| C removes polythene from the pack of meat with his hands| C picks chopsticks from a cup on the table with his right hand| C adjusts the cooker knob with his right hand| C adjusts the frying pan on the cooker with his right hand| C passes the chopsticks from his left hand to his right hand| C takes pieces of meat from the pack with the chopsticks in his right hand| C puts the pieces of meat into the frying pan on the cooker with the chopsticks in his right hand| C adjusts the pieces of meat in the frying pan with the chopsticks in his right hand| C takes pieces of meat from the pack with the chopsticks in his right hand| C puts the pieces of meat into the frying pan on the cooker with the chopsticks in his right hand| C takes pieces of meat from the pack with the chopsticks in his right hand| C puts the pieces of meat into the frying pan on the cooker with the chopsticks in his right hand| C covers the pack with the polythene| C takes pieces of meat from the pack with the chopsticks in his right hand| C puts the pieces of meat into the frying pan on the cooker with the chopsticks in his right hand| C adjusts the pieces of meat in the frying pan with the chopsticks in his right hand| C puts the polythene around the pack with his hands| C opens the refrigerator with his right hand| C drops the pack into the refrigerator with his left hand| C closes the refrigerator with his right hand| C picks the frying pan from the cooker with his left hand| C turns on the sink faucet with his right hand| C stirs the pieces of meat in the frying pan with the chopsticks in his right hand| C places the frying pan on the cooker with his left hand| C drops the chopsticks in the frying pan with his right hand| C pulls out a drawer with his left hand| C picks a sachet from the drawer with his left hand| C closes the drawer with his left hand| C opens the sachet with his hands| C takes potato chip from the sachet with his right hand. | C puts the potato chip into the frying pan with his right hand. | C takes potato chip from the sachet with his right hand. | C puts the potato chip into the frying pan with his right hand. | C takes potato chip from the sachet with his right hand. | C puts the potato chip into the frying pan with his right hand. | C picks the chopsticks from the frying pan with his right hand| C stirs the pieces of meat in the frying pan with the chopsticks in his right hand| C drops the chopsticks in the frying pan with his right hand| C takes potato chip from the sachet with his right hand. | C puts the potato chip into the frying pan with his right hand. | C seals the sachet with his right hand| C opens the drawer with his left hand| C drops the sachet in the drawer with his right hand| C closes the drawer with his left hand| C picks the chopsticks from the frying pan with his right hand| C stirs the pieces of meat in the frying pan with the chopsticks in his right hand| C holds the handle of the frying pan with his left hand| C removes a piece of tissue paper with his right hand| C adjusts the piece of tissue paper with his hands| C passes the tissue paper from his left hand to the chopsticks in his right hand| C inserts the tissue paper into the frying pan with the chopsticks in his right hand| C holds the handle of the frying pan with his left hand| C removes the tissue paper from the frying pan with the chopsticks in his right hand| C drops the tissue paper in the polythene in the sink with the chopsticks in his right hand",
+        "end_frame_info": [
+            {
+                "category": "bag",
+                "description": "green translucent plastic bag",
+                "relation": [
+                    "bag in kitchen sink"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "blue plastic bottle with a black pump dispenser",
+                "relation": [
+                    "bottle on sink counter",
+                    "bottle next to faucet"
+                ]
+            },
+            {
+                "category": "chopsticks",
+                "description": "pair of wooden chopsticks",
+                "relation": [
+                    "chopsticks above pan",
+                    "chopsticks held by hand"
+                ]
+            },
+            {
+                "category": "basket",
+                "description": "white plastic basket with compartments",
+                "relation": [
+                    "basket on counter",
+                    "basket next to kitchen sink"
+                ]
+            },
+            {
+                "category": "cup",
+                "description": "yellow plastic cup with a blue handle",
+                "relation": [
+                    "cup in container"
+                ]
+            },
+            {
+                "category": "drain",
+                "description": "circular black sink drain with a metallic rim",
+                "relation": [
+                    "drain in kitchen sink"
+                ]
+            },
+            {
+                "category": "exhaust hood",
+                "description": "metallic exhaust hood with horizontal slats",
+                "relation": [
+                    "exhaust hood above kitchen sink"
+                ]
+            },
+            {
+                "category": "faucet",
+                "description": "metallic faucet with a lever handle",
+                "relation": [
+                    "faucet above kitchen sink",
+                    "faucet next to bottle"
+                ]
+            },
+            {
+                "category": "foam",
+                "description": "white foamy substance, possibly from soap or cleaning",
+                "relation": [
+                    "foam in kitchen sink"
+                ]
+            },
+            {
+                "category": "kitchen sink",
+                "description": "stainless steel sink with a circular drain",
+                "relation": [
+                    "kitchen sink on counter"
+                ]
+            },
+            {
+                "category": "pan",
+                "description": "black round pan",
+                "relation": [
+                    "pan on stove",
+                    "pan next to kitchen sink"
+                ]
+            },
+            {
+                "category": "sponge",
+                "description": "green rectangular sponge",
+                "relation": [
+                    "sponge on sink counter",
+                    "sponge next to faucet"
+                ]
+            },
+            {
+                "category": "stove",
+                "description": "black stove",
+                "relation": [
+                    "stove next to kitchen sink"
+                ]
+            },
+            {
+                "category": "water",
+                "description": "water",
+                "relation": [
+                    "water in kitchen sink"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "c78b3440-fe85-41b5-84c8-ae4f49c8c0ac-start.jpg",
+        "atomic_actions": " C picks a tray.| C drops the tray on a counter.| C turns around.| C opens a fridge.| C picks a leek from the fridge.| C closes the fridge.| C removes a nylon from the leek.| C folds the nylon.| C drops the nylon on the counter.| C opens a tap.| C washes the leek.| C closes the tap.| C drops the leek on the tray.| C wipes her hand with a napkin.| C opens a cabinet.| C picks a knife from the cabinet.| C holds the leek.| C cuts the leek with the knife.| C sweeps the leek together with the knife.| C cuts the leek with the knife.| C sweeps the leek together with the knife.| C cuts the leek with the knife.| C sweeps the leek together with the knife.| C wipes the leek off the knife with her hand.| C cuts the leek with the knife.| C moves the leek on the tray.| C cuts the leek with the knife.| C sweeps the leek together with the knife.| C wipes the leek off the knife with her hand.| C moves the leek on the tray.| C cuts the leek with the knife.| C wipes the leek off the knife with her hand.| C holds the leek.| C sweeps the leek together with the knife.| C wipes the leek off the knife with her hand.| C cuts the leek with the knife.| C wipes the leek off the knife with her hand.| C cuts the leek with the knife.| C sweeps the leek together with the knife.| C wipes the leek off the knife with her hand.| C moves the tray.| C drops the knife.| C opens a drawer.| C picks a pack from the fridge.| C drops the pack on the counter.| C picks a jar of salt.| C drops the jar of salt.| C picks a jar of sugar.| C drops the jar of sugar.| C unhook the lid.| C opens the jar.| C dips her into the sugar.| C puts her hand in her mouth.| C closes the jar of sugar.| C picks the jar of salt.| C drops the jar of salt on the rack.| C moves the jar of sugar.| C picks a bottle from the rack.| C drops the bottle.| C opens the tap.| C washes her hand.| C closes the tap.| C wipes her hand with the napkin.| C opens a drawer.| C closes the drawer.| C touches a plate.| C carries a pan from the rack.| C touches the sugar jar.| C drops the pan on the cooker| C carries the sugar jar.| C moves a plate.| C picks a plate from the rack.| C packs the leeks with her right hand.| C pours the leeks into the plate.| C packs the leeks with her right hand.| C pours the leeks into the plate.| C moves the knife.| C packs the leeks with her right hand.| C pours the leeks into the plate.| C packs the leeks with her right hand.| C pours the leeks into the plate.| C packs the leeks with her right hand.| C pours the leeks into the plate.| C drops the plate on the tray.| C wipes her hand with the napkin.| C swipes a phone with her right hand.| C wipes her right hand with the napkin.| C opens the sugar jar.| C picks a spoon from the sugar jar.| C scoops some sugar with the spoon.| C pours the sugar in the leek.| C scoops some sugar with the spoon.| C pours the sugar in the leek.| C drops the spoon in the sugar.| C covers the sugar jar.| C clips the lid.| C carries the sugar jar.| C drops the sugar jar on the rack.| C picks the pack on the counter| C adjusts the pack.| C tears the pack.| C opens the pack.| C opens a drawer.| C picks a spoon from the drawer.| C scoops some seasoning from the pack with the spoon.| C pours the seasoning into a plate of leek.| C closes the sachet.| C drops the sachet on the counter.| C picks a bottle of oil.| C opens the bottle of oil.| C pours the oil into a spoon.",
+        "end_frame_info": [
+            {
+                "category": "bottle",
+                "description": "transparent plastic bottle",
+                "relation": [
+                    "bottle over bowl"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "dark glass bottle",
+                "relation": [
+                    "bottle on kitchen counter"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "green glass bottle",
+                "relation": [
+                    "bottle on kitchen counter"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "blue glass bottle",
+                "relation": [
+                    "bottle on kitchen counter"
+                ]
+            },
+            {
+                "category": "kitchen counter",
+                "description": "granite kitchen counter with speckled gray and white pattern",
+                "relation": [
+                    "kitchen counter under sink",
+                    "kitchen counter under induction cooktop",
+                    "kitchen counter under dish rack"
+                ]
+            },
+            {
+                "category": "kitchen sink",
+                "description": "stainless steel sink, clean and empty",
+                "relation": [
+                    "kitchen sink in kitchen counter"
+                ]
+            },
+            {
+                "category": "leek",
+                "description": "green leek stalks",
+                "relation": [
+                    "leek on cutting board"
+                ]
+            },
+            {
+                "category": "pan",
+                "description": "black non-stick frying pan with a long handle",
+                "relation": [
+                    "pan on induction cooktop"
+                ]
+            },
+            {
+                "category": "person",
+                "description": "person wearing a gray t-shirt",
+                "relation": [
+                    "person holding bottle",
+                    "person holding spoon",
+                    "person standing on floor"
+                ]
+            },
+            {
+                "category": "phone",
+                "description": "white smartphone",
+                "relation": [
+                    "phone on kitchen counter"
+                ]
+            },
+            {
+                "category": "plate",
+                "description": "white rectangular plate",
+                "relation": [
+                    "plate on kitchen counter",
+                    "bowl on plate"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "clear glass bowl",
+                "relation": [
+                    "bowl on plate",
+                    "bowl under spoon"
+                ]
+            },
+            {
+                "category": "spoon",
+                "description": "metal spoon with black handle",
+                "relation": [
+                    "spoon in bowl",
+                    "spoon held by person"
+                ]
+            },
+            {
+                "category": "knife",
+                "description": "metal knife with black handle",
+                "relation": [
+                    "knife on kitchen counter",
+                    "knife next to plate"
+                ]
+            },
+            {
+                "category": "induction cooktop",
+                "description": "black induction cooktop with control panel, rectangular shape, smooth surface",
+                "relation": [
+                    "induction cooktop on kitchen counter",
+                    "pan on induction cooktop"
+                ]
+            },
+            {
+                "category": "dish rack",
+                "description": "metal wire dish rack",
+                "relation": [
+                    "dish rack on kitchen counter",
+                    "dish rack next to sink"
+                ]
+            },
+            {
+                "category": "chopsticks",
+                "description": "wooden chopsticks with light brown color",
+                "relation": [
+                    "chopsticks in dish rack"
+                ]
+            },
+            {
+                "category": "wine glass",
+                "description": "clear glass wine glass with a long stem",
+                "relation": [
+                    "wine glass in dish rack"
+                ]
+            },
+            {
+                "category": "packet",
+                "description": "yellow and white food packet with Japanese text and images",
+                "relation": [
+                    "packet on kitchen counter",
+                    "packet next to plate"
+                ]
+            },
+            {
+                "category": "sponge",
+                "description": "green and yellow sponge with a textured surface",
+                "relation": [
+                    "sponge next to sink"
+                ]
+            },
+            {
+                "category": "soap dispenser",
+                "description": "white plastic soap dispenser with a pump top",
+                "relation": [
+                    "soap dispenser next to sink"
+                ]
+            },
+            {
+                "category": "flower",
+                "description": "artificial white flowers with green leaves",
+                "relation": [
+                    "flower next to sink"
+                ]
+            },
+            {
+                "category": "towel",
+                "description": "gray towel",
+                "relation": [
+                    "towel on person"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "1f5de21d-7c83-4e72-8e2e-ff8975dcc665-start.jpg",
+        "atomic_actions": " C moves an iced cheese on the table with his left hand. #Unsure| C picks a tray on a side of the table with his hands.| C places the tray on the table.| C opens the nylon in the tray with his hands.| C takes some veggies in the nylon with his hands.| C spreads the veggies in his hands on the cheese on a baking board. #Unsure| C takes some veggies in the nylon with his hands.| C spreads the veggies in his hands on the cheese on the baking board. #Unsure| C picks a paper towel on the table with his right hand.| C cleans his hands with the paper towel in his hands.| C drops the paper towel in his right hand on the table.| C picks a container on a cabinet with his right hand.| C takes some salt in the container with his right hand.| C pours the salt in his right hand on the cheese on the baking board.| C takes some salt in the container with his right hand.| C pours the salt in his right hand on the cheese on the baking board.| C places the container on cabinet with his right hand.| C picks the tray on the table with his hands.| C moves a rolling stick on the table with his right hand.| C places the tray on the table.| C pucks a tray on the table with his right hand.| C places the tray on the table.| C opens the nylon on the tray with his hands.| C moves the tray on the table with his hands.| C moves the broccoli in the tray with his hands.| C takes some broccoli in the tray with his hands.| C spreads the broccoli in his hands on the cheese on a baking board. #Unsure| C takes some broccoli in the tray with his hands.| C spreads the broccoli in his hands on the cheese on a baking board. #Unsure| C closes the tray with the nylon on the table.| C moves the tray to a side of the table with his hands.| C moves a container on the table with his hands.| C places the cover of the container on the table.| C opens the container with his right hand.| C takes some berries in the container with his right hand. #Unsure| C spreads the berries in his hands on the cheese on the baking board. #Unsure| C takes some berries in the container with his right hand. #Unsure| C spreads the berries in his hands on the cheese on the baking board. #Unsure| C moves the berries on the cheese with his right hand. #Unsure| C takes some berries in the container with his right hand. #Unsure| C spreads the berries in his hands on the cheese on the baking board. #Unsure| C moves the berries on the cheese with his right hand. #Unsure| C picks the paper towel on the table with his right hand.| C cleans his hands with the paper towel in his hands.| C picks the cover of the container on the table with his right hand.| C drops the paper towel on the table.| C covers the container on the table.| C places the container on the tray by the side of the table.| C picks another container on the table with his ha hands.| C stirs the tomato paste with a spoon in his right hand.| C scoops some tomato paste with the spoon in his right hand.| C spreads the tomato paste in the spoon on the cheese on the baking board. #Unsure| C scoops some tomato paste with the spoon in his right hand.| C spreads the tomato paste in the spoon on the cheese on the baking board. #Unsure| C scoops some tomato paste with the spoon in his right hand.| C spreads the tomato paste in the spoon on the cheese on the other baking board. #Unsure| C scoops some tomato paste with the spoon in his right hand.| C spreads the tomato paste in the spoon on the cheese on the other baking board. #Unsure| C drops the spoon in the container.| C moves the container on the table with his hands| C moves the iced cheese on the table with his right hand. #Unsure| C picks a bottle on the table with his left hand.| C opens the bottle in his hands.| C drops the cover of the bottle in his left hand on the table.| C pours some oil from the bottle on the cheese. #Unsure| C pours some oil from the bottle on the cheese on the other baking board. #Unsure| C places the bottle on the table.| C moves to side of the bakery.| man X moves some baking tools on the table. #Unsure| C picks a baking peel beside a trolley with his left hand.| C opens an oven with the baking peel.| C inserts the baking peel into the oven with his right hand.| C brings out some bread from the oven with the baking peel. #Unsure| C pours the bread in the baking peel into a basket. #Unsure| C inserts the baking peel into the oven with his right hand.| C brings out some bread from the oven with the baking peel. #Unsure| C picks a bread in the baking peel with his right hand. #Unsure| C places the bread on a tray. #Unsure| C pours the bread in the baking peel into the basket. #Unsure| C inserts the baking peel into the oven with his right hand.| C brings out some bread from the oven with the baking peel. #Unsure| C pours the bread in the baking peel into the basket. #Unsure| C inserts the baking peel into the oven with his right hand.| C brings out some bread from the oven with the baking peel. #Unsure| C pours the bread in the baking peel into the basket. #Unsure| C inserts the baking peel into the oven with his right hand.| C brings out some bread from the oven with the baking peel. #Unsure| C pours the bread in the baking peel into the basket. #Unsure| C inserts the baking peel into the oven with his right hand.| C brings out some bread from the oven with the baking peel. #Unsure| C pours the bread in the baking peel into the basket. #Unsure| C inserts the baking peel into the oven with his right hand.| C brings out some bread from the oven with the baking peel. #Unsure| C pours the bread in the baking peel into the basket. #Unsure| C drops the baking peel by the wall.| C picks a brush.by the wall with his right hand.| C inserts the brush into the oven.| C cleans the oven with the brush.| C closes the oven with the brush.| C places the brush by the wall.| C picks the cover of the bottle with his left hand.| C holds the bottle with his right hand.| C covers the bottle.| C places the bottle by the side of the table.| C moves a dough on the table with his right hand.| C moves the scraper on the table with his right hand.| C moves the dough on the table with his left hand.| C moves the dough on the table with his hands.| C spreads the flour on the table with his right hand.| C moves the scraper on the table with his right hand.| C moves the dough on the table with his hands.| C takes some flour on the table with his right hand.| C pours the flour in his right hand on the dough.| C picks a rolling stick with his right hand.| C moves a container on the table with his left hand.| C kneads the dough with the rolling stick.| C drops the rolling stick on the table.| C spreads the dough on the table with his hands.",
+        "end_frame_info": [
+            {
+                "category": "kitchen counter",
+                "description": "large stainless steel kitchen counter, appearing busy and used",
+                "relation": [
+                    "kitchen counter under dough",
+                    "kitchen counter under rolling pin",
+                    "kitchen counter under scraper",
+                    "kitchen counter under container",
+                    "kitchen counter under butter",
+                    "kitchen counter under sauce bucket",
+                    "kitchen counter under cutting board",
+                    "kitchen counter under dough ball"
+                ]
+            },
+            {
+                "category": "dough",
+                "description": "large rectangular piece of pale yellow dough, smooth and flat",
+                "relation": [
+                    "dough on kitchen counter",
+                    "dough under hands"
+                ]
+            },
+            {
+                "category": "dough",
+                "description": "round, light brown dough ball with a slightly rough, risen texture",
+                "relation": [
+                    "dough on kitchen counter"
+                ]
+            },
+            {
+                "category": "glove",
+                "description": "blue latex glove, smooth and slightly shiny",
+                "relation": [
+                    "glove on dough",
+                    "glove on left hand"
+                ]
+            },
+            {
+                "category": "glove",
+                "description": "blue latex glove, smooth and slightly shiny",
+                "relation": [
+                    "glove on dough",
+                    "glove on right hand"
+                ]
+            },
+            {
+                "category": "rolling pin",
+                "description": "wooden rolling pin with a smooth, cylindrical shape and a slightly tapered end",
+                "relation": [
+                    "rolling pin on kitchen counter",
+                    "rolling pin next to dough"
+                ]
+            },
+            {
+                "category": "scraper",
+                "description": "rectangular metal dough scraper with a wooden handle",
+                "relation": [
+                    "scraper on kitchen counter",
+                    "scraper next to dough ball"
+                ]
+            },
+            {
+                "category": "butter",
+                "description": "large block of pale yellow butter, with a smooth, solid texture",
+                "relation": [
+                    "butter on kitchen counter",
+                    "butter next to sauce bucket"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "white plastic container",
+                "relation": [
+                    "container on kitchen counter",
+                    "container next to butter"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "white plastic container",
+                "relation": [
+                    "container on kitchen counter",
+                    "container next to cutting board"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "large white plastic container with red and black text, partially filled",
+                "relation": [
+                    "container on kitchen counter",
+                    "container next to butter"
+                ]
+            },
+            {
+                "category": "cutting board",
+                "description": "rectangular wooden cutting board with a rough, worn surface",
+                "relation": [
+                    "cutting board on kitchen counter",
+                    "cutting board next to rolling pin"
+                ]
+            },
+            {
+                "category": "flour",
+                "description": "white powdery flour",
+                "relation": [
+                    "flour on kitchen counter",
+                    "flour under dough",
+                    "flour under rolling pin",
+                    "flour under scraper"
+                ]
+            },
+            {
+                "category": "cheese",
+                "description": "cubed white cheese pieces",
+                "relation": [
+                    "cheese on cutting board",
+                    "cheese on pizza"
+                ]
+            },
+            {
+                "category": "olive",
+                "description": "small dark purple olives",
+                "relation": [
+                    "olive on cutting board",
+                    "olive on pizza"
+                ]
+            },
+            {
+                "category": "vegetable",
+                "description": "chopped green leafy vegetables",
+                "relation": [
+                    "vegetable on cutting board",
+                    "vegetable on pizza"
+                ]
+            },
+            {
+                "category": "spoon",
+                "description": "metal spoon",
+                "relation": [
+                    "spoon in sauce bucket"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "iiith_cooking_124_4-start.jpg",
+        "atomic_actions": "C picks an onion from a chopping board with his left hand.|C peels the onion in his left hand with his right hand.|C drops the onion peel on the countertop with his right hand.|C places the onion on the chopping board with his left hand.|C slices the onion on the chopping board with the knife in his right hand.|C adjusts the onions on the chopping board with his left hand.|C gathers the onions on the chopping board with the knife in his right hand.|C dices the onions on the chopping board with the knife in his right hand.|C holds the onions on the chopping board with his left hand.|C dices the onions on the chopping board with the knife in his right hand.|C gathers the onions on the chopping board with the knife in his right hand.|C holds the onions on the chopping board with his left hand.|C picks a green pea from a bowl on the countertop with his left hand.|C cuts the green peas in his left hand with his right hand.|C drops the green peas on the chopping board with his right hand.|C places the green peas on the chopping board with his left hand.|C slices the green peas on the chopping board with the knife in his right hand.|C places the knife on the chopping board with his right hand.|C picks a spoon from a bowl with his right hand.|C picks an egg from the egg crate on the countertop with his left hand.|C places the egg in the egg crate with his left hand.|C picks an egg from the egg crate on the countertop with his left hand.|C hits the egg in his left hand with the spoon in his right hand.|C drops the spoon in the bowl with his right hand.|C pours egg from the egg shell into the bowl on the countertop with both hands.|C places the egg shell in his right hand into the egg shell in his left hand.|C passes the egg shell from his left hand to his right hand.|C places the egg shell on the countertop with his right hand.|C picks a napkin from the countertop with his right hand.|C wipes his hands with the napkin his right hand.|C drops the napkin on the countertop with his right hand.|C picks a spoon of chili pepper from a chili pepper container with his right hand.|C picks a bowl of egg from the countertop with his left hand.|C pours chili pepper from the spoon in his right hand into the bowl of egg in his left hand.|C scoops chili pepper from the chili pepper container with the spoon in his right hand.|C pours chili pepper from the spoon in his right hand into the bowl of egg in his left hand.|C drops the spoon in the chili pepper container with his right hand.|C places the bowl of egg on the countertop with his left hand.|C opens the lid of a salt container on the countertop with his right hand.|C picks the salt container from the countertop with his left hand.|C places the lid of the salt container on the countertop with his right hand.|C picks a spoon from the salt container in his left hand with his right hand.|C scoops salt from the salt container in his left hand with the spoon in his right hand.|C pours salt from the spoon in his right hand into the bowl of egg on the countertop.|C drops the spoon in the salt container with his right hand.|C picks the lid of the salt container from the countertop with his right hand.|C closes the lid of the salt container in his left hand with his right hand.|C places the salt container on the countertop with his left hand.|C opens the cabinet with his right hand.|C passes the cabinet door from his right hand to his left hand.|C picks the chili pepper container from the countertop with his right hand.|C picks the salt container from the countertop with his left hand.|C places the chili pepper container in the cabinet with his right hand.|C places the salt container in the cabinet with his left hand.|C closes the cabinet with both hands.|C holds the spoon in the bowl of egg mixture with his right hand.|C picks the egg bowl from the countertop with his left hand.|C whisks the egg mixture in the bowl with the spoon in his right hand.|C places the bowl of egg on the countertop with his left hand.|C places the spoon in the bowl of egg mixture with his right hand.|C picks a cap from the stainless steel bowl on the countertop with his right hand.| C passes the cap from his right hand to his left hand.|C picks a scoop of oil from the stainless steel bowl on the countertop with his right hand.|C pours oil from the scoop in his right hand unto a skillet on a gas cooker.|C places the scoop in the stainless steel bowl on the countertop with his right hand.|C places the cap on the stainless steel bowl with his left hand.|C adjusts the onions on the chopping board with his right hand.|C moves onions from the chopping board into his right hand.|C adjusts the knob of the gas cooker with his left hand.|C pours onions in the skillet with his right hand.|C picks a spatula from the gas cooker with his right hand.|C stirs the onions in the skillet with the spatula in his right hand.|C adjusts the knob of the gas cooker with his left hand.|C places the spatula on the gas cooker with his right hand.|C holds the spoon in the bowl of egg mixture with his right hand.|C picks the egg bowl from the countertop with his left hand.|C whisks the egg mixture in the bowl with the spoon in his right hand.|C places the spoon in the bowl of egg mixture with his right hand.|C passes the bowl of egg from his left hand to his right hand.|C pours egg mixture from the bowl in his right hand into the skillet on the gas cooker.|C places the bowl on the countertop with his right hand.|C picks the skillet from the gas cooker with his left hand.|C picks the spatula from the gas cooker with his right hand.|C tilts the skillet on the gas cooker with his left hand.|C places the spatula on the ags cooker with his right hand.|C places the skillet on the gas cooker with his left hand.|C adjusts a plate of egg on the countertop with his left hand.|C picks a spatula from the gas cooker with his right hand.|C holds the skillet handle with his left hand.|C moves the omelet in the skillet with the spatula in his right hand.|C adjusts the knob of the gas cooker with his left hand. |C drops omelet in the skillet with the spatula in his right hand.|C holds the skillet handle with his left hand.|C moves the omelet in skillet with the spatula in his right hand.|C adjusts the skillet on the gas cooker with his left hand.|C flips the omelet in the skillet with the spatula in his right hand.|C taps the omelet in the skillet with the spatula in his right hand.|C places the spatula on the gas cooker with his right hand.|C holds the skillet handle with his left hand.|C picks the spatula from the gas cooker with his right hand.|C taps the omelet in the skillet with the spatula in his right hand.|C places the spatula on the gas cooker with his right hand.|C moves the bowl on the countertop with his left hand.|C picks the plate of egg from the countertop with his right hand.|C places the plate of egg on the countertop with his right hand.|C picks the chopping board from the countertop with his left hand.|C moves the napkin on the countertop with his right hand.|C places the chopping board on the countertop with his left hand.|C picks the napkin from the countertop with his right hand.|C wipes his hands with the napkin in his right hand.|C drops the napkin on the countertop with his right hand.|C moves the egg shells on the countertop with his right hand.|C moves the egg shell on the countertop with his left hand.|C picks the napkin from the countertop with his right hand.|C wipes his hands with the napkin in his right hand.|C drops the napkin on the countertop with his right hand.|C picks the spatula from the gas cooker with his right hand.|C holds the skillet handle with his left hand.|C picks the omelet from the skillet with the spatula in his right hand.|C folds the omelet in the skillet with the spatula in his right hand.|C picks the omelet from the skillet with the spatula in his right hand.|C picks the skillet from the gas cooker with his left hand.|C places the skillet on the gas cooker with his left hand.|C turns the knob of the gas cooker with his left hand.|C places the omelet on the plate of egg with the spatula in his right hand.",
+        "end_frame_info": [
+            {
+                "category": "bowl",
+                "description": "small round pink plastic bowl with a smooth surface",
+                "relation": [
+                    "bowl on countertop",
+                    "bowl next to tripod"
+                ]
+            },
+            {
+                "category": "bowl",
+                "description": "small round white plastic bowl with a smooth surface",
+                "relation": [
+                    "bowl on countertop",
+                    "bowl next to green container"
+                ]
+            },
+            {
+                "category": "chili",
+                "description": "small red chili pepper with a smooth, glossy surface",
+                "relation": [
+                    "chili on countertop",
+                    "chili next to stove"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "small round pink plastic container with a smooth surface",
+                "relation": [
+                    "container on countertop",
+                    "container next to tripod"
+                ]
+            },
+            {
+                "category": "container",
+                "description": "small round white plastic container with a smooth surface",
+                "relation": [
+                    "container on countertop",
+                    "container next to green container"
+                ]
+            },
+            {
+                "category": "countertop",
+                "description": "dark speckled granite countertop with a smooth, polished surface",
+                "relation": [
+                    "countertop under bowls",
+                    "countertop under stove",
+                    "countertop under tripod"
+                ]
+            },
+            {
+                "category": "door",
+                "description": "blue cabinet door with a smooth, glossy finish",
+                "relation": [
+                    "door under countertop",
+                    "door below blue cabinet"
+                ]
+            },
+            {
+                "category": "egg",
+                "description": "white oval-shaped egg with a smooth shell",
+                "relation": [
+                    "egg in green egg tray",
+                    "egg next to plate"
+                ]
+            },
+            {
+                "category": "gas",
+                "description": "silver metallic gas stove burner with a black grate and control knob",
+                "relation": [
+                    "gas on stove",
+                    "gas next to chili"
+                ]
+            },
+            {
+                "category": "kitchen",
+                "description": "kitchen with blue cabinets, tiled backsplash, and dark countertop",
+                "relation": [
+                    "kitchen contains countertop",
+                    "kitchen contains stove",
+                    "kitchen contains tripod"
+                ]
+            },
+            {
+                "category": "knife",
+                "description": "metal knife with a black handle",
+                "relation": [
+                    "knife on countertop",
+                    "knife next to stove"
+                ]
+            },
+            {
+                "category": "knob",
+                "description": "black plastic stove knob with a textured surface",
+                "relation": [
+                    "knob on stove",
+                    "knob next to gas burner"
+                ]
+            },
+            {
+                "category": "omelet",
+                "description": "golden-brown omelet with a fluffy texture",
+                "relation": [
+                    "omelet on plate",
+                    "omelet being lifted by spatula"
+                ]
+            },
+            {
+                "category": "pea",
+                "description": "small green pea with a smooth, glossy surface",
+                "relation": [
+                    "pea on countertop",
+                    "pea next to plate"
+                ]
+            },
+            {
+                "category": "plate",
+                "description": "white ceramic plate with a smooth surface",
+                "relation": [
+                    "plate on countertop",
+                    "plate under omelet",
+                    "plate next to green egg tray"
+                ]
+            },
+            {
+                "category": "pot",
+                "description": "small white plastic pot with a smooth surface",
+                "relation": [
+                    "pot on countertop",
+                    "pot next to green container"
+                ]
+            },
+            {
+                "category": "shell",
+                "description": "white eggshell fragment with a smooth, curved surface",
+                "relation": [
+                    "shell on countertop",
+                    "shell next to plate"
+                ]
+            },
+            {
+                "category": "spatula",
+                "description": "metal spatula with a black handle",
+                "relation": [
+                    "spatula on omelet",
+                    "spatula held by person"
+                ]
+            },
+            {
+                "category": "stove",
+                "description": "silver metallic gas stove with a black grate and control knob",
+                "relation": [
+                    "stove on countertop",
+                    "stove next to chili",
+                    "stove under gas burner"
+                ]
+            },
+            {
+                "category": "tile wall",
+                "description": "wall with square tiles in beige and brown tones",
+                "relation": [
+                    "tile wall behind countertop",
+                    "tile wall behind tripod"
+                ]
+            },
+            {
+                "category": "tripod",
+                "description": "black metal tripod with three legs",
+                "relation": [
+                    "tripod on countertop",
+                    "tripod next to pink bowl",
+                    "tripod behind camera"
+                ]
+            },
+            {
+                "category": "camera",
+                "description": "black digital camera, with visible lens and body",
+                "relation": [
+                    "camera on tripod",
+                    "camera facing countertop"
+                ]
+            },
+            {
+                "category": "person",
+                "description": "person's arm and hand wearing a silver bracelet",
+                "relation": [
+                    "person holding spatula",
+                    "person next to countertop"
+                ]
+            },
+            {
+                "category": "egg tray",
+                "description": "green plastic egg tray with multiple compartments",
+                "relation": [
+                    "egg tray on countertop",
+                    "egg tray next to plate",
+                    "egg tray holding eggs"
+                ]
+            },
+            {
+                "category": "cabinet",
+                "description": "blue overhead cabinet with a smooth, glossy finish",
+                "relation": [
+                    "cabinet above countertop",
+                    "cabinet above tile wall"
+                ]
+            },
+            {
+                "category": "food",
+                "description": "scrambled or fried egg mixture, golden-brown and textured",
+                "relation": [
+                    "food on plate",
+                    "food being lifted by spatula"
+                ]
+            },
+            {
+                "category": "bracelet",
+                "description": "silver-colored metal bracelet ",
+                "relation": [
+                    "bracelet on person's wrist",
+                    "bracelet next to spatula"
+                ]
+            }
+        ]
+    },
+    {
+        "start_frame": "e6595a30-d78f-40db-a112-51252d767595-start.jpg",
+        "atomic_actions": " C opens the electric kettle.| C turns on the tap.| C takes water in the electric kettle from the tap.| C turns off the tap.| C presses a button from a device on the kitchen cabinet.| C drops the electric kettle on the electric kettle base on a box.| C takes the electric kettle cover from the kitchen cabinet.| C covers the electric kettle with the cover.| C takes a bowl from the pressure cooker. | C drops the bowl on the kitchen cabinet.| C opens the drawer underneath the kitchen cabinet.| C brings out a small cup full of rice. | C pours the rice in the bowl on the kitchen cabinet.| C brings out another small cup full of rice. | C pours the rice in the bowl on the kitchen cabinet.| C drops the the small cup in the drawer.| C closes the drawer.| C picks up the bowl on the kitchen cabinet.| C adjusts the device on the kitchen cabinet.| C turns on the tap.| C rinses her hand with the tap water.| C take water with the bowl from the tap.| C turns off the tap.| C rinses the rice in bowl with bowl.| C pours the water in the bowl away.| C turns on the tap.| C takes water in the bowl from the tap.| C turns off the tap.| C rinses the rice in bowl with bowl.| C pours the water in the bowl away.| C turns on the tap.| C takes water in the bowl from the tap.| C turns off the tap.| C rinses the rice in bowl with bowl.| C pours the water in the bowl away.| C turns on the tap.| C takes water in the bowl from the tap.| C turns off the tap.| C rinses the rice in bowl with bowl.| C pours the water in the bowl away.| C turns on the tap.| C takes water in the bowl from the tap.| C turns off the tap.| C drops the bowl on the kitchen cabinet.| C dusts her hands.| C takes a towel underneath the drawer on the wall.| C cleans her hand with the towel.| C picks up the bowl from the kitchen cabinet.| C cleans the bowl with the towel.| C puts the bowl inside the pressure cooker. | C touches the electric kettle.| C closes the pressure cooker. | C touches the electric kettle besides the pressure cooker.| C turns on the pressure cooker. | C picks up a nylon from the table.| C drops the nylon on the kitchen cabinet.| C touches the nylon on the table.| C picks up an electric kettle from the electric cooker.| C picks up a plastic from the electric cooker,| C drops a plastic bowl on a table.| C drops the electric kettle on the table.| C adjusts the nylons on the table.| C picks up some nylons from the table.| C drops the nylon on the kitchen cabinet.| C picks up another nylons from the table.| C drops the nylons on the other nylons on the kitchen cabinet.| C brings out a plastic bowl from a drawer.| C drops the plastic bowl on the kitchen cabinet.| C opens the drawer underneath the kitchen cabinet.| C brings out a zipper bag from the drawer.| C opens the zipper bag| C drops the zipper bag on the kitchen cabinet.| C take a nylon from the kitchen cabinet.| C removes the nylon with her hands.| C removes the vegetable in the nylon.| C drops the vegetable in the sink.| C take another nylon from the kitchen cabinet.| C removes the nylon with her hands.| C removes the vegetable in the nylon.| C drops the vegetable in the sink.| C take another nylon from the kitchen cabinet.| C removes the nylon with her hands.| C removes the vegetable in the nylon.| C drops the vegetable in the sink.| C touches another nylon on the kitchen cabinet.| C packs the empty nylon on the kitchen cabinet.| C folds the nylon together| C take another nylon from the kitchen cabinet.| C opens the mouth of the nylon.| C drops the nylon on the kitchen cabinet.| C drops the empty nylon in her hands in the middle of nylons on the kitchen cabinet.| C adjusts the bowl on the kitchen cabinet.| C turns on the tap.| C rinses the vegetable in the sink with the tap water| C adjusts the vegetable in the sink.| C rinses the vegetable in the sink with the tap water| C moves the bowl on the kitchen cabinet.| C drops some vegetable on the kitchen cabinet| C rinses the vegetable in the sink with the tap water| C drops another vegetable on the kitchen cabinet.| C rinses the vegetable in the sink with the tap water| C drops the vegetable on the kitchen sink.| C rinses the vegetable in the kitchen sink.",
+        "end_frame_info": [
+            {
+                "category": "kitchen sink",
+                "description": "stainless steel sink with a drain",
+                "relation": [
+                    "kitchen sink on countertop"
+                ]
+            },
+            {
+                "category": "faucet",
+                "description": "white plastic kitchen faucet with a flexible hose and a cylindrical handle",
+                "relation": [
+                    "faucet on kitchen sink",
+                    "faucet spraying water"
+                ]
+            },
+            {
+                "category": "drain",
+                "description": "circular metal drain with a mesh cover",
+                "relation": [
+                    "drain in kitchen sink"
+                ]
+            },
+            {
+                "category": "vegetable",
+                "description": "green leafy vegetable",
+                "relation": [
+                    "vegetable in kitchen sink",
+                    "vegetable under faucet"
+                ]
+            },
+            {
+                "category": "vegetable",
+                "description": "green leafy vegetable with a slightly crinkled texture",
+                "relation": [
+                    "vegetable on countertop",
+                    "vegetable next to kitchen sink"
+                ]
+            },
+            {
+                "category": "vegetable",
+                "description": "bundle of green leafy vegetables",
+                "relation": [
+                    "vegetable on countertop",
+                    "vegetable next to kitchen sink"
+                ]
+            },
+            {
+                "category": "person",
+                "description": "person wearing a light-colored t-shirt with a red circular logo and black text",
+                "relation": [
+                    "person washing vegetable",
+                    "person standing in front of kitchen sink"
+                ]
+            },
+            {
+                "category": "countertop",
+                "description": "wooden countertop with a light brown finish",
+                "relation": [
+                    "countertop under kitchen sink",
+                    "countertop holding vegetables"
+                ]
+            },
+            {
+                "category": "water",
+                "description": "clear water",
+                "relation": [
+                    "water in kitchen sink",
+                    "water from faucet"
+                ]
+            },
+            {
+                "category": "towel",
+                "description": "white cloth towel with blue stripes, folded",
+                "relation": [
+                    "towel on kitchen sink"
+                ]
+            },
+            {
+                "category": "spice rack",
+                "description": "white plastic spice rack",
+                "relation": [
+                    "spice rack next to kitchen sink",
+                    "spice rack on wall"
+                ]
+            },
+            {
+                "category": "bottle",
+                "description": "clear glass bottle",
+                "relation": [
+                    "bottle in spice rack"
+                ]
+            },
+            {
+                "category": "bag",
+                "description": "transparent plastic bag",
+                "relation": [
+                    "bag on countertop",
+                    "bag next to kitchen sink"
+                ]
+            },
+            {
+                "category": "wall",
+                "description": "white tiled wall with a smooth surface",
+                "relation": [
+                    "wall behind kitchen sink"
+                ]
+            },
+            {
+                "category": "detergent bottle",
+                "description": "green-capped plastic bottle",
+                "relation": [
+                    "detergent bottle on kitchen sink"
+                ]
+            },
+            {
+                "category": "board",
+                "description": "white plastic cutting board with a textured surface",
+                "relation": [
+                    "board on countertop",
+                    "board next to kitchen sink"
+                ]
+            },
+            {
+                "category": "food",
+                "description": "yellow and red packaged food item with Japanese text",
+                "relation": [
+                    "food on countertop"
+                ]
+            }
+        ]
+    }
+]
