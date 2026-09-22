@@ -131,6 +131,7 @@ def construct_messages(sample, infer_strategy, segment_num, rollout="single-roll
 
     elif infer_startegy == "my-strategy":
         # prompt built in run_model
+        pass
     else:
         raise ValueError(f"unsupported infer_strategy: {infer_strategy}")
 
