@@ -1,0 +1,18 @@
+{
+  "object coverage": {
+    "mean": 44.45053854119494,
+    "error": 0.0
+  },
+  "attribute score": {
+    "mean": 1.1385211068028407,
+    "error": 0.0
+  },
+  "relation score": {
+    "mean": 1.8621572334600696,
+    "error": 0.0
+  },
+  "Unified score": {
+    "mean": 33.97954025059918,
+    "error": 0.0
+  }
+}

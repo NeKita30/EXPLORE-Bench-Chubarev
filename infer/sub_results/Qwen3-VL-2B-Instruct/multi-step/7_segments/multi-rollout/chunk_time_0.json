@@ -1,0 +1,8 @@
+{
+  "chunk_idx": 0,
+  "num_chunks": 1,
+  "elapsed_seconds": 6876.641314029694,
+  "num_samples_in_chunk": 45,
+  "infer_strategy": "multi-step",
+  "rollout": "multi-rollout"
+}
