@@ -289,6 +289,11 @@ if __name__ == "__main__":
             args.output_dir = os.path.join(args.output_dir, args.infer_strategy, args.eval_mode, args.which_scene, args.dataset_type)
         elif args.eval_mode == 'multi-scene':
             args.output_dir = os.path.join(args.output_dir, args.infer_strategy, args.eval_mode, args.dataset_type)
+    elif args.infer_strategy == "my-strategy":
+        if args.eval_mode == 'single-scene':
+            args.output_dir = os.path.join(args.output_dir, args.infer_strategy, args.eval_mode, args.which_scene, args.dataset_type)
+        elif args.eval_mode == 'multi-scene':
+            args.output_dir = os.path.join(args.output_dir, args.infer_strategy, args.eval_mode, args.dataset_type)
     print(f'final ouput dir path: {args.output_dir}')
     os.makedirs(args.output_dir, exist_ok=True)
     
