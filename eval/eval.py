@@ -259,7 +259,7 @@ if __name__ == "__main__":
     parser.add_argument("--data_num", type=int, default=-1, help="the number of data to be used for eval")
     
     # infer 参数（用于命名 output_dir）
-    parser.add_argument('--infer_strategy', type=str, default='single-step', choices=['single-step', 'multi-step'])
+    parser.add_argument('--infer_strategy', type=str, default='single-step', choices=['single-step', 'multi-step', 'my-strategy'])
     parser.add_argument('--window_size', type=int, default=0)
     parser.add_argument('--segment_num', type=int, default=1)
     parser.add_argument('--rollout', type=str, default='single-rollout', choices=['single-rollout', 'multi-rollout'])
