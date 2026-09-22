@@ -81,7 +81,8 @@ def main():
                 raise ValueError("window_size must be >= 0")
             # window_size>0: segment count is dynamic
             eval_output_path = os.path.join(args.output_path, infer_strategy, f"window_{window_size}", rollout)
-
+    elif infer_strategy == "my-strategy":
+        eval_output_path = os.path.join(args.output_path, infer_strategy)
     else:
         raise ValueError(f"unsupported infer_strategy: {infer_strategy}")
 
