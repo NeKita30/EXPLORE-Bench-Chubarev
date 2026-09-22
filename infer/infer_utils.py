@@ -129,6 +129,8 @@ def construct_messages(sample, infer_strategy, segment_num, rollout="single-roll
         else:
             raise ValueError(f"unsupported rollout: {rollout}")
 
+    elif infer_startegy == "my-strategy":
+        # prompt built in run_model
     else:
         raise ValueError(f"unsupported infer_strategy: {infer_strategy}")
 
@@ -215,6 +217,16 @@ def run_model(samples, model, save_path):
                         prev_scene = scene_text
 
                     response = rollout_scenes
+                elif infer_strategy == "my-strategy":
+                    first_prompt = my_strategy_draft_prediction_prompt.format(atomic_actions=sample["atomic_actions"])
+                    draft_description = _call_model_once(model, first_prompt, start_frame_path).strip()
+                    
+                    second_prompt = my_strategy_review_prediction_prompt.format(
+                        atomic_actions=sample["atomic_actions"],
+                        draft_description=draft_description
+                    )
+                    final_description = _call_model_once(model, second_prompt, start_frame_path).strip()
+                    response = [draft_description, final_description]
                 else:
                     raise ValueError(f"unsupported combination: {infer_strategy} + {rollout}")
 

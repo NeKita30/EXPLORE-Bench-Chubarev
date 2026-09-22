@@ -89,3 +89,59 @@ Requirements:
 
 Now write the resulting scene description as plain text in detail.
 """
+
+my_strategy_draft_prediction_prompt = """
+You are given an image showing a initial scene.
+Then, a sequence of atomic actions occurs:
+'{atomic_actions}'
+
+Notes:
+- 'C' refers to the camera wearer (the person who is wearing or holding the camera).
+- 'X' refers to someone other than the camera wearer.
+- Each atomic action description is separated by the `|` character.
+- The atomic actions happen in the given order, from left to right.
+
+Your task:
+1. Mentally apply this sequence of atomic actions to the initial scene in the image.
+2. Imagine what the final scene would look like after all actions have occurred.
+3. Describe the final scene in rich, concrete visual detail, as if you are describing the final image.
+
+Requirements:
+- Focus **only** on the final scene after all actions, not the intermediate steps.
+- Do **not** explain your reasoning or mention the actions explicitly.
+- Do **not** mention that you are imagining or predicting; just describe the final scene directly.
+- Provide rich, concrete visual detail: entities, appearances, spatial relationships, and interactions.
+- Avoid any meta-commentary (no phrases like "the image would show", "I imagine that", etc.).
+
+Now, describe the final scene in detail.
+"""
+
+my_strategy_review_prediction_prompt = """
+You are given an image showing the initial scene.
+
+Then, a sequence of atomic actions occurs:
+'{atomic_actions}'
+
+Notes:
+- 'C' refers to the camera wearer (the person who is wearing or holding the camera).
+- 'X' refers to someone other than the camera wearer.
+- Each atomic action description is separated by the `|` character.
+- The atomic actions happen in the given order, from left to right.
+
+You are also given the draft of scene state description after all actions:
+"{draft_description}"
+
+Your task:
+1. Review the scene state description draft as a result of application of actions to the initial scene.
+2. Find objects, that are missing or hallucinated in the scene state description; attributes and relations that are incorrect.
+3. Produce a correct final scene state description, fixing found errors: add missing objects and remove hallucinated ones, edit incorrect attributes and relations.
+
+Requirements:
+- Focus **only** on the final scene after all actions, not the intermediate steps.
+- Do **not** explain your reasoning or mention the actions explicitly.
+- Do **not** mention that you are imagining or predicting; describe the scene directly.
+- Provide rich, concrete visual detail: entities, appearances, spatial relationships, and interactions.
+- Avoid meta-commentary (no phrases like "the image would show", "I imagine that", etc.).
+
+Now write the resulting scene description as plain text in detail.
+"""
